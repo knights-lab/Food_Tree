@@ -14,6 +14,8 @@
 # Add data.tree
 require("data.tree")
 
+
+
 # Based on Input node, recursively generate Newick Tree
 recursiveNewickWrite <- function(node)
 {
@@ -52,4 +54,6 @@ distance<-function()
   return (1.0)
 }
 
-#print(recursiveNewickWrite(acme))
+ 
+tree <- recursiveNewickWrite(foodTree)
+

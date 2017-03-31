@@ -76,7 +76,7 @@ main.join <- left_join(main.cast, pathstring, by = "Food.code") %>%
              mutate(pathString = paste("foodcode", L1.x, L2.x, L3.x, L4.x, L5.x, Description, sep = "/"), 
                     taxonomy = paste(L1.x, L2.x, L3.x, L4.x, L5.x, Description, sep = ";"))
 
-
+# Export the the main join file
 
 
 #### Make the foodTree environment####
