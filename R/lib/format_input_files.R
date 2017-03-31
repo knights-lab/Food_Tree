@@ -1,15 +1,15 @@
 # Create the correctly formatted input file to use for making the food tree
  # - should only have to run this once on the starting file
  # - Input is a text file that contains columns with extra characters that need to be newick friendly
- # - Output is a text file with newick friendly text strings
+ # - Output is a text file with newick friendly text strings for food descriptions
+ # - columns is the name of the columns that need to be changed
+ # - Output directory must include the .txt file name
 
-
-format.file <- function(filename, columns, outdir)
+format.file <- function(filename, foodcodecolname, columns, outdir)
 {
   data0 <- read.table(filename, 
                       sep = "\t", 
-                      header = TRUE,
-                      quote = "")
+                      header = TRUE)
   
   for(i in 1:length(columns))
   {
@@ -25,18 +25,35 @@ format.file <- function(filename, columns, outdir)
     # Remove pesky apostropies
     data0[,col]<- gsub("'", '', data0[,col])
     
+    # Remove pesky percent symbols
+    data0[,col]<-gsub("%", '', data0[,col])
+    
     # Replace spaces with underscores
     data0[,col]<- gsub(' ','_', data0[,col])
     
+    
   }
   
+  data1 <- data0[,c(foodcodecolname, columns)]
+  
+  
   # write out to file
-  write.table(data0, file=paste(outdir,"data0.txt",sep="/"), sep = "\t", quote = FALSE, row.names = FALSE)
+  write.table(data1, file=outdir, sep = "\t", quote = FALSE, row.names = FALSE)
   
 
 }
 
-format.file(filename = "Documents/Projects/FoodTree/Food_Tree/data/Coding Scheme.txt", 
-            columns = "name", 
-            outdir = "Documents/Projects/Food_Tree/R/data/") 
-
+# format.file(filename = "Documents/Projects/Food_Tree/raw data/coding.scheme.txt",
+#             foodcodecolname = "code",
+#              columns = "name",
+#              outdir = "Documents/Projects/Food_Tree/R/data/NodeLabels.txt")
+# 
+# format.file(filename = "Documents/Projects/Food_Tree/raw data/main.food.desc.txt",
+#             foodcodecolname = "Food.code",
+#             columns = "Main.food.description",
+#             outdir = "Documents/Projects/Food_Tree/R/data/MainFoodDesc.txt")
+# 
+# format.file(filename = "Documents/Projects/Food_Tree/raw data/add.food.desc.txt",
+#             foodcodecolname = "Food.code",
+#             columns = "Additional.food.description",
+#             outdir = "Documents/Projects/Food_Tree/R/data/AddFoodDesc.txt")
