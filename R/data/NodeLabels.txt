@@ -303,7 +303,7 @@ code	name
 773	Other_vegetable_mixtures
 775	Puerto_Rican_stews_or_soups_with_starchy_vegetables
 78	Mixtures_mostly_vegetables_without_meat_poultry_fish
-781	Vegetable_and_fruit_juice_blends_100%_juice
+781	Vegetable_and_fruit_juice_blends_100_juice
 8	Fats_Oils_and_Salad_Dressings
 81	Fats
 811	Table_fats
