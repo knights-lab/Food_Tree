@@ -1,0 +1,1 @@
+merge0 <- merge(mainFoodDescriptions, meals, by.x = "Food.code", by.y = "foodcode", all.x = TRUE, all.y = TRUE)
