@@ -11,7 +11,7 @@ library(reshape2)
 
 # set working directory to the main github Food_code folder
 
-# setwd(dir = "Documents/Projects/Food_Tree/")
+setwd(dir = "Documents/Projects/Food_Tree/")
 
 # set paths to necessary files
 main.desc <- "R/data/MainFoodDesc.txt"
@@ -28,7 +28,11 @@ colnames(nodes) <- c("code","description")
 nodes$code <- as.character(nodes$code)
 # main$Food.code <- as.character(main$Food.code)
 
+# add additional food codes
 
+soylent.codes <- read.table("/Users/abby/Documents/Projects/Food_Tree/R/data/Soylent_codes.txt", header = TRUE, sep = "\t")
+
+main <- rbind(main, soylent.codes)
 
 # Create pathString based on foodCode descriptors
 main$pathString<-paste("foodcode", 
@@ -89,5 +93,5 @@ foodTree<-as.Node(main.join, pathName = "pathString")
 export <- main.join %>% select(Food.code, taxonomy, Description)
 export$Description <- gsub("_", " ", export$Description)
 
-write.table(export, "R/data/food_taxonomy.txt", sep = "/t")
+write.table(export, "R/data/food_taxonomy.txt", sep = "\t", quote = FALSE, row.names = FALSE)
 
