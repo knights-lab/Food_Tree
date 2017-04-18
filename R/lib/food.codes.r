@@ -11,7 +11,7 @@ library(reshape2)
 
 # set working directory to the main github Food_code folder
 
-setwd(dir = "Documents/Projects/Food_Tree/")
+setwd(dir = "/Users/abby/Documents/Projects/Food_Tree/")
 
 # set paths to necessary files
 main.desc <- "R/data/MainFoodDesc.txt"
@@ -30,7 +30,9 @@ nodes$code <- as.character(nodes$code)
 
 # add additional food codes
 
-soylent.codes <- read.table("/Users/abby/Documents/Projects/Food_Tree/R/data/Soylent_codes.txt", header = TRUE, sep = "\t")
+soylent.codes <- read.table("/Users/abby/Documents/Projects/Food_Tree/R/data/Soylent_codes.txt", 
+                            header = TRUE, 
+                            sep = "\t")
 
 main <- rbind(main, soylent.codes)
 
