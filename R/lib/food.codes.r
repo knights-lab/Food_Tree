@@ -98,5 +98,5 @@ foodTree<-as.Node(main.join, pathName = "pathString")
 export <- main.join %>% select(Food.code, taxonomy, Description)
 export$Description <- gsub("_", " ", export$Description)
 
-write.table(export, "R/data/food_taxonomy.txt", sep = "\t", quote = FALSE, row.names = FALSE)
+write.table(export, "R/output/food_taxonomy.txt", sep = "\t", quote = FALSE, row.names = FALSE)
 
