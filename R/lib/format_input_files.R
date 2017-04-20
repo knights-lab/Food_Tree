@@ -57,3 +57,8 @@ format.file <- function(filename, foodcodecolname, columns, outdir)
 #             foodcodecolname = "Food.code",
 #             columns = "Additional.food.description",
 #             outdir = "Documents/Projects/Food_Tree/R/data/AddFoodDesc.txt")
+
+# format.file(filename = "/Users/abby/Documents/Projects/Food_Tree/raw data/MCTs_study_missing_variables.txt",
+#             foodcodecolname = "Food.code",
+#             columns = "Description",
+#             outdir = "/Users/abby/Documents/Projects/Food_Tree/R/data/MCTs_study_missing_variables.txt")

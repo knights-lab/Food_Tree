@@ -23,9 +23,9 @@ main <- read.table(main.desc, header = TRUE)
 nodes <- read.table(node.labels, header = TRUE)
 
 # fix node column names
-colnames(nodes) <- c("code","description")
+colnames(nodes) <- c("Food.code","Main.food.description")
 
-nodes$code <- as.character(nodes$code)
+nodes$Food.code <- as.character(nodes$Food.code)
 # main$Food.code <- as.character(main$Food.code)
 
 # add additional food codes
@@ -33,8 +33,11 @@ nodes$code <- as.character(nodes$code)
 soylent.codes <- read.table("/Users/abby/Documents/Projects/Food_Tree/R/data/Soylent_codes.txt", 
                             header = TRUE, 
                             sep = "\t")
+mct.study <- read.table("R/data/MCTs_study_missing_variables.txt", header = TRUE, sep = "\t")
+colnames(mct.study) <- c("Food.code", "Main.food.description")
 
 main <- rbind(main, soylent.codes)
+main <- rbind(main, mct.study)
 
 # Create pathString based on foodCode descriptors
 main$pathString<-paste("foodcode", 
@@ -58,13 +61,13 @@ main <- pathstring %>% select(Food.code, L1:L5)
 main.melt <- melt(main, id.vars = "Food.code", variable.name = "Level", value.name = "code")
 
 # merge to get the names
-main.merge <- merge(main.melt, nodes, by = "code")
+main.merge <- merge(main.melt, nodes, by.x = "code", by.y = "Food.code")
 
 
 # new.merge$name <- ifelse(is.na(new.merge$name),new.merge$code,new.merge$name)
 
 # reform into original shape
-main.cast <- dcast(main.merge, Food.code ~ Level, value.var = "description")
+main.cast <- dcast(main.merge, Food.code ~ Level, value.var = "Main.food.description")
 
 
 # fill in values that don't have a named level with the numeric code

@@ -15,6 +15,13 @@ colnames(asa.codes) <- c("Food.code", "Description")
 
 tree.missing <- anti_join(asa.codes, tree.codes)
 
+class(tree.missing$Food.code)
+
+# drop the code 9 which represents missing, not the main category of foods.
+tree.missing <- tree.missing %>% filter(Food.code != 9)
+
+
+
 # we are missing 26 food variables from the tree file, that's not good...
 
 # We need to write some code that will automatically add these missing food variables to the tree file...
