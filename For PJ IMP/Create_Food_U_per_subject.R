@@ -1,7 +1,3 @@
-# Need to run the clean_diet_data.R program first.
-
-# TODO generate a food unit/otu table for each day (not just each person) and feed into QIIME/ do to do beta-diversity
-# Also want to consider doing a per/kcal basis of the food so we are representing it proportionally to total energy consumed
 
 # Goal is to create a FOOD UNITS table similar in structure to an OTU table
 # Rows will be subjects
@@ -19,23 +15,24 @@ library(dplyr)
 
 # NOTE it's important to load dplyr at the end, otherwise the comands wont work properly
  
+Items.new.with.mapping <- read.table("/Users/abby/Documents/Projects/Food_Tree/For PJ IMP/meals.txt", sep = "\t", header= TRUE)
 
 # This creates a food unit table for the entire study period (17 days)
 # To look at a specific day, add filter(RecordDayNo == "day")
 
 FU_subject <- Items.new.with.mapping %>% 
-  select(X.SampleID, FoodCode, FoodAmt) %>% 
-  group_by(X.SampleID, FoodCode) %>%
-  summarize(total = sum(FoodAmt))
+  select(Sample.ID, foodcode, grams) %>% 
+  group_by(Sample.ID, foodcode) %>%
+  summarize(total = sum(grams))
 
-FU_subject$FoodCode <- as.character(FU_subject$FoodCode)
+FU_subject$foodcode <- as.character(FU_subject$foodcode)
 
-FU_subject <- FU_subject %>% spread(FoodCode, total, fill = 0)  #fills the matrix with the total amount of the food consumed (in grams)
+FU_subject <- FU_subject %>% spread(foodcode, total, fill = 0)  #fills the matrix with the total amount of the food consumed (in grams)
 
 
 FU_subject <- remove_rownames(FU_subject)
                                     
-FU_subject <- column_to_rownames(FU_subject, var="X.SampleID")
+FU_subject <- column_to_rownames(FU_subject, var="Sample.ID")
 
 FU_subject <- FU_subject %>% ungroup()
 
@@ -60,7 +57,7 @@ FU_subject <- rownames_to_column(FU_subject, var = "Food.code")
 
 
 # Import the table "export" unless you run the food.codes.r script first to remake the tree
-food.taxonomy <- read.table("/Users/abby/Documents/Projects/Food_Tree/R/data/food_taxonomy.txt", 
+food.taxonomy <- read.table("/Users/abby/Documents/Projects/Food_Tree/R/output/food_taxonomy.txt", 
                      sep = "\t", 
                      header = TRUE, quote = "")
 
@@ -72,21 +69,21 @@ FU_subject <- inner_join(FU_subject, food.taxonomy, by = "Food.code")
 #FU.sweep <- inner_join(FU.sweep, food.description, by = "Food.code")
 
 colnames(FU_subject)[1] <- "#FOODID"
-colnames(FU_subject)[582]<-"taxa"
+colnames(FU_subject)[387]<-"taxa"
 
-FU.subject.OTU <- FU_subject %>% select(-taxa, -Description)
+FU.subject.OTU <- FU_subject %>% select(-taxonomy, -Description)
 FU.subject.just.taxonomy <- FU_subject %>% select(1, taxa) # not currently printed, but here if needed
 
 
 # Make a taxa table that just has the food description as the OTUID
 
 FU.subject.Taxa.table <- FU_subject %>% select(Description, everything())
-FU.subject.Taxa.table <- FU.subject.Taxa.table %>% select(-2, -taxa)
+FU.subject.Taxa.table <- FU.subject.Taxa.table %>% select(-2, -taxonomy)
 
 
 # Export as txt files to use in QIIME
 write.table(FU.subject.OTU, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCTs_subject_FU.txt", sep = "\t", row.names = FALSE, quote = FALSE)
 write.table(FU.subject.just.taxonomy, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCTs_subject_FU_taxonomy.txt", sep="\t", row.names = FALSE, quote = FALSE)
 write.table(FU_subject, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCT_subject_FUs_and_taxonomy.txt", sep="\t", row.names = FALSE, quote = FALSE)
-write.table(FU.subject.Taxa.table, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCTs_subject_FU_taxa_table.txt", sep="\t", row.names = FALSE, quote = FALSE)
+write.table(FU.subject.Taxa.table, "/Users/abby/Documents/Projects/Food_Tree/For PJ IMP/IMP_subject_FU_taxa_table.txt", sep="\t", row.names = FALSE, quote = FALSE)
 
