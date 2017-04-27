@@ -69,10 +69,10 @@ FU_subject <- inner_join(FU_subject, food.taxonomy, by = "Food.code")
 #FU.sweep <- inner_join(FU.sweep, food.description, by = "Food.code")
 
 colnames(FU_subject)[1] <- "#FOODID"
-colnames(FU_subject)[387]<-"taxa"
+
 
 FU.subject.OTU <- FU_subject %>% select(-taxonomy, -Description)
-FU.subject.just.taxonomy <- FU_subject %>% select(1, taxa) # not currently printed, but here if needed
+FU.subject.just.taxonomy <- FU_subject %>% select(1, taxonomy) # not currently printed, but here if needed
 
 
 # Make a taxa table that just has the food description as the OTUID
@@ -82,8 +82,8 @@ FU.subject.Taxa.table <- FU.subject.Taxa.table %>% select(-2, -taxonomy)
 
 
 # Export as txt files to use in QIIME
-write.table(FU.subject.OTU, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCTs_subject_FU.txt", sep = "\t", row.names = FALSE, quote = FALSE)
-write.table(FU.subject.just.taxonomy, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCTs_subject_FU_taxonomy.txt", sep="\t", row.names = FALSE, quote = FALSE)
+write.table(FU.subject.OTU, "/Users/abby/Documents/Projects/Food_Tree/For PJ IMP/FoodUnitTable.txt", sep = "\t", row.names = FALSE, quote = FALSE)
+write.table(FU.subject.just.taxonomy, "/Users/abby/Documents/Projects/Food_Tree/For PJ IMP/taxonomy.txt", sep="\t", row.names = FALSE, quote = FALSE)
 write.table(FU_subject, "/Users/abby/Documents/Projects/MCTs/Data/Diet_Qiime/MCT_subject_FUs_and_taxonomy.txt", sep="\t", row.names = FALSE, quote = FALSE)
 write.table(FU.subject.Taxa.table, "/Users/abby/Documents/Projects/Food_Tree/For PJ IMP/IMP_subject_FU_taxa_table.txt", sep="\t", row.names = FALSE, quote = FALSE)
 

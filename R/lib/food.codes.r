@@ -4,7 +4,7 @@
 # Add packages
 
 library(data.tree)
-library(haven)
+#library(haven)
 library(dplyr)
 library(tidyr)
 library(reshape2)
@@ -19,8 +19,8 @@ node.labels <- "R/data/NodeLabels.txt"
 
 # read in files
 
-main <- read.table(main.desc, header = TRUE)
-nodes <- read.table(node.labels, header = TRUE)
+main <- read.table(main.desc, header = TRUE) # leaf tip names
+nodes <- read.table(node.labels, header = TRUE) # inner node names
 
 # fix node column names
 colnames(nodes) <- c("Food.code","Main.food.description")
@@ -53,7 +53,7 @@ main$pathString<-paste("foodcode",
 # Split the pathString so that it has one column per string step
 pathstring <- main %>% separate(pathString, into = c("root", "L1", "L2", "L3", "L4", "L5", "Description"), sep = "/")
 
-# Format the level descriptions
+# subset the main df to just what we want
 
 main <- pathstring %>% select(Food.code, L1:L5)
 
