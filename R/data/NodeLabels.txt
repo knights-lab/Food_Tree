@@ -1,4 +1,4 @@
-code	name
+Level.code	Main.food.description
 1	Milk_and_Milk_Products
 11	Milks_and_milk_drinks
 110	Milk_human

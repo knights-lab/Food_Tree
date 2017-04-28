@@ -55,5 +55,4 @@ distance<-function()
 }
 
  
-tree <- recursiveNewickWrite(foodTree)
 

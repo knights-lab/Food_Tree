@@ -1,0 +1,5 @@
+Food.code	Main.food.description
+95120051	Soylent_Original
+95120053	Soylent_Cacoa
+95120052	Soylent_Nectar
+95120054	Soylent_Coffiest
