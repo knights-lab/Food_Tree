@@ -1,4 +1,4 @@
-# Set FT_FOLDER to absolute local path to /Food_Tree/R
+# Set FT_FOLDER to your absolute local path to /Food_Tree/R
 FT_FOLDER <- "/Users/pvangay/Dropbox/UMN/KnightsLab/Food_Tree/R"
 
 source(paste0(FT_FOLDER,"/lib/newick.tree.r"))

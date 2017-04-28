@@ -1,7 +1,7 @@
 README for creating food trees
 
 PREREQUISITES
-1. All input files must be tab-delimited and should be preprocessed to remove all double quotes and non-compatible R characters
+1. All input files must be tab-delimited and should be preprocessed to remove all double quotes
 2. Raw food database files must contain:
         Food.code
         Mod.code
@@ -16,3 +16,4 @@ PREREQUISITES
 
 USAGE
     see /bin/make.supertracker.tree.r
+    and /bin/make.mct.tree.r
