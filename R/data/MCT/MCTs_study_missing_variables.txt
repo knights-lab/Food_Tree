@@ -1,4 +1,4 @@
-Food.code	Main.food.description
+FoodCode	Main.food.description
 92306020	Tea_herbal_presweetened_with_sugar
 92302200	Tea_leaf_presweetened_with_sugar
 92301060	Tea_NS_as_to_type_presweetened_with_sugar

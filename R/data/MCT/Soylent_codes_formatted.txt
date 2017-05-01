@@ -1,4 +1,4 @@
-Food.code	Main.food.description	Old.Main.food.description	Mod.code	FoodID
+FoodCode	Main.food.description	Old.Main.food.description	ModCode	FoodID
 95120051	Soylent_Original	Soylent_Original	0	95120051.0
 95120053	Soylent_Cacoa	Soylent_Cacoa	0	95120053.0
 95120052	Soylent_Nectar	Soylent_Nectar	0	95120052.0

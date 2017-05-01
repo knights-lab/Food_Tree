@@ -1,4 +1,4 @@
-Food.code	Additional.food.description
+FoodCode	Main.food.description
 11111000	3.5_or_3.8_fat_milk
 11111000	leche_fresca
 11111170	nonfat_milk

@@ -1,4 +1,4 @@
-Food.code	Main.food.description	Old.Main.food.description	Mod.code	FoodID
+FoodCode	Main.food.description	Old.Main.food.description	ModCode	FoodID
 92306020	Tea_herbal_presweetened_with_sugar	Tea_herbal_presweetened_with_sugar	0	92306020.0
 92302200	Tea_leaf_presweetened_with_sugar	Tea_leaf_presweetened_with_sugar	0	92302200.0
 92301060	Tea_NS_as_to_type_presweetened_with_sugar	Tea_NS_as_to_type_presweetened_with_sugar	0	92301060.0

@@ -1,4 +1,4 @@
-Food.code	Main.food.description
+FoodCode	Main.food.description
 11000000	Milk_human
 11100000	Milk_NFS
 11111000	Milk_whole

@@ -3,16 +3,15 @@ README for creating food trees
 PREREQUISITES
 1. All input files must be tab-delimited and should be preprocessed to remove all double quotes
 2. Raw food database files must contain:
-        Food.code
-        Mod.code
+        Foodcode
+        Modcode
         Main.food.description
 3. Formatted food database files (including supplemental additional foods) to be used to construct tree must contain at least:
         FoodID
         Main.food.description
 4. Diet records must have at least:
-        Food.code
-        Mod.code
-        Main.food.description
+        Foodcode
+        Modcode
 
 USAGE
     see /bin/make.supertracker.tree.r

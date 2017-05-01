@@ -1,4 +1,4 @@
-Food.code	Main.food.description	Old.Main.food.description	Mod.code	FoodID
+FoodCode	Main.food.description	Old.Main.food.description	ModCode	FoodID
 11000000	Milk_human	Milk_human	0	11000000.0
 11100000	Milk_NFS	Milk_NFS	0	11100000.0
 11111000	Milk_whole	Milk_whole	0	11111000.0
