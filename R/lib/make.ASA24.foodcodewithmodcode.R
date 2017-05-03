@@ -1,6 +1,6 @@
 # Make combined mod code and food code for ASA24
 
-main.food.desc <- read.table("../raw data/main.food.desc.txt", sep = "\t", header = T)
+main.food.desc <- read.table("../raw data/main.food.desc.txt", sep = "\t", colClasses = "character", header = T, strip.white = T)
 mod.codes <- read.table("../raw data/mod.desc.txt", sep = "\t", header = T)
 
 require(dplyr)
