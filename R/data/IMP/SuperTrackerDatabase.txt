@@ -1,4 +1,4 @@
-Food.code	Mod.code	Main.food.description	Old.Main.food.description	FoodID
+FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 11111000	0	Milk_whole	Milk, whole	11111000.0
 11111100	0	Whole_milk_low_sodium	Whole milk, low sodium	11111100.0
 11111150	0	Milk_whole_calcium_fortified	Milk, whole, calcium fortified	11111150.0
