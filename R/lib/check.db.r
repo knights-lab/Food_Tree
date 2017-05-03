@@ -7,5 +7,6 @@ check.db <- function(food_database_fn, food_records_fn, output_fn)
     foods.missing <- unique(diet[!(diet$FoodID %in% fdata$FoodID), ])
     
     write.table(foods.missing, output_fn, sep = "\t", quote = FALSE, row.names = FALSE)
+    
 }
 
