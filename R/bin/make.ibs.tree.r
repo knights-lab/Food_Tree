@@ -24,6 +24,6 @@ make.food.tree(nodes_fn="data/NodeLabels.txt",
                output_taxonomy_fn = "output/ibs.taxonomy.txt")
     
 make.food.otu(food_records_fn="data/IBS/dietrecords.txt", 
-              food_record_id = "Study.ID", 
+              food_record_id = "Timepoint.ID", 
               food_taxonomy_fn="output/ibs.taxonomy.txt", 
               output_fn = "output/ibs.food.otu.txt")
