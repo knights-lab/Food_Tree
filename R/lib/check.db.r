@@ -6,7 +6,14 @@ check.db <- function(food_database_fn, food_records_fn, output_fn)
     
     foods.missing <- unique(diet[!(diet$FoodID %in% fdata$FoodID), c("Main.food.description", "FoodID")])
     
+    # foods missing that already actually exist in the data
+    overlap <- foods.missing[foods.missing$Main.food.description %in% fdata$Main.food.description,]
+    
+    # remove these from the missing foods file
+    foods.missing <- foods.missing[!(foods.missing$Main.food.description %in% overlap$Main.food.description),]
+    
     write.table(foods.missing, output_fn, sep = "\t", quote = FALSE, row.names = FALSE)
     
 }
+
 
