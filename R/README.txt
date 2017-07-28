@@ -1,7 +1,11 @@
 README for creating food trees
 
 PREREQUISITES
-1. All input files must be tab-delimited and should be preprocessed to remove all double quotes
+1. All input files must be tab-delimited and should be preprocessed to remove any special characters that will mess up reading in files in R such as:
+    "
+    '
+    &
+    #
 2. Raw food database files must contain:
         FoodCode
         ModCode
