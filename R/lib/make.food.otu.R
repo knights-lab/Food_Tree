@@ -30,5 +30,7 @@ make.food.otu <- function(food_records_fn, food_record_id, food_taxonomy_fn, out
  
     cat("#FOODID\t", file=output_fn)
     write.table(food.otu, output_fn, sep = "\t", quote = F, append=TRUE)
+    
+    invisible(food.otu)
 }
 
