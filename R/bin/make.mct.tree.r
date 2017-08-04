@@ -7,6 +7,7 @@ source("lib/format.foods.r")
 source("lib/make.food.tree.r")
 source("lib/make.food.otu.r")
 source("lib/make.fiber.otu.r")
+source("lib/make.dhydrt.per.kcal.otu.r")
 
 # note: current ASA24 database doesn't have modcodes
 format.foods(input_fn="../raw data/all.food.desc.txt", output_fn="data/MCT/ASA24Database.txt")
@@ -25,6 +26,10 @@ make.food.tree(nodes_fn="data/NodeLabels.txt", food_database_fn="data/MCT/ASA24D
 make.food.otu(food_records_fn="data/MCT/dietrecords.txt", food_record_id = "X.SampleID", food_taxonomy_fn="output/mct.taxonomy.txt", 
                 output_fn = "output/mct.food.otu.txt")
 
-# this makes the food otu table but instead of gram weights results are in grams of fiber per food
+# this makes the food otu table with data in grams of fiber per food
 make.fiber.otu(food_records_fn="data/MCT/dietrecords.txt", food_record_id = "X.SampleID", food_taxonomy_fn="output/mct.taxonomy.txt", 
                output_fn = "output/mct.fiber.otu.txt")
+
+# this makes the food otu table as dehydrated grams per kcal
+make.dhydrt.per.kcal.otu(food_records_fn="data/MCT/dietrecords.txt", food_record_id = "X.SampleID", food_taxonomy_fn="output/mct.taxonomy.txt", 
+               output_fn = "output/mct.dgpk.otu.txt")
