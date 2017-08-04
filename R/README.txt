@@ -16,6 +16,12 @@ PREREQUISITES
 4. Diet records must have at least:
         FoodCode
         ModCode
+5. To create fiber.otu table diet records must contain all of the above plus a fiber variable labeled:
+        FIBE
+6. To create dhydrated grams per kcal otu table (dpgk.otu) diet records must contain all of the above plus:
+        KCAL
+        MOIS
+     
 
 USAGE
     see /bin/make.supertracker.tree.r
