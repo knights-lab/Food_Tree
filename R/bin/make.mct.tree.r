@@ -6,6 +6,7 @@ source("lib/check.db.r")
 source("lib/format.foods.r")
 source("lib/make.food.tree.r")
 source("lib/make.food.otu.r")
+source("lib/make.fiber.otu.r")
 
 # note: current ASA24 database doesn't have modcodes
 format.foods(input_fn="../raw data/all.food.desc.txt", output_fn="data/MCT/ASA24Database.txt")
@@ -19,6 +20,11 @@ format.foods(input_fn="../raw data/Items_to_use.txt", output_fn="data/MCT/dietre
 make.food.tree(nodes_fn="data/NodeLabels.txt", food_database_fn="data/MCT/ASA24Database.txt", 
     addl_foods_fn=c("data/MCT/Soylent_codes_formatted.txt"), output_tree_fn="output/mct.tree.txt", 
     output_taxonomy_fn = "output/mct.taxonomy.txt")
-    
+
+# this makes the standard food otu table with data in gram weights of food
 make.food.otu(food_records_fn="data/MCT/dietrecords.txt", food_record_id = "X.SampleID", food_taxonomy_fn="output/mct.taxonomy.txt", 
                 output_fn = "output/mct.food.otu.txt")
+
+# this makes the food otu table but instead of gram weights results are in grams of fiber per food
+make.fiber.otu(food_records_fn="data/MCT/dietrecords.txt", food_record_id = "X.SampleID", food_taxonomy_fn="output/mct.taxonomy.txt", 
+               output_fn = "output/mct.fiber.otu.txt")
