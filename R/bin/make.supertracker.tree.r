@@ -6,6 +6,8 @@ source("lib/check.db.r")
 source("lib/format.foods.r")
 source("lib/make.food.tree.r")
 source("lib/make.food.otu.r")
+source("lib/filter.db.by.diet.records.r")
+
 
 orig_food_records_fn <- "../raw data/original_impdietrecords.txt" # original diet records with special characters removed
 orig_database_fn <- "../raw data/original_SuperTrackerDatabase.txt" # original supertracker database
@@ -17,11 +19,14 @@ new_foods_fn <- "data/IMP/new.foods.tree.building.txt" # new foods used to const
 food_database_fn <- "data/IMP/SuperTrackerDatabase.txt" # formatted
 food_taxonomy_fn <- "output/supertracker.taxonomy.txt" # outputted by make.food.tree
 
+food_reported_database_fn <- "data/IMP/SuperTrackerDatabase.foodsreportedonly.txt" # database containing only the foods eaten in this specific dataset
+food_reported_taxonomy_fn <- "output/supertracker.taxonomy.foodsreportedonly.txt" # outputted by make.food.tree
+
 # make sure all food files are properly formatted with FoodIDs
 format.foods(orig_database_fn, food_database_fn)
 format.foods(orig_food_records_fn, old_food_records_fn, dedupe=F) # do NOT deduplicate records
 
-###### call code in add.missing.foods.to.diets here
+###### run code in add.missing.foods.to.diets here
 
 # check if any foods in our diets are missing from our database (this step not super useful)
 check.db(food_database_fn, food_records_fn, output_fn="data/IMP/missing.txt")
@@ -35,6 +40,26 @@ check.db(food_taxonomy_fn, food_records_fn, output_fn="data/IMP/diet.missing.fro
 
 fotu <- make.food.otu(food_records_fn, food_record_id = "Sample.ID", food_taxonomy_fn, output_fn = "output/imp.food.otu.txt")
 
+
+### redo tree/taxonomy/otu generation with only the foods actually reported
+    filter.db.by.diet.records(food_database_fn=food_database_fn, food_records_fn=food_records_fn, output_fn=food_reported_database_fn)
+
+    make.food.tree(nodes_fn="data/NodeLabels.txt", food_reported_database_fn, 
+        addl_foods_fn=new_foods_fn, output_tree_fn="output/supertracker.tree.foodsreportedonly.txt", 
+        output_taxonomy_fn = food_reported_taxonomy_fn)
+
+    # check our full taxonomy against our food records (should be empty if all foods are covered)
+    check.db(food_reported_taxonomy_fn, food_records_fn, output_fn="data/IMP/diet.missing.from.taxonomy.file.foodsreportedonly.txt")
+
+    # OTU generation should not be necessary here, but can double check
+    make.food.otu(food_records_fn, food_record_id = "Sample.ID", food_reported_taxonomy_fn, output_fn = "output/imp.food.otu.foodsreportedonly.txt")
+
+
+
+
+
+
+# NOTE: Probably only useful for IMP dataset!
 # this code merges the manually assigned Missing Foods list to the Diet Records, so that all diet records with FoodCodes==NA 
 # will now have Food Codes assigned. The reason for this is that the diet records still contain food portions in them, so it's important to make use
 # of the portion in calculating the final grams in each food eaten
