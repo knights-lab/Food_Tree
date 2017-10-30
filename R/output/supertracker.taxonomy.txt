@@ -94,7 +94,6 @@ FoodID	taxonomy	Main.food.description
 11513700.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_fat_free_skim_with_chocolate_syrup	Milk fat free skim with chocolate syrup
 11514100.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Hot_chocolate_Swiss_Miss_Carnation_made_from_dry_mix_with_milk_sugar_with_water	Hot chocolate Swiss Miss Carnation made from dry mix with milk sugar with water
 11514300.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Hot_cocoa_Carnation_Swiss_Miss_Nutrisystem_made_from_mix_with_milk_low_calorie_sweetener_with_water	Hot cocoa Carnation Swiss Miss Nutrisystem made from mix with milk low calorie sweetener with water
-11514350.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Hot_chocolate_Hersheys_Nestles_Quick_made_from_mix_with_fat_free_skim_milk	Hot chocolate Hersheys Nestles Quick made from mix with fat free skim milk
 11514500.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Ovaltine_sugar_free_Hot_Cocoa	Ovaltine sugar free Hot Cocoa
 11515400.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Alba_High_Calcium_Cocoa	Alba High Calcium Cocoa
 11516000.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Chocolate_Milk_Nestle_s_Quik_Swiss_Miss_with_1_fat_milk	Chocolate Milk Nestle s Quik Swiss Miss with 1 fat milk
@@ -116,7 +115,6 @@ FoodID	taxonomy	Main.food.description
 11531000.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Eggnog_with_whole_milk	Eggnog with whole milk
 11531500.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Eggnog_with_2_milk	Eggnog with 2 milk
 11541110.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_shake_homemade_chocolate_with_whole_milk	Milk shake homemade chocolate with whole milk
-11541110.1	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_shake_fountain_type_chocolate_with_low_fat_milk	Milk shake fountain type chocolate with low fat milk
 11541110.100566	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_shake_fountain_type_chocolate_with_2_milk	Milk shake fountain type chocolate with 2 milk
 11541110.205157	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_shake_homemade_chocolate_with_low_fat_milk	Milk shake homemade chocolate with low fat milk
 11541120.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_shake_fountain_type_vanilla_or_strawberry_with_whole_milk	Milk shake fountain type vanilla or strawberry with whole milk
@@ -727,7 +725,6 @@ FoodID	taxonomy	Main.food.description
 24127150.205374	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_breast_fried_in_oil_skinless_breading_eaten	Fried chicken breast fried in oil skinless breading eaten
 24127150.205762	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_breast_fried_in_margarine_skinless_breading_eaten	Fried chicken breast fried in margarine skinless breading eaten
 24127150.206199	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_breast_fried_in_butter_skinless_breading_eaten	Fried chicken breast fried in butter skinless breading eaten
-24127150.21	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_breast_boneless_skinless_baked_breaded_breading_eaten	Chicken breast boneless skinless baked breaded breading eaten
 24127160.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_breast_fried_in_shortening_skinless_breading_not_eaten	Fried chicken breast fried in shortening skinless breading not eaten
 24127160.205446	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_breast_fried_in_oil_skinless_breading_not_eaten	Fried chicken breast fried in oil skinless breading not eaten
 24127160.205835	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_breast_boneless_skinless_baked_breaded_breading_not_eaten	Chicken breast boneless skinless baked breaded breading not eaten
@@ -739,7 +736,6 @@ FoodID	taxonomy	Main.food.description
 24133220.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_leg_quarter_drumstick_and_thigh_stewed_skin_not_eaten	Chicken leg quarter drumstick and thigh stewed skin not eaten
 24134210.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_leg_drumstick_and_thigh_fried_in_shortening_no_breading_skin_eaten	Fried chicken leg drumstick and thigh fried in shortening no breading skin eaten
 24134210.205372	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_leg_drumstick_and_thigh_fried_in_oil_no_breading_skin_eaten	Fried chicken leg drumstick and thigh fried in oil no breading skin eaten
-24134210.21	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_drumstick_fried_in_oil_skin_eaten	Chicken drumstick fried in oil skin eaten
 24134220.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_leg_drumstick_and_thigh_fried_in_shortening_no_breading_skin_not_eaten	Fried chicken leg drumstick and thigh fried in shortening no breading skin not eaten
 24134220.205432	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_leg_drumstick_and_thigh_fried_in_oil_no_breading_skin_not_eaten	Fried chicken leg drumstick and thigh fried in oil no breading skin not eaten
 24137210.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_leg_drumstick_and_thigh_fried_in_shortening_skin_breading_eaten	Fried chicken leg drumstick and thigh fried in shortening skin breading eaten
@@ -782,7 +778,6 @@ FoodID	taxonomy	Main.food.description
 24153220.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_thigh_stewed_skin_not_eaten	Chicken thigh stewed skin not eaten
 24154210.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_thigh_fried_in_shortening_no_breading_skin_eaten	Fried chicken thigh fried in shortening no breading skin eaten
 24154210.205389	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_thigh_fried_in_oil_no_breading_skin_eaten	Fried chicken thigh fried in oil no breading skin eaten
-24154210.21	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_thigh_fried_in_oil_skin_eaten	Chicken thigh fried in oil skin eaten
 24154220.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_thigh_fried_in_shortening_no_breading_skin_not_eaten	Fried chicken thigh fried in shortening no breading skin not eaten
 24154220.205419	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_thigh_fried_in_oil_no_breading_skin_not_eaten	Fried chicken thigh fried in oil no breading skin not eaten
 24157210.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Fried_chicken_thigh_fried_in_shortening_skin_breading_eaten	Fried chicken thigh fried in shortening skin breading eaten
@@ -1022,7 +1017,6 @@ FoodID	taxonomy	Main.food.description
 26107150.201662	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Catfish_battered_fried_in_oil	Catfish battered fried in oil
 26107160.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Catfish_steamed_or_poached	Catfish steamed or poached
 26109120.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Cod_baked_or_broiled_with_margarine	Cod baked or broiled with margarine
-26109120.2	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Cod_baked_or_broiled_with_oil	Cod baked or broiled with oil
 26109120.201039	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Cod_baked_or_broiled_without_fat	Cod baked or broiled without fat
 26109120.201359	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Cod_baked_or_broiled_with_oil	Cod baked or broiled with oil
 26109120.202670	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Cod_baked_or_broiled_with_butter	Cod baked or broiled with butter
@@ -3239,7 +3233,6 @@ FoodID	taxonomy	Main.food.description
 55703000.0	L1_Grain_Product;L2_Pancakes_waffles_French_toast_other;L3_Rice_flour_cakes;L4_;L5_;Cake_made_with_glutinous_rice_and_dried_beans_Injolmi_	Cake made with glutinous rice and dried beans Injolmi 
 55801000.0	L1_Grain_Product;L2_Pancakes_waffles_French_toast_other;L3_Funnel_cakes;L4_;L5_;Funnel_cake	Funnel cake
 55801010.0	L1_Grain_Product;L2_Pancakes_waffles_French_toast_other;L3_Funnel_cakes;L4_;L5_;Funnel_cake_with_strawberries_and_powdered_sugar	Funnel cake with strawberries and powdered sugar
-56101000.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Pasta_macaroni_rotini_ziti_shells_lasagna_noodles_cooked_with_salt_and_vegetable_oil_	Pasta macaroni rotini ziti shells lasagna noodles cooked with salt and vegetable oil 
 56101010.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Macaroni_or_rotini_ziti_shells_lasagna_noodles_other_pasta_cooked_with_salt_no_fat_added_	Macaroni or rotini ziti shells lasagna noodles other pasta cooked with salt no fat added 
 56101010.900000	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Macaroni_or_rotini_ziti_shells_lasagna_noodles_other_pasta_cooked_no_salt_or_fat_added_	Macaroni or rotini ziti shells lasagna noodles other pasta cooked no salt or fat added 
 56101019.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Pasta_lasagna_noodles_dry	Pasta lasagna noodles dry
@@ -3356,7 +3349,6 @@ FoodID	taxonomy	Main.food.description
 56205004.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_white_cooked_with_salt_and_butter_	Rice white cooked with salt and butter 
 56205006.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_white_cooked_cooked_with_salt_and_margarine_	Rice white cooked cooked with salt and margarine 
 56205008.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_white_cooked_with_salt_no_fat_added_	Rice white cooked with salt no fat added 
-56205009.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_cooked_with_coconut_milk	Rice cooked with coconut milk
 56205010.900000	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_white_cooked_no_salt_or_fat_added_	Rice white cooked no salt or fat added 
 56205012.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_brown_cooked_fat_added_in_cooking_with_salt_and_vegetable_oil_	Rice brown cooked fat added in cooking with salt and vegetable oil 
 56205014.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_brown_cooked_fat_added_in_cooking_with_salt_and_butter_	Rice brown cooked fat added in cooking with salt and butter 
@@ -3426,7 +3418,6 @@ FoodID	taxonomy	Main.food.description
 56207330.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Maltex_or_Malt_O_Meal_cooked_with_salt_and_margarine_	Maltex or Malt O Meal cooked with salt and margarine 
 56207330.206406	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Maltex_or_Malt_O_Meal_cooked_with_salt_milk_and_margarine_	Maltex or Malt O Meal cooked with salt milk and margarine 
 56207399.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Maltex_dry	Maltex dry
-56208500.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Oat_bran_cereal_cooked_no_salt_or_fat_added_	Oat bran cereal cooked no salt or fat added 
 56208510.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Oat_bran_cereal_cooked_with_salt_and_margarine_	Oat bran cereal cooked with salt and margarine 
 56208530.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Oat_bran_cereal_cooked_with_salt_and_milk_no_fat_added_	Oat bran cereal cooked with salt and milk no fat added 
 56208540.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Oat_bran_cereal_cooked_cooked_with_salt_milk_and_margarine_	Oat bran cereal cooked cooked with salt milk and margarine 
@@ -4867,7 +4858,6 @@ FoodID	taxonomy	Main.food.description
 72128520.207074	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Turnip_greens_canned_low_sodium_with_vegetable_oil	Turnip greens canned low sodium with vegetable oil
 72130100.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Watercress_raw	Watercress raw
 72130200.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Watercress_cooked_with_salt_no_fat_added_	Watercress cooked with salt no fat added 
-72130200.9	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Watercress_cooked_no_salt_or_fat_added_	Watercress cooked no salt or fat added 
 72130200.900000	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Watercress_cooked_no_salt_or_fat_added_	Watercress cooked no salt or fat added 
 72133199.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Pumpkin_Leaves	Pumpkin Leaves
 72140100.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Water_Convolvulus_Water_Spinach_	Water Convolvulus Water Spinach 
@@ -4987,7 +4977,6 @@ FoodID	taxonomy	Main.food.description
 73304010.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Squash_winter;L4_;L5_;Fried_squash_fritters	Fried squash fritters
 73305020.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Squash_winter;L4_;L5_;Squash_winter_souffle	Squash winter souffle
 73401500.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Sweet_potatoes;L4_;L5_;Sweet_potato_raw	Sweet potato raw
-73402000.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Sweet_potatoes;L4_;L5_;Sweet_potato_yam_baked_no_salt_added_peel_eaten	Sweet potato yam baked no salt added peel eaten
 73402010.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Sweet_potatoes;L4_;L5_;Sweet_potatoes_yams_baked_peel_eaten_with_salt_no_fat_added_	Sweet potatoes yams baked peel eaten with salt no fat added 
 73402010.900000	L1_Vegetables;L2_Deepyellow_vegetables;L3_Sweet_potatoes;L4_;L5_;Sweet_potatoes_yams_baked_peel_eaten_no_salt_or_fat_added_	Sweet potatoes yams baked peel eaten no salt or fat added 
 73402020.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Sweet_potatoes;L4_;L5_;Sweet_potatoes_yams_baked_peel_eaten_with_salt_and_fat_	Sweet potatoes yams baked peel eaten with salt and fat 
@@ -5258,7 +5247,6 @@ FoodID	taxonomy	Main.food.description
 75205033.100300	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Green_beans_canned_cooked_with_vegetable_oil	Green beans canned cooked with vegetable oil
 75205033.200058	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;String_beans_canned_cooked_with_butter	String beans canned cooked with butter
 75205033.205043	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Green_beans_canned_cooked_with_pork_fat	Green beans canned cooked with pork fat
-75205041.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Green_beans_fresh_cooked_with_salt_and_vegetable_oil_	Green beans fresh cooked with salt and vegetable oil 
 75205120.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;String_beans_canned_low_sodium_no_fat_added	String beans canned low sodium no fat added
 75205130.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Green_beans_canned_low_sodium_cooked_with_margarine	Green beans canned low sodium cooked with margarine
 75205130.100149	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;String_beans_canned_low_sodium_cooked_with_vegetable_oil	String beans canned low sodium cooked with vegetable oil
@@ -5290,7 +5278,6 @@ FoodID	taxonomy	Main.food.description
 75208110.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Beets_canned_low_sodium_no_fat_added_	Beets canned low sodium no fat added 
 75208120.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Beets_canned_low_sodium_with_fat_	Beets canned low sodium with fat 
 75208300.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Bitter_melon_cooked_with_salt_no_fat_added_	Bitter melon cooked with salt no fat added 
-75208300.9	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Bitter_Gourd	Bitter Gourd
 75208300.900000	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Bitter_melon_cooked_no_salt_or_fat_added_	Bitter melon cooked no salt or fat added 
 75208310.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Bitter_melon_cooked_with_salt_and_margarine_	Bitter melon cooked with salt and margarine 
 75208310.206738	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Bitter_melon_cooked_with_salt_and_vegetable_oil_	Bitter melon cooked with salt and vegetable oil 
@@ -5391,7 +5378,6 @@ FoodID	taxonomy	Main.food.description
 75216310.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Corn_yellow_canned_low_sodium_no_fat_added	Corn yellow canned low sodium no fat added
 75216320.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Corn_yellow_canned_low_sodium_cooked_with_margarine	Corn yellow canned low sodium cooked with margarine
 75216320.100585	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Corn_yellow_canned_low_sodium_cooked_with_butter	Corn yellow canned low sodium cooked with butter
-75216700.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Cucumber_cooked_no_salt_or_fat_added_	Cucumber cooked no salt or fat added 
 75216710.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Cucumber_cooked_with_salt_no_fat_added_	Cucumber cooked with salt no fat added 
 75216710.900000	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Cucumber_cooked_no_salt_or_fat_added_	Cucumber cooked no salt or fat added 
 75216999.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Corn_yellow_canned_cream_style_low_sodium	Corn yellow canned cream style low sodium
@@ -5409,7 +5395,6 @@ FoodID	taxonomy	Main.food.description
 75218500.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Lotus_root_cooked_with_salt_no_fat_added_	Lotus root cooked with salt no fat added 
 75218500.900000	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Lotus_root_cooked_no_salt_or_fat_added_	Lotus root cooked no salt or fat added 
 75219011.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Mushrooms_fresh_cooked_with_salt_no_fat_added_	Mushrooms fresh cooked with salt no fat added 
-75219011.9	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Mushroom_fresh_cooked_no_salt_or_fat_added_	Mushroom fresh cooked no salt or fat added 
 75219011.900000	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Mushrooms_fresh_cooked_no_salt_or_fat_added_	Mushrooms fresh cooked no salt or fat added 
 75219012.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Mushrooms_frozen_cooked_with_salt_no_fat_added_	Mushrooms frozen cooked with salt no fat added 
 75219013.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Mushrooms_canned_cooked_no_fat_added	Mushrooms canned cooked no fat added
@@ -5494,7 +5479,6 @@ FoodID	taxonomy	Main.food.description
 75225011.900000	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Pigeon_peas_fresh_cooked_no_salt_or_fat_added_	Pigeon peas fresh cooked no salt or fat added 
 75225013.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Pigeon_peas_canned_cooked_no_fat_added	Pigeon peas canned cooked no fat added
 75226010.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Peppers_green_cooked_with_salt_no_fat_added_	Peppers green cooked with salt no fat added 
-75226010.9	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Pepper_green_cooked_no_salt_or_fat_added_	Pepper green cooked no salt or fat added 
 75226010.900000	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Peppers_green_cooked_no_salt_or_fat_added_	Peppers green cooked no salt or fat added 
 75226020.0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Green_peppers_cooked_with_salt_and_margarine_	Green peppers cooked with salt and margarine 
 75226020.200168	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Peppers_green_cooked_with_salt_and_butter_	Peppers green cooked with salt and butter 
@@ -6195,7 +6179,6 @@ FoodID	taxonomy	Main.food.description
 92101670.0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Coffee_Mexican_decaffeinated_with_sugar	Coffee Mexican decaffeinated with sugar
 92101700.0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Coffee_brewed_flavored	Coffee brewed flavored
 92101800.0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Coffee_Cuban	Coffee Cuban
-92101900.2	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_regular_with_2_milk	Latte espresso coffee regular with 2 milk
 92101900.201503	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_regular_with_skim_milk	Latte espresso coffee regular with skim milk
 92101900.203108	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_regular_with_2_milk	Latte espresso coffee regular with 2 milk
 92101900.206405	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_regular_with_whole_milk	Latte espresso coffee regular with whole milk
@@ -6203,7 +6186,6 @@ FoodID	taxonomy	Main.food.description
 92101900.206726	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_with_half_and_half	Latte espresso coffee with half and half
 92101900.206901	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_with_cream	Latte espresso coffee with cream
 92101900.207303	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_with_soymilk	Latte espresso coffee with soymilk
-92101900.21	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_regular_with_1_milk	Latte espresso coffee regular with 1 milk
 92101910.0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_decaffeinated	Latte espresso coffee decaffeinated
 92101910.206442	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_decaffeinated_with_1_milk	Latte espresso coffee decaffeinated with 1 milk
 92101910.206444	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Latte_espresso_coffee_decaffeinated_with_whole_milk	Latte espresso coffee decaffeinated with whole milk

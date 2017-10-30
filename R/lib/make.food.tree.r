@@ -23,7 +23,6 @@ make.food.tree <- function(nodes_fn, food_database_fn, addl_foods_fn=NULL, outpu
             new.foods <- read.table(addl_foods_fn[i], header=T, sep="\t", colClasses="character")
             main <- rbind(main, new.foods[,c("FoodID", "Main.food.description")])
         }
-
     # if there happen to be duplicate FoodIDs in main, remove them
     main <- main[!duplicated(main$FoodID),]
 
@@ -32,7 +31,6 @@ make.food.tree <- function(nodes_fn, food_database_fn, addl_foods_fn=NULL, outpu
         flevels <- cbind(flevels, I(substr(main$FoodID, 1, i)))
     colnames(flevels) <- paste0("L",1:num.levels)
     main <- data.frame(main, flevels, stringsAsFactors=F)
-
     
     # melt the data, merge to get the node names, then cast back
     main.melt <- melt(main, id.vars = "FoodID", variable.name = "Level", value.name = "Level.code")

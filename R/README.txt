@@ -21,6 +21,7 @@ PREREQUISITES
 6. To create dhydrated food weight diet records must contain all of the above plus:
         MOIS
      
+** Avoid opening any data files in Excel because FoodIDs such as 2323523.1999 get rounded to 2323523.2!
 
 USAGE
     see /bin/make.supertracker.tree.r

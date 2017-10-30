@@ -18,9 +18,11 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 11460170	0	Frozen_yogurt_other_flavors_low_fat	Frozen yogurt, other flavors, low fat	11460170.0
 11460300	0	Frozen_yogurt_vanilla_nonfat	Frozen yogurt, vanilla, nonfat	11460300.0
 11512000	0	Hot_chocolate_homemade_with_whole_milk	Hot chocolate, homemade, with whole milk	11512000.0
+11513300	0	Hot_cocoa_Hershey_s_Nestle_s_Quick_made_from_mix_with_fat_free_skim_milk	Hot cocoa, (Hershey's), (Nestle's Quick), made from mix, with fat free (skim) milk	11513300.0
 11514100	0	Hot_chocolate_Swiss_Miss_Carnation_made_from_dry_mix_with_milk_sugar_with_water	Hot chocolate, (Swiss Miss), (Carnation), made from dry mix (with milk & sugar), with water	11514100.0
 11519200	0	Milk_low_fat_1_with_strawberry_or_vanilla_flavor	Milk, low fat (1%) with strawberry or vanilla flavor	11519200.0
 11526000	202663	Malted_milk_fortified_chocolate_with_1_milk	Malted milk, fortified, chocolate, with 1% milk	11526000.202663
+11541110	100566	Milk_shake_fountain_type_chocolate_with_2_milk	Milk shake,  fountain-type, chocolate, with 2% milk	11541110.100566
 11623000	0	Ensure_Nutrition_Shake	Ensure Nutrition Shake	11623000.0
 11641020	0	Meal_supplement_ready_to_drink_Boost_	Meal supplement, ready-to-drink, (Boost)	11641020.0
 12120100	0	Half_and_half	Half and half	12120100.0
@@ -96,6 +98,7 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 24124110	205388	Fried_chicken_breast_fried_in_oil_no_breading_skin_eaten	Fried chicken, breast, fried in oil, no breading, skin eaten	24124110.205388
 24124120	205407	Fried_chicken_breast_fried_in_oil_no_breading_skin_not_eaten	Fried chicken, breast, fried in oil, no breading, skin not eaten	24124120.205407
 24127110	205433	Fried_chicken_breast_fried_in_oil_skin_breading_eaten	Fried chicken, breast, fried in oil, skin/breading eaten	24127110.205433
+24127110	205695	Chicken_breast_baked_breaded_skin_breading_eaten	Chicken, breast, baked, breaded, skin/breading eaten	24127110.205695
 24127120	205996	Fried_chicken_breast_fried_in_oil_skin_breading_not_eaten	Fried chicken, breast, fried in oil, skin/breading not eaten	24127120.205996
 24127150	205374	Fried_chicken_breast_fried_in_oil_skinless_breading_eaten	Fried chicken, breast, fried in oil, skinless, breading eaten	24127150.205374
 24127160	205835	Chicken_breast_boneless_skinless_baked_breaded_breading_not_eaten	Chicken, breast, boneless, skinless, baked, breaded, breading not eaten	24127160.205835
@@ -103,10 +106,12 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 24142210	0	Chicken_drumstick_grilled_skin_eaten	Chicken, drumstick, grilled, skin eaten	24142210.0
 24142220	0	Chicken_drumstick_baked_skin_not_eaten	Chicken, drumstick, baked, skin not eaten	24142220.0
 24143210	0	Chicken_drumstick_stewed_skin_eaten	Chicken, drumstick, stewed, skin eaten	24143210.0
+24144210	205539	Fried_chicken_drumstick_fried_in_oil_no_breading_skin_eaten	Fried chicken, drumstick, fried in oil, no breading, skin eaten	24144210.205539
 24147210	205362	Fried_chicken_drumstick_fried_in_oil_skin_breading_eaten	Fried chicken, drumstick, fried in oil, skin/breading eaten	24147210.205362
 24147220	206578	Chicken_drumstick_baked_breaded_skin_breading_not_eaten	Chicken, drumstick, baked, breaded, skin/breading not eaten	24147220.206578
 24152210	0	Chicken_thigh_baked_skin_eaten	Chicken, thigh, baked, skin eaten	24152210.0
 24152220	0	Chicken_thigh_roasted_skin_not_eaten	Chicken, thigh, roasted, skin not eaten	24152220.0
+24154210	205389	Fried_chicken_thigh_fried_in_oil_no_breading_skin_eaten	Fried chicken, thigh, fried in oil, no breading, skin eaten	24154210.205389
 24162110	0	Chicken_wing_baked_skin_eaten	Chicken, wing, baked, skin eaten	24162110.0
 24162119	0	Chicken_raw_wing_with_skin	Chicken, raw, wing, with skin	24162119.0
 24162120	0	Chicken_wing_grilled_skin_not_eaten	Chicken, wing, grilled, skin not eaten	24162120.0
@@ -144,6 +149,7 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 26105120	205995	Carp_baked_or_broiled_with_oil	Carp, baked or broiled with oil	26105120.205995
 26107120	203089	Catfish_baked_or_broiled_without_fat	Catfish, baked or broiled, without fat	26107120.203089
 26107160	0	Catfish_steamed_or_poached	Catfish, steamed or poached	26107160.0
+26109120	202670	Cod_baked_or_broiled_with_butter	Cod, baked or broiled, with butter	26109120.202670
 26109128	0	Fish_cod_raw_Pacific_fillet	Fish, cod, raw, Pacific, fillet	26109128.0
 26109129	0	Fish_cod_raw_Atlantic_fillet	Fish, cod, raw, Atlantic, fillet	26109129.0
 26113160	0	Eel_steamed_or_poached	Eel, steamed or poached	26113160.0
@@ -375,6 +381,7 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 55702000	0	Cake_or_pancake_made_with_rice_flour_and_or_dried_beans_Idli_	Cake or pancake made with rice flour and/or dried beans (Idli)	55702000.0
 55703000	0	Cake_made_with_glutinous_rice_and_dried_beans_Injolmi_	Cake made with glutinous rice and dried beans (Injolmi)	55703000.0
 56101010	900000	Macaroni_or_rotini_ziti_shells_lasagna_noodles_other_pasta_cooked_no_salt_or_fat_added_	Macaroni, (or rotini, ziti, shells, lasagna noodles, other pasta), cooked (no salt or fat added)	56101010.900000
+56101030	0	Pasta_macaroni_rotini_ziti_shells_lasagna_noodles_cooked_with_salt_and_vegetable_oil_	Pasta, (macaroni, rotini, ziti, shells, lasagna noodles), cooked (with salt and vegetable oil)	56101030.0
 56113010	900000	Noodles_whole_wheat_cooked_no_salt_or_fat_added_	Noodles, whole wheat, cooked (no salt or fat added)	56113010.900000
 56116000	0	Noodles_chow_mein	Noodles, chow mein	56116000.0
 56117000	0	Long_rice_noodles_mung_beans_cooked_without_fat	Long rice noodles (mung beans), cooked without fat	56117000.0
@@ -446,6 +453,7 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 58150320	0	Fried_rice_with_chicken	Fried rice, with chicken	58150320.0
 58150510	0	Fried_rice_with_shrimp	Fried rice, with shrimp	58150510.0
 58151150	0	Sushi_with_seafood_no_vegetables	Sushi, with seafood, no vegetables	58151150.0
+58161200	0	Rice_cooked_with_coconut_milk	Rice, cooked with coconut milk	58161200.0
 58403010	0	Chicken_noodle_soup	Chicken noodle soup	58403010.0
 58404030	0	Chicken_or_turkey_rice_soup_home_recipe	Chicken or turkey rice soup, home recipe	58404030.0
 58407010	0	Noodle_soup_instant	Noodle soup, instant	58407010.0
@@ -535,6 +543,7 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 72122211	900000	Mustard_greens_fresh_cooked_no_salt_or_fat_added_	Mustard greens, fresh, cooked (no salt or fat added)	72122211.900000
 72125100	0	Spinach_raw	Spinach, raw	72125100.0
 72126000	900000	Taro_leaves_cooked_no_salt_or_fat_added_	Taro leaves, cooked (no salt or fat added)	72126000.900000
+72130200	900000	Watercress_cooked_no_salt_or_fat_added_	Watercress, cooked (no salt or fat added)	72130200.900000
 72201100	0	Broccoli_raw	Broccoli, raw	72201100.0
 72308000	0	Soup_leafy_greens_with_meat_Asian_style	Soup, leafy greens with meat, Asian style	72308000.0
 72308500	0	Soup_leafy_greens_meatless_Asian_style	Soup, leafy greens, meatless, Asian style	72308500.0
@@ -596,10 +605,12 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 75205021	0	Green_beans_fresh_cooked_with_salt_no_fat_added_	Green beans, fresh, cooked (with salt, no fat added)	75205021.0
 75205021	900000	Green_beans_fresh_cooked_no_salt_or_fat_added_	Green beans, fresh, cooked (no salt or fat added)	75205021.900000
 75205023	0	Green_beans_canned_cooked_no_fat_added	Green beans, canned, cooked, no fat added	75205023.0
+75205031	200494	String_beans_fresh_cooked_with_salt_and_vegetable_oil_	String beans, fresh, cooked (with salt and vegetable oil)	75205031.200494
 75205031	205129	Green_beans_fresh_cooked_with_salt_and_pork_fat_	Green beans, fresh, cooked (with salt and pork fat)	75205031.205129
 75206011	900000	String_beans_yellow_fresh_cooked_no_salt_or_fat_added_	String beans, yellow, fresh, cooked (no salt or fat added)	75206011.900000
 75207011	0	Bean_sprouts_fresh_cooked_with_salt_no_fat_added_	Bean sprouts, fresh, cooked (with salt, no fat added)	75207011.0
 75207013	0	Bean_sprouts_canned_cooked_no_fat_added_	Bean sprouts, canned, cooked (no fat added)	75207013.0
+75208300	900000	Bitter_melon_cooked_no_salt_or_fat_added_	Bitter melon, cooked (no salt or fat added)	75208300.900000
 75208710	900000	Broccoflower_cooked_no_salt_or_fat_added_	Broccoflower, cooked (no salt or fat added)	75208710.900000
 75209011	900000	Brussels_sprouts_fresh_cooked_no_salt_or_fat_added_	Brussels sprouts, fresh, cooked (no salt or fat added)	75209011.900000
 75210010	0	Cabbage_Chinese_Bok_Choy_cooked_with_salt_no_fat_added_	Cabbage, Chinese (Bok Choy), cooked (with salt, no fat added)	75210010.0
@@ -611,15 +622,18 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 75216173	0	Corn_yellow_and_white_canned_cooked_no_fat_added_	Corn, yellow and white, canned, cooked (no fat added)	75216173.0
 75216211	900000	Corn_white_fresh_cooked_no_salt_or_fat_added_	Corn, white, fresh, cooked (no salt or fat added)	75216211.900000
 75216710	0	Cucumber_cooked_with_salt_no_fat_added_	Cucumber, cooked (with salt, no fat added)	75216710.0
+75216710	900000	Cucumber_cooked_no_salt_or_fat_added_	Cucumber, cooked (no salt or fat added)	75216710.900000
 75217010	0	Eggplant_cooked_with_salt_no_fat_added_	Eggplant, cooked (with salt, no fat added)	75217010.0
 75217020	0	Eggplant_cooked_with_salt_and_margarine_	Eggplant, cooked (with salt and margarine)	75217020.0
 75217020	201257	Eggplant_cooked_with_salt_and_vegetable_oil_	Eggplant, cooked (with salt and vegetable oil)	75217020.201257
+75219011	900000	Mushrooms_fresh_cooked_no_salt_or_fat_added_	Mushrooms, fresh, cooked (no salt or fat added)	75219011.900000
 75219013	0	Mushrooms_canned_cooked_no_fat_added	Mushrooms, canned, cooked, no fat added	75219013.0
 75220011	0	Okra_fresh_cooked_with_salt_no_fat_added_	Okra, fresh, cooked (with salt, no fat added)	75220011.0
 75220050	0	Lettuce_cooked_with_salt_no_fat_added_	Lettuce, cooked (with salt, no fat added)	75220050.0
 75220050	900000	Lettuce_cooked_no_salt_or_fat_added_	Lettuce, cooked (no salt or fat added)	75220050.900000
 75221011	0	Onions_fresh_cooked_with_salt_no_fat_added_	Onions,  fresh, cooked (with salt, no fat added)	75221011.0
 75226010	0	Peppers_green_cooked_with_salt_no_fat_added_	Peppers, green, cooked (with salt, no fat added)	75226010.0
+75226010	900000	Peppers_green_cooked_no_salt_or_fat_added_	Peppers, green, cooked (no salt or fat added)	75226010.900000
 75227100	0	Radish_Japanese_daikon_cooked_with_salt_no_fat_added_	Radish, Japanese (daikon), cooked (with salt, no fat added)	75227100.0
 75230100	0	Sauerkraut_canned_low_sodium	Sauerkraut, canned, low sodium	75230100.0
 75236000	0	Yeast	Yeast	75236000.0
@@ -690,6 +704,8 @@ FoodCode	ModCode	Main.food.description	Old.Main.food.description	FoodID
 91781010	0	Snickers_Marathon_Protein_bar	Snickers Marathon Protein bar	91781010.0
 92101000	0	Coffee_brewed_regular	Coffee, brewed, regular	92101000.0
 92101700	0	Coffee_brewed_flavored	Coffee, brewed, flavored	92101700.0
+92101900	203108	Latte_espresso_coffee_regular_with_2_milk	Latte (espresso coffee), regular, with 2% milk	92101900.203108
+92101900	206440	Latte_espresso_coffee_regular_with_1_milk	Latte (espresso coffee), regular, with 1% milk	92101900.206440
 92103000	0	Coffee_instant_regular	Coffee, instant, regular	92103000.0
 92111010	0	Coffee_brewed_decaffeinated	Coffee, brewed, decaffeinated	92111010.0
 92114000	0	Coffee_instant_decaffeinated	Coffee, instant, decaffeinated	92114000.0

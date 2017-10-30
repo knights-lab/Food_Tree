@@ -1,0 +1,85 @@
+Main.food.description	Portion	portionwgt	FoodCode	ModCode	FoodID	Food Name	Old.Food.Portion	Total Calories	Protein (g)	Carbohydrate (g)	Dietary Fiber (g)	Total Sugars (g)	Added Sugars (g)	Total Fat (g)	Saturated Fat (g)	Monounsaturated Fat (g)	Polyunsaturated Fat (g)	Linoleic Acid (g)	a-Linolenic Acid (g)	Omega 3 - EPA (mg)	Omega 3 - DHA (mg)	Cholesterol (mg)	Calcium (mg)	Potassium (mg)	Sodium (mg)	Copper (ug)	Iron (mg)	Magnesium (mg)	Phosphorus (mg)	Selenium (ug)	Zinc (mg)	Vitamin A (ug)	Vitamin B6 (mg)	Vitamin B12 (ug)	Vitamin C (mg)	Vitamin D (ug)	Vitamin E (mg)	Vitamin K (ug)	Folate (ug)	Thiamin (mg)	Riboflavin (mg)	Niacin (mg)	Choline (mg)	FoodAmt
+Acacia_Leaves_Cha_om_	cup	75	75113081	0	75113081.0	Acacia Leaves (Cha-om)	1 cup	114	0	0	26	0	0	0	0	0	0	0	0	0	0	0	1520	0	0	0	6	0	0	0	0	387	0	0	7	0	0	0	0	0	0	0	0	1
+Acacia_Leaves_Cha_om_1_portion_1_2_oz	portion	14	75113081	0	75113081.0	Acacia Leaves (Cha-om) 1 portion = 1/2 oz	1 portion	7	0	0	2	0	0	0	0	0	0	0	0	0	0	0	95	0	0	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	0	1
+Asia_Mix	cup	64	95230001	0	95230001.0	Asia Mix	1/2 cup	220	12	41	3	3	0	1	0	6	0	0	0	0	0	0	0	0	770	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+Banana_Flower	cup, shredded or chopped	150	63107011	0	63107011.0	Banana Flower	1 cup, shredded or chopped	218	2	57	4	27	0	0	0	0	0	0	0	0	0	0	8	893	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Banana_Trunk	cup	75	63107012	0	63107012.0	Banana Trunk	1/2 cup	13	1	2	2	0	0	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+Banh_Mi_Vietnamese_Pork_Sandwich_	barbecue sandwich	282	27520321	0	27520321.0	Banh Mi (Vietnamese Pork Sandwich)	1 barbecue sandwich	210	9	45	7	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Beijing_Beef	ounce(s) cooked, no bone	170	27311411	0	27311411.0	Beijing Beef	6 ounce(s) cooked, no bone	470	21	46	1	24	0	26	5	0	0	0	0	0	0	0	0	0	660	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6
+Birdy_Thai_Coffee_	mug (8 fl oz)	115	92101001	0	92101001.0	Birdy (Thai Coffee)	4 fl oz	30	0	5	0	4	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4
+Chili_Paste	tablespoon	14.18	75121001	0	75121001.0	Chili Paste	1 tablespoon	50	2	4	0	2	0	0	0	0	0	0	0	0	0	0	0	0	130	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Djenkol_Bean	cup	164	41302200	0	41302200.0	Djenkol Bean	1 cup	345	28	52	4	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Djenkol_Bean_1_portion_1_tbs_	portion	10	41302200	0	41302200.0	Djenkol Bean (1 portion = 1 tbs)	1 portion	22	2	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Dried_Fish_100_grams_	ounce(s) cooked, no bone	100	26100170	0	26100170.0	Dried Fish (100 grams)	8 ounce(s) cooked, no bone	290	62	0	0	0	0	2	0	0	0	0	0	0	0	152	0	0	7027	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8
+Dried_Fish_Soup	coffee cup (6 fl oz)	236	27250900	0	27250900.0	Dried Fish Soup	1 coffee cup (6 fl oz)	60	15	10	0	3	0	7	0	0	0	0	0	0	0	80	0	0	670	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Dried_Fish_Soup_Real_	coffee cup (6 fl oz)	236	27250900	0	27250900.0	Dried Fish Soup (Real)	1 coffee cup (6 fl oz)	60	15	10	0	3	0	7	0	0	0	0	0	0	0	80	0	0	670	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Dried_Fried_Fish	ounce(s)	85	26100170	0	26100170.0	Dried Fried Fish	3 oz	247	53	0	0	0	0	2	0	0	0	0	0	0	0	129	0	0	2000	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Egg_Noodles_Yellow_	cup	55	56112000	0	56112000.0	Egg Noodles (Yellow)	1 cup	146	5	27	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Ei_Kyar_Kway_1_prot_1_8_a_churro_	portion	10	53520201	0	53520201.0	Ei Kyar Kway (1 prot = 1/8 a churro)	1/8 a churro	55	0	2	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.125
+Ellse_1_piece_	piece (1/12 of 2-layer cake)	24	53118201	0	53118201.0	Ellse (1 piece)	1 piece (1/12 of 2-layer cake)	60	0	0	0	0	5	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Exo_Protein_Bars	bar (1.2 oz)	35	53720611	0	53720611.0	Exo Protein Bars	1 bar (1.2 oz)	280	10	23	6	14	0	16	2	0	0	0	0	0	0	0	0	0	40	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Fish_Paste	ounce(s)	28	26100135	0	26100135.0	Fish Paste	1 oz	40	2	0	0	0	0	1	0	0	0	0	0	0	0	8	0	0	175	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Fish_Paste_1_portion_1_4_tbs_	portion	4	26100135	0	26100135.0	Fish Paste (1 portion = 1/4 tbs)	1 portion	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	22	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Fish_Soup	cup	236	27250900	0	27250900.0	Fish Soup	1 cup	60	13	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	600	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Gourd	cup	100	73303000	0	73303000.0	Gourd	1/2 cup	8	0	2	1	10	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+Green_Max_Yams_and_Multi_Grain_Cereal_1_serving_	cup	35	56299910	0	56299910.0	Green Max -Yams and Multi Grain Cereal (1 serving)	1 cup	194	7	9	1	6	0	14	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Halawa	ounce	28	91760001	0	91760001.0	Halawa	1 ounce	133	4	17	1	16	16	6	1	2	2	0	0	0	0	0	0	0	55	0	1	60	0	0	0	0	0.1	0	0	0	0	0	0	0	0	0	0	1
+Hmong_Sausage	ounce(s) cooked, no bone	226.8	25221411	0	25221411.0	Hmong Sausage	8 ounce(s) cooked, no bone	255	43	13	2	1	0	3	1	0	0	0	0	0	0	40	0	240	171	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8
+Hon_Tsai_Tai	cup, shredded	56	72122101	0	72122101.0	Hon Tsai Tai	1 cup, shredded	48	5	4	4	0	0	1	0	0	0	0	0	0	0	0	0	424	128	0	84	0	0	0	0	5000	0	0	53	0	0	0	82	0.1	0.1	1	17	1
+Jack_Fruit_raw	cup	124	75208400	0	75208400.0	Jack Fruit, raw	1 cup	157	1	38	3	31	0	1	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Jack_Fruit_Smaller_Increments	cup	124	75208400	0	75208400.0	Jack Fruit Smaller Increments	1 cup	157	3	38	3	31	0	1	0	0	0	0	0	0	0	5	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Kapoon_3_portions_3_cups_recipe_	portion	699	58407031	0	58407031.0	Kapoon (3 portions = 3 cups recipe)	1 portion	560	6	99	5	2	0	15	13	1	0	0	0	0	0	0	33	316	535	354	2	35	157	21	2	0	0.1	0	10	0	0	0	21	0.1	0	1	9	1
+Kaw_Naw_1_portion_1_cup_	portion	233	58407031	0	58407031.0	Kaw Naw (1 portion = 1 cup)	1 portion	179	4	39	3	1	0	1	0	0	0	0	0	0	0	0	32	69	31	75	0	10	41	6	0	14	0.1	0	5	0	0	3	11	0	0	0	2	1
+Khao_Soy_Soup	cup	233	58407031	0	58407031.0	Khao Soy Soup	1 cup	85	4	13	1	1	0	5	3	0	0	0	0	0	0	40	0	0	88	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Kowpia_Rice_Noodle_Porrage_	portion	498	58157301	0	58157301.0	Kowpia (Rice Noodle Porrage)	1 portion	1076	36	191	8	0	0	15	5	6	1	1	0.1	4	3	113	66	522	2804	381	4	76	443	60	7	4	0.5	1.6	0	0	0	3	37	0.2	0.3	8	91	1
+Lab_Moo_Thai	cup	182	27420021	0	27420021.0	Lab Moo Thai	1 cup	350	132	41	8	14	0	9	3	0	0	0	0	0	0	0	0	0	910	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Lead_Tree	cup, shredded or chopped	41.25	75231003	0	75231003.0	Lead Tree	1/4 cup, shredded or chopped	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	19	1	3	0	1	3	0	0	3	0	0	0	0	0	3	4	0	0	0	1	0.25
+Lead_Tree_Pod	cup	165	75231003	0	75231003.0	Lead Tree Pod	1 cup	140	20	21	9	0	0	2	0	0	0	0	0	0	0	0	31	0	0	0	22	0	26	0	0	10633	0	0	19	0	0	0	0	0	0.2	13	0	1
+Lean_25_Smoothie	cup	310	11830941	0	11830941.0	Lean 25 Smoothie	5/4 cup	170	25	6	3	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.25
+Leek_and_Potato_Soup	cup	248	75605011	0	75605011.0	Leek and Potato Soup	1 cup	158	5	27	3	6	0	4	2	0	0	0	0	0	0	0	0	0	824	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Lemon_Peel_Sin_Tone_Ma_Nwe_	tablespoon	6	61113021	0	61113021.0	Lemon Peel (Sin Tone Ma Nwe)	1  tablespoon	3	0	1	1	0	12	0	0	0	0	0	0	0	0	0	8	10	40	1	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	1
+Longan	ounce(s)	9.6	63126512	0	63126512.0	Longan	1 oz	17	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Loofah	cup, sliced	87.5	73302011	0	73302011.0	Loofah	1/2 cup, sliced	50	6	0	3	5	0	1	0	0	0	0	0	0	0	0	8	403	19	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.5
+Luna_Protien_Bar	bar	42	53720612	0	53720612.0	Luna Protien Bar	1 bar	170	13	22	3	15	0	5	3	0	0	0	0	0	0	0	0	0	270	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+M_150	can (16 fl oz)	473	95310601	0	95310601.0	M-150	1 can (16 fl oz)	274	28	30	9	11	0	6	1	0	1	0	0	0	0	0	0	0	270	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Milk_Candy	small piece	6	91745041	0	91745041.0	Milk Candy	1 small piece	15	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Minced_Pork_Salad	cup	182	27420021	0	27420021.0	Minced Pork Salad	1 cup	563	34	10	0	0	0	43	0	0	0	0	0	0	0	0	0	0	99	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Naked_Green_Juice	cup	248	78101120	0	78101120.0	Naked Green Juice	1 cup	140	2	33	0	28	0	0	0	0	0	0	0	0	0	0	0	400	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Nature_Valley_Peanut_Butter_Cup_1_cup_	package (2 cups, 1.5 oz)	42	53710906	0	53710906.0	Nature Valley Peanut Butter Cup (1 cup)	1 package (2 cups, 1.5 oz)	200	5	20	3	9	0	12	4	0	0	0	0	0	0	0	0	0	180	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Noodle_Coconut_Milk	portion	233	58407031	0	58407031.0	Noodle + Coconut Milk	1 portion	414	4	52	4	3	0	22	19	1	0	0	0	0	0	0	22	244	50	312	2	39	128	14	1	0	0	0	3	0	0	0	20	0.1	0	1	8	1
+Pacific_Soup_Sweet_Potato_Masala	cup	248	73405111	0	73405111.0	Pacific Soup Sweet Potato Masala	1 cup	160	3	25	3	3	0	6	4	0	0	0	0	0	0	0	0	0	650	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Pad_Kraprow_Pork	portion	134	22000211	0	22000211.0	Pad Kraprow Pork	1 portion	870	60	19	3	15	12	61	19	26	10	9	1	0	0	211	173	1081	1232	238	8	105	552	80	8	26	1	1.2	12	1	3	101	47	1.6	0.6	10	211	1
+Pah_Ka_Paw_1_port_1_cup_	portion	134	22000211	0	22000211.0	Pah Ka Paw (1 port = 1 cup)	1 portion	286	15	52	2	3	0	2	0	0	0	0	0	1	2	28	45	354	2502	227	3	41	167	22	1	30	0.7	0.1	89	0	1	13	166	0.3	0.1	6	32	1
+Papaya_Salad_Thai_Edited_so_Same_as_other	cup	262.5	63320101	0	63320101.0	Papaya Salad (Thai)-Edited so Same as other	3/2 cup	137	5	24	4	15	0	3	0	0	0	0	0	0	0	0	0	555	497	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.5
+Pediasure	cup	248	11710800	0	11710800.0	Pediasure	1 cup	240	7	33	1	18	0	9	1	6	2	0	0	0	0	0	0	0	90	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Pork_Skin	ounce(s) cooked, no bone	28.35	22709110	0	22709110.0	Pork Skin	1 ounce(s) cooked, no bone	118	6	0	0	0	0	10	4	4	2	0	0	0	0	22	0	0	139	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Protein_Powder	teaspoon	12	95230030	0	95230030.0	Protein Powder	2 teaspoon	23	4	1	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2
+Pumpkin_Leaves	cup	76	72133199	0	72133199.0	Pumpkin Leaves	1 cup	7	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Raising_Canes_3_box_combo_no_drink_	meal (10.75 oz)	300	24198691	0	24198691.0	Raising Canes (3 box combo no drink)	1 meal (10.75 oz)	970	29	108	1	6	0	54	6	0	0	0	0	0	0	52	0	0	1701	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Rambutan	cup	190	63126511	0	63126511.0	Rambutan	1 cup	123	1	31	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Rambutan_canned_	cup	251	63126601	0	63126601.0	Rambutan (canned)	1 cup	123	1	31	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Rice_Soup_w_Pork	cup	240	28320160	0	28320160.0	Rice Soup w/ Pork	1 cup	310	9	39	2	6	0	13	4	0	0	0	0.4	0	0	0	27	0	800	382	1	6	119	2	2	2	0.5	0	7	0	3	7	11	0.3	0.1	1	0	1
+Roselle_Leaves	cup	40	75113081	0	75113081.0	Roselle Leaves	1 cup	102	8	22	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	11	0	510	0	0	9845	0	0	129	0	0	0	0	0.4	1	1	0	1
+Roselle_Leaves_1_portion_1_2_oz_	portion	14	75113081	0	75113081.0	Roselle Leaves (1 portion = 1/2 oz)	1 portion	6	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	32	0	0	615	0	0	8	0	0	0	0	0	0.1	0	0	1
+Schaut_Thee_Zay_Byar	cup	136	62101001	0	62101001.0	Schaut Thee Zay Byar	1 cup	156	3	44	5	44	0	0	0	0	0	0	0	0	0	0	0	0	324	0	0	46	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Sesbania	cup	164	41302201	0	41302201.0	Sesbania	1 cup	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Shrimp_Paste	teaspoon	5	26319111	0	26319111.0	Shrimp Paste	1 teaspoon	20	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1490	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Skinny_Cow_Chocolate_Bar	bar (6 oz)	170	91705011	0	91705011.0	Skinny Cow Chocolate Bar	1 bar (6 oz)	110	1	14	1	9	9	6	4	0	0	0	0	0	0	0	0	0	30	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Snake_Luffa	cup	175	73302011	0	73302011.0	Snake Luffa	1 cup	39	3	8	4	4	0	0	0	0	0	0	0	0	0	0	137	239	11	151	0	64	57	1	1	25	0.3	0	29	0	0	71	82	0.2	0.1	2	16	1
+Spinach_Smoothie	fluid ounce(s)	27	64134101	0	64134101.0	Spinach Smoothie	1 fluid ounce(s)	18	1	3	0	2	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Sweet_Thai_Chili_Sauce	teaspoon	5	91361011	0	91361011.0	Sweet Thai Chili Sauce	1 teaspoon	35	0	9	1	7	0	0	0	0	0	0	0	0	0	0	0	0	200	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Tapioca	ounce(s)	28	13210500	0	13210500.0	Tapioca	1 oz	37	1	6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	41	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Taro_Leaf_1_portion_1_2_oz_	portion	14	72125999	0	72125999.0	Taro Leaf (1 portion = 1/2 oz)	1 portion	5	1	1	0	0	0	0	0	0	0	0	0	0	0	0	11	65	0	29	0	5	6	0	0	25	0	0	3	0	0	12	9	0	0	0	1	1
+Thai_Glass_Noodle_Salad	cup	150	56117112	0	56117112.0	Thai Glass Noodle Salad	1 cup	87	5	11	1	1	0	2	1	0	0	0	0	0	0	25	0	0	250	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Thai_Northern_Sausage_1_portion_1_oz_	portion	28.35	25221411	0	25221411.0	Thai Northern Sausage (1 portion = 1 oz)	1 portion	178	6	1	0	0	0	16	6	7	2	2	0.1	0	0	32	10	136	491	24	1	12	64	8	1	0	0.1	0.1	0	0	0	0	5	0.2	0.1	1	28	1
+Thai_Papaya_Salad_1_Serving_1_5_cup_	cup	315	63320101	0	63320101.0	Thai Papaya Salad (1 Serving 1.5 cup)	1.5 cup	137	5	24	4	15	0	1	0	0	0	0	0	0	0	0	0	555	497	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.5
+Thai_Tapioca_Dessert_w_Coconut_	cup	205	13210501	0	13210501.0	Thai Tapioca Dessert (w Coconut)	1 cup	254	1	48	1	15	0	7	6	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Tomato_Curry	cup	236	75440601	0	75440601.0	Tomato Curry	1 cup	318	7	58	4	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Veggie_Fritters_2_fritters_with_syrup_is_1_actual_Fritter	portion (2 fritters with syrup)	120	75440405	0	75440405.0	Veggie Fritters (2 fritters with syrup is 1 actual Fritter	1 portion (2 fritters with syrup)	233	31	7	0	4	0	3	1	1	1	0	0	0	0	69	0	0	100	0	0	0	175	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Vietnamese_Sausage	ounce(s) cooked	141.75	25220461	0	25220461.0	Vietnamese Sausage	5 ounce(s) cooked	390	18	6	0	6	0	33	12	0	0	0	0	0	0	90	0	0	840	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5
+Voiz_Cracker_Milk_	medium	11	54308000	0	54308000.0	Voiz Cracker (Milk)	1 medium	50	1	8	0	2	0	3	2	0	0	0	0	0	0	0	0	0	65	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Water_Convolvulus_Water_Spinach_	cup	25	72140100	0	72140100.0	Water Convolvulus (Water Spinach)	1 cup	11	2	2	1	0	0	0	0	0	0	0	0	0	0	2	0	0	63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Wheat_Powder_and_Sugar	cup	62.75	56207015	0	56207015.0	Wheat Powder and Sugar	1/4 cup	250	4	22	4	0	50	1	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.25
+Wing_Bean	cup	140	41107001	0	41107001.0	Wing Bean	1 cup	33	2	7	3	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Yakult	fluid ounce(s)	91.5	11115400	0	11115400.0	Yakult	3 fluid ounce(s)	50	0	12	0	11	0	0	0	0	0	0	0	0	0	0	0	0	15	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3
+Zesty_Chicken_and_Black_Bean_Salad_Bowl_Starbucks_	cup	269	27446361	0	27446361.0	Zesty Chicken and Black Bean Salad Bowl (Starbucks)	1 cup	360	14	38	8	9	0	0	3	0	0	0	0	0	0	0	0	0	840	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1

@@ -9,7 +9,8 @@ source("lib/make.food.otu.r")
 source("lib/filter.db.by.diet.records.r")
 
 
-orig_food_records_fn <- "../raw data/original_impdietrecords.txt" # original diet records with special characters removed
+#orig_food_records_fn <- "../raw data/original_impdietrecords.txt" # original diet records with special characters removed
+orig_food_records_fn <- "../raw data/meals.txt" # original diet records with special characters removed - this is generated in /metadataformatting with mapping file generation
 orig_database_fn <- "../raw data/original_SuperTrackerDatabase.txt" # original supertracker database
 orig_new_foods_fn <-  "../raw data/original_imp.missing.foods.txt" # hand-curated foods that were missing now assigned with food IDs
 
@@ -26,9 +27,9 @@ food_reported_taxonomy_fn <- "output/supertracker.taxonomy.foodsreportedonly.txt
 format.foods(orig_database_fn, food_database_fn)
 format.foods(orig_food_records_fn, old_food_records_fn, dedupe=F) # do NOT deduplicate records
 
-###### run code in add.missing.foods.to.diets here
+###### skip down and run code in add.missing.foods.to.diets 
 
-# check if any foods in our diets are missing from our database (this step not super useful)
+# this is not a useful step - only useful for the VERY first pass through in identifying what's missing
 check.db(food_database_fn, food_records_fn, output_fn="data/IMP/missing.txt")
 
 make.food.tree(nodes_fn="data/NodeLabels.txt", food_database_fn, 
@@ -39,7 +40,6 @@ make.food.tree(nodes_fn="data/NodeLabels.txt", food_database_fn,
 check.db(food_taxonomy_fn, food_records_fn, output_fn="data/IMP/diet.missing.from.taxonomy.file.txt")
 
 fotu <- make.food.otu(food_records_fn, food_record_id = "Sample.ID", food_taxonomy_fn, output_fn = "output/imp.food.otu.txt")
-
 
 ### redo tree/taxonomy/otu generation with only the foods actually reported
     filter.db.by.diet.records(food_database_fn=food_database_fn, food_records_fn=food_records_fn, output_fn=food_reported_database_fn)
@@ -53,10 +53,6 @@ fotu <- make.food.otu(food_records_fn, food_record_id = "Sample.ID", food_taxono
 
     # OTU generation should not be necessary here, but can double check
     make.food.otu(food_records_fn, food_record_id = "Sample.ID", food_reported_taxonomy_fn, output_fn = "output/imp.food.otu.foodsreportedonly.txt")
-
-
-
-
 
 
 # NOTE: Probably only useful for IMP dataset!

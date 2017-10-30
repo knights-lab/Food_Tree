@@ -1,0 +1,51 @@
+title	 Food Tree - Fiber
+total_plotted_degrees	340
+start_rotation	270
+annotation_background_alpha	0.25
+annotation_font_stretch	10
+branch_thickness	.1
+branch_bracket_depth	0.25
+branch_bracket_width	1.0
+clade_marker_size	3.0
+clade_separation	0.0
+ignore_branch_len	1	
+
+L1_Meat_Poultry_Fish_and_Mixtures*	clade_marker_color	#C0392B
+L1_Grain_Product*	clade_marker_color	#D35400
+L1_Vegetables*	clade_marker_color	#229954
+L1_Milk_and_Milk_Products*	clade_marker_color	#3498DB
+L1_Sugars_Sweets_and_Beverages*	clade_marker_color	#D81B60
+L1_Fruits*	clade_marker_color	#7D3C98
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds*	clade_marker_color	#E67E22
+L1_Eggs*	clade_marker_color	#F1C40F
+L1_Fats_Oils_and_Salad_Dressings*	clade_marker_color	#707B7C
+
+
+L1_Meat_Poultry_Fish_and_Mixtures	annotation	Meats
+L1_Meat_Poultry_Fish_and_Mixtures	annotation_background_color	#E6B0AA
+L1_Grain_Product	annotation	Grains
+L1_Grain_Product	annotation_background_color	#EDBB99
+L1_Vegetables	annotation	Vegetables
+L1_Vegetables	annotation_background_color	#7DCEA0
+L1_Milk_and_Milk_Products	annotation	Milks
+L1_Milk_and_Milk_Products	annotation_background_color	#AED6F1
+L1_Sugars_Sweets_and_Beverages	annotation	Sugars and Beverages
+L1_Sugars_Sweets_and_Beverages	annotation_background_color	#F48FB1
+L1_Fruits	annotation	Fruits
+L1_Fruits	annotation_background_color	#BB8FCE
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds	annotation	Legumes
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds	annotation_background_color	#F5CBA7
+L1_Eggs	annotation	Eggs
+L1_Eggs	annotation_background_color	#F9E79F
+L1_Fats_Oils_and_Salad_Dressings	annotation	Fats
+L1_Fats_Oils_and_Salad_Dressings	annotation_background_color	#AAB7B8
+
+L1_Meat_Poultry_Fish_and_Mixtures	annotation_font_size	5
+L1_Grain_Product	annotation_font_size	5
+L1_Vegetables	annotation_font_size	5
+L1_Milk_and_Milk_Products	annotation_font_size	5
+L1_Sugars_Sweets_and_Beverages	annotation_font_size	5
+L1_Fruits	annotation_font_size	5
+L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds	annotation_font_size	5
+L1_Eggs	annotation_font_size	5
+L1_Fats_Oils_and_Salad_Dressings	annotation_font_size	5
