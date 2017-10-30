@@ -1,7 +1,8 @@
-.Rhistory
-.Rapp.history 
-R/data/IMP/SuperTrackerDatabase.txt
-raw data/original_SuperTrackerDatabase.txt
-SuperTracker Foods Database 2017.xlsx
+*.Rhistory
+*.Rapp.history 
+*SuperTrackerDatabase.txt
+*original_SuperTrackerDatabase.txt
+*“SuperTracker Foods Database 2017.xlsx”
+*”SuperTracker Database - Portion Data.txt”
+*”SuperTracker Database - Nutrients.txt”
 
-IMP/.Rapp.history
