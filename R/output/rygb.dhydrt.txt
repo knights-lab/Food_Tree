@@ -1,0 +1,384 @@
+#FOODID	RYGBLT23015	RYGBLT23026	RYGBLT23010	RYGBLT23014	RYGBLT23034	taxonomy
+Milk NFS	39.345	26.23	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;L5_;Milk_NFS
+Milk cows fluid whole	0	0	21.7221	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;L5_;Milk_cows_fluid_whole
+Milk cows fluid 2 fat	0	0	13.1638	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;L5_;Milk_cows_fluid_2_fat
+Milk cows fluid 1 fat	24.5952	18.4464	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;L5_;Milk_cows_fluid_1_fat
+Milk cows fluid skim or nonfat 0 5 or less butterfat	266.29952	0	22.42368	11.21184	151.37358	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;L5_;Milk_cows_fluid_skim_or_nonfat_0_5_or_less_butterfat
+Yogurt plain lowfat milk	0	25.418325	25.418325	9.144625	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_plain_lowfat_milk
+Yogurt plain nonfat milk	27.139875	0	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_plain_nonfat_milk
+Yogurt vanilla lemon maple or coffee flavor lowfat milk	36.6975	0	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_vanilla_lemon_maple_or_coffee_flavor_lowfat_milk
+Yogurt fruit variety lowfat milk	395.0496	0	0	238.612	260.304	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_fruit_variety_lowfat_milk
+Yogurt fruit variety nonfat milk	0	0	0	55.842	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_fruit_variety_nonfat_milk
+Yogurt fruit variety nonfat milk sweetened with low calorie sweetener	0	0	0	14.416721	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_fruit_variety_nonfat_milk_sweetened_with_low_calorie_sweetener
+Yogurt frozen flavors other than chocolate lowfat milk	55.38	0	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;L5_;Yogurt_frozen_flavors_other_than_chocolate_lowfat_milk
+Milk chocolate skim milk based	77.27616	0	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Milk_chocolate_skim_milk_based
+Cocoa and sugar mixture skim milk added	0	0	0	0	495.7056	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Flavored_milk_and_milk_drinks_fluid;L4_;L5_;Cocoa_and_sugar_mixture_skim_milk_added
+Cocoa or chocolate flavored beverage powder with sugar dry mix not reconstituted	62.37	0	0	0	0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;L5_;Cocoa_or_chocolate_flavored_beverage_powder_with_sugar_dry_mix_not_reconstituted
+Cream NS as to light heavy or half and half	0	0	5.829	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;L5_;Cream_NS_as_to_light_heavy_or_half_and_half
+Cream heavy fluid	0	0	6.340963	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;L5_;Cream_heavy_fluid
+Cream substitute liquid	0	6.819	0	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;L5_;Cream_substitute_liquid
+Cream substitute flavored liquid	29.964	7.550928	0	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;L5_;Cream_substitute_flavored_liquid
+Cream substitute fat free flavored liquid	12.556896	0	0	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;L5_;Cream_substitute_fat_free_flavored_liquid
+Sour cream	0	5.51	3.665501	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sour_cream;L4_;L5_;Sour_cream
+Dip sour cream base	0	28.848656	0	0	0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sour_cream;L4_;L5_;Dip_sour_cream_base
+Ice cream regular chocolate	106.32	0	0	0	0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;L5_;Ice_cream_regular_chocolate
+Ice cream cookie sandwich	0	0	0	0	53.865	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;L5_;Ice_cream_cookie_sandwich
+Ice cream sundae cone	0	0	0	55.3832	0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;L5_;Ice_cream_sundae_cone
+Milk dessert bar frozen made from lowfat milk	0	0	0	0	124.9668	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;L5_;Milk_dessert_bar_frozen_made_from_lowfat_milk
+Milk dessert bar frozen made from lowfat milk and low calorie sweetener	0	0	0	0	323.162	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;L5_;Milk_dessert_bar_frozen_made_from_lowfat_milk_and_low_calorie_sweetener
+Cheese NFS	0	53.419063	0	0	16.111305	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_NS_as_to_type;L4_;L5_;Cheese_NFS
+Cheese Cheddar	84.81825	0	0	17.868124	13.401093	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Cheddar
+Cheese Colby Jack	0	0	0	0	38.052	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Colby_Jack
+Cheese Mozzarella whole milk	0	31.4937	0	7.061087	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Mozzarella_whole_milk
+Cheese Mozzarella part skim	113.55834	0	0	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Mozzarella_part_skim
+Cheese Parmesan dry grated	42.23186	0	0	9.895	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Parmesan_dry_grated
+Cheese Swiss	0	0	13.15764	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Swiss
+Cheese Swiss nonfat or fat free	15.288	0	0	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;L5_;Cheese_Swiss_nonfat_or_fat_free
+Cheese cottage creamed large or small curd	53.05125	0	0	5.305125	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cottage_cheeses;L4_;L5_;Cheese_cottage_creamed_large_or_small_curd
+Cheese cottage salted dry curd	28.71	0	21.5325	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cottage_cheeses;L4_;L5_;Cheese_cottage_salted_dry_curd
+Cheese cottage lowfat 1 2 fat 	65.4609	0	0	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cottage_cheeses;L4_;L5_;Cheese_cottage_lowfat_1_2_fat_
+Cheese cream	0	13.2124	0	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cream_cheeses;L4_;L5_;Cheese_cream
+Cheese American	11.7705	0	0	15.890175	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;L5_;Cheese_American
+Cheese American nonfat or fat free	14.683882	0	0	0	0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;L5_;Cheese_American_nonfat_or_fat_free
+Cheese spread American or Cheddar cheese base	0	0	0	0	30.807975	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;L5_;Cheese_spread_American_or_Cheddar_cheese_base
+Beef NS as to cut cooked NS as to fat eaten	0	13.7886	93.35088	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;L5_;Beef_NS_as_to_cut_cooked_NS_as_to_fat_eaten
+Beef steak broiled or baked lean and fat eaten	10.571715	0	24.9843	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_steak;L4_;L5_;Beef_steak_broiled_or_baked_lean_and_fat_eaten
+Beef steak broiled or baked lean only eaten	0	0	0	10.18332	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_steak;L4_;L5_;Beef_steak_broiled_or_baked_lean_only_eaten
+Beef roast roasted lean and fat eaten	0	0	0	0	18.07995	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_roasts_stew_meat_corned_beef_beef_brisket_sandwich_steaks;L4_;L5_;Beef_roast_roasted_lean_and_fat_eaten
+Corned beef cooked NS as to fat eaten	0	0	25.3323	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_roasts_stew_meat_corned_beef_beef_brisket_sandwich_steaks;L4_;L5_;Corned_beef_cooked_NS_as_to_fat_eaten
+Ground beef less than 80 lean cooked formerly regular 	0	0	19.28025	84.227	33.022	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Ground_beef_beef_patties_beef_meatballs;L4_;L5_;Ground_beef_less_than_80_lean_cooked_formerly_regular_
+Ham smoked or cured cooked NS as to fat eaten	0	0	0	0	6.449625	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Ham;L4_;L5_;Ham_smoked_or_cured_cooked_NS_as_to_fat_eaten
+Ham smoked or cured cooked lean and fat eaten	0	0	5.334875	0	10.66975	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Ham;L4_;L5_;Ham_smoked_or_cured_cooked_lean_and_fat_eaten
+Ham smoked or cured cooked lean only eaten	35.56224	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Ham;L4_;L5_;Ham_smoked_or_cured_cooked_lean_only_eaten
+Pork bacon NS as to fresh smoked or cured cooked	0	0	0	0	109.944	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Bacon_salt_pork;L4_;L5_;Pork_bacon_NS_as_to_fresh_smoked_or_cured_cooked
+Pork bacon smoked or cured cooked	7.635	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Bacon_salt_pork;L4_;L5_;Pork_bacon_smoked_or_cured_cooked
+Pork spareribs barbecued with sauce lean and fat eaten	23.04	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Other_pork_items;L4_;L5_;Pork_spareribs_barbecued_with_sauce_lean_and_fat_eaten
+Chicken NS as to part and cooking method skin not eaten	0	9.968	0	24.03	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_NS_as_to_part_and_cooking_method_skin_not_eaten
+Chicken breast roasted broiled or baked skin eaten	0	6.426	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_breast_roasted_broiled_or_baked_skin_eaten
+Chicken breast roasted broiled or baked skin not eaten	12.254625	0	0	21.786	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_breast_roasted_broiled_or_baked_skin_not_eaten
+Chicken breast coated baked or fried prepared with skin skincoating eaten	65.8125	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_breast_coated_baked_or_fried_prepared_with_skin_skincoating_eaten
+Chicken breast coated baked or fried prepared skinless coating eaten W O FAT	0	0	0	0	57.274	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_breast_coated_baked_or_fried_prepared_skinless_coating_eaten_W_O_FAT
+Chicken drumstick fried no coating skin eaten W VEGETABLE OIL NFS INCLUDE OIL NFS 	0	0	294.5472	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_drumstick_fried_no_coating_skin_eaten_W_VEGETABLE_OIL_NFS_INCLUDE_OIL_NFS_
+Chicken drumstick from fast food coated baked or fried prepared with skin skincoating eaten	0	0	14.424	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_drumstick_from_fast_food_coated_baked_or_fried_prepared_with_skin_skincoating_eaten
+Chicken thigh from fast food coated baked or fried prepared with skin skincoating eaten	0	0	55.429	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_thigh_from_fast_food_coated_baked_or_fried_prepared_with_skin_skincoating_eaten
+Chicken wing coated baked or fried prepared with skin skin coating eaten W VEGETABLE OIL NFS INCLUDE OIL NFS 	0	23.6504	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_wing_coated_baked_or_fried_prepared_with_skin_skin_coating_eaten_W_VEGETABLE_OIL_NFS_INCLUDE_OIL_NFS_
+Chicken wing from fast food coated baked or fried prepared with skin skincoating eaten	0	0	30.8715	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_wing_from_fast_food_coated_baked_or_fried_prepared_with_skin_skincoating_eaten
+Chicken patty fillet or tenders breaded cooked from fast food restaurant	0	0	98.496	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_patty_fillet_or_tenders_breaded_cooked_from_fast_food_restaurant
+Chicken nuggets from fast food restaurant	0	0	85.552	0	17.1104	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Chicken;L4_;L5_;Chicken_nuggets_from_fast_food_restaurant
+Turkey NFS	0	0	0	0	5.384812	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Turkey;L4_;L5_;Turkey_NFS
+Turkey light meat roasted skin not eaten	10.769625	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Turkey;L4_;L5_;Turkey_light_meat_roasted_skin_not_eaten
+Turkey light or dark meat stewed NS as to skin eaten	0	0	13.07475	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Poultry;L3_Turkey;L4_;L5_;Turkey_light_or_dark_meat_stewed_NS_as_to_skin_eaten
+Frankfurter or hot dog meat and poultry	0	0	100.4568	25.1142	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Frankfurters;L5_;Frankfurter_or_hot_dog_meat_and_poultry
+Beef sausage	0	5.625	19.6875	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Sausages;L5_;Beef_sausage
+Bratwurst	0	36.4125	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Sausages;L5_;Bratwurst
+Pork sausage	30.066	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Sausages;L5_;Pork_sausage
+Pork and beef sausage	0	0	0	11.09	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Sausages;L5_;Pork_and_beef_sausage
+Salami NFS	0	13.4688	0	26.9376	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Sausages;L5_;Salami_NFS
+Ham sliced prepackaged or deli luncheon meat	52.437	0	0	48.9412	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Luncheon_meats;L5_;Ham_sliced_prepackaged_or_deli_luncheon_meat
+Ham sliced extra lean lower sodium prepackaged or deli luncheon meat	0	0	0	0	20.9748	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Luncheon_meats;L5_;Ham_sliced_extra_lean_lower_sodium_prepackaged_or_deli_luncheon_meat
+Chicken or turkey loaf prepackaged or deli luncheon meat	0	0	0	20.3784	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Luncheon_meats;L5_;Chicken_or_turkey_loaf_prepackaged_or_deli_luncheon_meat
+Turkey or chicken breast prepackaged or deli luncheon meat	36.755775	14.70231	14.70231	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Luncheon_meats;L5_;Turkey_or_chicken_breast_prepackaged_or_deli_luncheon_meat
+Beef sliced prepackaged or deli luncheon meat	0	30.910617	15.57549	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Luncheon_meats;L5_;Beef_sliced_prepackaged_or_deli_luncheon_meat
+Fish stick patty or nugget from restaurant home or other place	28.785	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Fish_stick_patty_or_nugget_from_restaurant_home_or_other_place
+Halibut baked or broiled made with oil	0	48.71664	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Halibut_baked_or_broiled_made_with_oil
+Salmon baked or broiled made with oil	19.58418	0	9.79209	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Salmon_baked_or_broiled_made_with_oil
+Tuna canned water pack	0	0	30.1668	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Finfish;L4_;L5_;Tuna_canned_water_pack
+Lobster steamed or boiled	0	0	38.1024	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Shellfish;L4_;L5_;Lobster_steamed_or_boiled
+Scallops baked or broiled fat added in cooking	0	13.1612	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Fish_and_shellfish;L3_Shellfish;L4_;L5_;Scallops_baked_or_broiled_fat_added_in_cooking
+Chili con carne with beans	0	0	29.4894	103.2129	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_meatpoultryfish_in_gravy;L4_Beef_in_gravy_or_sauce;L5_;Chili_con_carne_with_beans
+Chicken or turkey with barbecue sauce skin eaten	0	0	0	0	57.512	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_meatpoultryfish_in_gravy;L4_Poultry_with_gravy_or_sauce;L5_;Chicken_or_turkey_with_barbecue_sauce_skin_eaten
+Chicken or turkey parmigiana	0	0	0	0	63.0266	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_meatpoultryfish_in_gravy;L4_Poultry_with_gravy_or_sauce;L5_;Chicken_or_turkey_parmigiana
+Meat loaf made with beef	0	70.4816	0	40.77864	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meatpoultry_fish_with_starch_item;L4_Beef_with_starch_item;L5_;Meat_loaf_made_with_beef
+Meat loaf made with beef with tomato based sauce	0	0	0	6.970925	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meatpoultry_fish_with_starch_item;L4_Beef_with_starch_item;L5_;Meat_loaf_made_with_beef_with_tomato_based_sauce
+Chicken or turkey and noodles with gravy mixture 	0	0	0	0	62.944	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meatpoultry_fish_with_starch_item;L4_Poultry_with_starch_item;L5_;Chicken_or_turkey_and_noodles_with_gravy_mixture_
+Chicken or turkey pot pie	0	0	82.9685	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meatpoultry_fish_with_starch_item_and_vegetables;L4_Poultry_with_starch_and_vegetable;L5_;Chicken_or_turkey_pot_pie
+Ham or pork salad	0	0	50.505	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meat_poultry_fish_with_vegetables;L4_Pork_with_vegetable_no_potatoes;L5_;Ham_or_pork_salad
+Chicken or turkey shish kabob with vegetables excluding potatoes	17.864	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meat_poultry_fish_with_vegetables;L4_Poultry_with_vegetables_no_potatoes;L5_;Chicken_or_turkey_shish_kabob_with_vegetables_excluding_potatoes
+Chicken or turkey salad made with mayonnaise	0	0	163.6692	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meat_poultry_fish_with_vegetables;L4_Poultry_with_vegetables_no_potatoes;L5_;Chicken_or_turkey_salad_made_with_mayonnaise
+Chicken or turkey salad made with mayonnaise type salad dressing	0	0	18.5433	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meat_poultry_fish_with_vegetables;L4_Poultry_with_vegetables_no_potatoes;L5_;Chicken_or_turkey_salad_made_with_mayonnaise_type_salad_dressing
+Shrimp salad	0	13.80925	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Meat_poultry_fish_with_vegetables;L4_Fish_shellfish_with_vegetables_no_potatoes;L5_;Shrimp_salad
+Bacon cheeseburger with mayonnaise or salad dressing tomato andor catsup on bun	0	0	0	0	18.0676	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Sandwiches_with_meat_poultry_fish;L4_Beef_sandwiches;L5_;Bacon_cheeseburger_with_mayonnaise_or_salad_dressing_tomato_andor_catsup_on_bun
+Chicken patty sandwich with lettuce and spread	0	0	38.7244	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Sandwiches_with_meat_poultry_fish;L4_Poultry_sandwiches;L5_;Chicken_patty_sandwich_with_lettuce_and_spread
+Turkey submarine sandwich with cheese lettuce tomato and spread	0	0	0	11.1216	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meatpoultry_fish_with_nonmeat;L3_Sandwiches_with_meat_poultry_fish;L4_Poultry_sandwiches;L5_;Turkey_submarine_sandwich_with_cheese_lettuce_tomato_and_spread
+Salisbury steak baked with tomato sauce vegetable diet frozen meal 	27.82805	27.82805	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Frozen_and_shelfstable_plate_meals_soups_and_gravies;L3_Frozen_or_shelfstable_plate_meals_with_meat_poultry_fish;L4_Beef_frozen_or_shelfstable_meals;L5_;Salisbury_steak_baked_with_tomato_sauce_vegetable_diet_frozen_meal_
+Chicken with noodles and cheese sauce diet frozen meal 	0	0	0	0	33.8242	L1_Meat_Poultry_Fish_and_Mixtures;L2_Frozen_and_shelfstable_plate_meals_soups_and_gravies;L3_Frozen_or_shelfstable_plate_meals_with_meat_poultry_fish;L4_Poultry_frozen_or_shelfstable_meals;L5_;Chicken_with_noodles_and_cheese_sauce_diet_frozen_meal_
+Chicken or turkey vegetable soup stew type	19.056	0	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Frozen_and_shelfstable_plate_meals_soups_and_gravies;L3_Soups_broths_extracts_from_meat_poultry_fish_base;L4_Poultry_soups;L5_;Chicken_or_turkey_vegetable_soup_stew_type
+Gravy poultry	0	0	0	0	6.542025	L1_Meat_Poultry_Fish_and_Mixtures;L2_Frozen_and_shelfstable_plate_meals_soups_and_gravies;L3_Gravies_from_meat_poultry_fish_base;L4_;L5_;Gravy_poultry
+Gravy beef or meat	0	7.2929	0	0	0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Frozen_and_shelfstable_plate_meals_soups_and_gravies;L3_Gravies_from_meat_poultry_fish_base;L4_;L5_;Gravy_beef_or_meat
+Egg whole boiled or poached	0	0	24.42	73.26	0	L1_Eggs;L2_Eggs;L3_Chicken_eggs;L4_;L5_;Egg_whole_boiled_or_poached
+Egg whole fried with butter	0	0	44.4498	0	0	L1_Eggs;L2_Eggs;L3_Chicken_eggs;L4_;L5_;Egg_whole_fried_with_butter
+Egg omelet or scrambled egg made with oil	0	0	17.4155	0	0	L1_Eggs;L2_Egg_mixtures;L3_Egg_dishes_made_with_whole_eggs;L4_;L5_;Egg_omelet_or_scrambled_egg_made_with_oil
+Egg omelet or scrambled egg made with cooking spray	0	14.9694	0	0	0	L1_Eggs;L2_Egg_mixtures;L3_Egg_dishes_made_with_whole_eggs;L4_;L5_;Egg_omelet_or_scrambled_egg_made_with_cooking_spray
+Egg omelet or scrambled egg with cheese made with oil	0	0	46.1748	0	0	L1_Eggs;L2_Egg_mixtures;L3_Egg_dishes_made_with_whole_eggs;L4_;L5_;Egg_omelet_or_scrambled_egg_with_cheese_made_with_oil
+Egg omelet or scrambled egg with cheese and meat made with butter	0	0	75.5242	0	0	L1_Eggs;L2_Egg_mixtures;L3_Egg_dishes_made_with_whole_eggs;L4_;L5_;Egg_omelet_or_scrambled_egg_with_cheese_and_meat_made_with_butter
+Egg omelet or scrambled egg with cheese and dark green vegetables fat added in cooking	0	24.5754	0	0	0	L1_Eggs;L2_Egg_mixtures;L3_Egg_dishes_made_with_whole_eggs;L4_;L5_;Egg_omelet_or_scrambled_egg_with_cheese_and_dark_green_vegetables_fat_added_in_cooking
+Egg white omelet scrambled or fried made without fat	13.374	0	0	0	0	L1_Eggs;L2_Egg_mixtures;L3_Mixtures_made_with_egg_whites;L4_;L5_;Egg_white_omelet_scrambled_or_fried_made_without_fat
+Baked beans vegetarian	0	0	0	0	62.23	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_Dried_beans_mixtures;L4_;L5_;Baked_beans_vegetarian
+Soybean curd	0	23.6964	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_Soybean_derived_products_excluding_milks;L4_;L5_;Soybean_curd
+Soy sauce	0	13.793906	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_Soybean_derived_products_excluding_milks;L4_;L5_;Soy_sauce
+Split pea soup	0	0	38.625	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_Soups_with_legumes_as_major_ingredient;L4_;L5_;Split_pea_soup
+Vegetarian burger or patty meatless no bun	0	27.153	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_Meat_substitutes_mainly_legume_protein;L4_;L5_;Vegetarian_burger_or_patty_meatless_no_bun
+Almonds dry roasted without salt	0	0	31.401778	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_Nuts;L4_;L5_;Almonds_dry_roasted_without_salt
+Pecans	0	15.825913	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_Nuts;L4_;L5_;Pecans
+Peanut butter	31.4208	15.7104	47.1312	31.4208	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_Nut_butters;L4_;L5_;Peanut_butter
+Peanut butter reduced fat	0	0	0	35.568	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_Nut_butters;L4_;L5_;Peanut_butter_reduced_fat
+Coconut milk liquid expressed from grated coconut meat water added 	0	106.854	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_Coconut_beverages;L4_;L5_;Coconut_milk_liquid_expressed_from_grated_coconut_meat_water_added_
+Nut mixture with dried fruit seeds and chocolate	32.69	0	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_Nut_mixtures;L4_;L5_;Nut_mixture_with_dried_fruit_seeds_and_chocolate
+Sunflower seeds hulled roasted without salt	33.23025	0	0	0	0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Seeds_and_seed_mixtures;L3_Seeds;L4_;L5_;Sunflower_seeds_hulled_roasted_without_salt
+Bread NS as to major flour	17.8248	35.6496	0	0	0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;L5_;Bread_NS_as_to_major_flour
+Bread made from home recipe or purchased at a bakery NS as to major flour	0	6.771172	0	0	0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;L5_;Bread_made_from_home_recipe_or_purchased_at_a_bakery_NS_as_to_major_flour
+Bread white	0	0	0	8.9124	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bread_white
+Bread pita	38.703	0	0	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bread_pita
+Bread cinnamon	17.8248	0	0	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bread_cinnamon
+Bread garlic	86.08815	0	0	54.871	6.858875	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bread_garlic
+Bread sour dough	0	0	34.6512	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bread_sour_dough
+Roll white soft	34.2264	36.8592	34.2264	96.7554	2.3037	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Roll_white_soft
+Roll sweet cinnamon bun frosted	8.996625	0	0	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Roll_sweet_cinnamon_bun_frosted
+Bagel	0	16.5672	0	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bagel
+Bread stuffing	0	8.7875	0	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Bread_stuffing
+Muffin English	36.8271	0	0	0	0	L1_Grain_Product;L2_Yeast;L3_White_breads_rolls;L4_;L5_;Muffin_English
+Bread whole wheat NS as to 100 	0	0	142.7166	0	0	L1_Grain_Product;L2_Yeast;L3_Wheat_cracked_wheat_breads_rolls;L4_;L5_;Bread_whole_wheat_NS_as_to_100_
+Bread whole wheat NS as to 100 toasted	0	0	49.995	0	0	L1_Grain_Product;L2_Yeast;L3_Wheat_cracked_wheat_breads_rolls;L4_;L5_;Bread_whole_wheat_NS_as_to_100_toasted
+Bread wheat or cracked wheat	0	0	0	36.6632	0	L1_Grain_Product;L2_Yeast;L3_Wheat_cracked_wheat_breads_rolls;L4_;L5_;Bread_wheat_or_cracked_wheat
+Muffin English wheat or cracked wheat with raisins	0	34.8812	0	0	0	L1_Grain_Product;L2_Yeast;L3_Wheat_cracked_wheat_breads_rolls;L4_;L5_;Muffin_English_wheat_or_cracked_wheat_with_raisins
+Bread rye	0	0	20.064	0	0	L1_Grain_Product;L2_Yeast;L3_Rye_breads_rolls;L4_;L5_;Bread_rye
+Bread multigrain	0	0	0	90.8064	0	L1_Grain_Product;L2_Yeast;L3_Multigrain_breads_rolls;L4_;L5_;Bread_multigrain
+Cornbread stuffing	0	0	0	0	17.55	L1_Grain_Product;L2_Quick_breads;L3_Cornbread_corn_muffins_tortillas;L4_;L5_;Cornbread_stuffing
+Tortilla flour wheat 	0	0	0	61.578	0	L1_Grain_Product;L2_Quick_breads;L3_Cornbread_corn_muffins_tortillas;L4_;L5_;Tortilla_flour_wheat_
+Taco shell corn	0	26.1856	78.5568	13.0928	0	L1_Grain_Product;L2_Quick_breads;L3_Cornbread_corn_muffins_tortillas;L4_;L5_;Taco_shell_corn
+Muffin fruit	0	0	37.885	0	75.77	L1_Grain_Product;L2_Quick_breads;L3_Other_muffins_popovers;L4_;L5_;Muffin_fruit
+Muffin chocolate chip	57.001	0	0	0	0	L1_Grain_Product;L2_Quick_breads;L3_Other_muffins_popovers;L4_;L5_;Muffin_chocolate_chip
+Muffin pumpkin	0	217.49	0	0	0	L1_Grain_Product;L2_Quick_breads;L3_Other_muffins_popovers;L4_;L5_;Muffin_pumpkin
+Bread fruit	0	0	0	29.7701	0	L1_Grain_Product;L2_Quick_breads;L3_Other_quick_breads;L4_;L5_;Bread_fruit
+Cake or cupcake NS as to type	0	0	0	34.3024	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cakes;L4_;L5_;Cake_or_cupcake_NS_as_to_type
+Cake or cupcake chocolate devils food or fudge with icing or filling	0	7.30875	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cakes;L4_;L5_;Cake_or_cupcake_chocolate_devils_food_or_fudge_with_icing_or_filling
+Cake or cupcake marble with icing or filling	0	0	0	0	19.87215	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cakes;L4_;L5_;Cake_or_cupcake_marble_with_icing_or_filling
+Cookie NFS	0	77.072	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_NFS
+Cookie brownie without icing	0	0	0	0	51.84	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_brownie_without_icing
+Cookie brownie reduced fat NS as to icing	0	45.102	0	0	150.34	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_brownie_reduced_fat_NS_as_to_icing
+Cookie brownie fat free NS as to icing	0	67.653	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_brownie_fat_free_NS_as_to_icing
+Cookie chocolate chip	0	0	0	0	48.17	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_chocolate_chip
+Cookie chocolate chip reduced fat	0	83.376	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_chocolate_chip_reduced_fat
+Cookie chocolate sandwich	0	0	29.064	10.6568	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_chocolate_sandwich
+Cookie chocolate sandwich with extra filling	0	0	0	44.2575	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_chocolate_sandwich_with_extra_filling
+Cookie coconut	26.82	0	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_coconut
+Cookie fortune	0	0	7.36	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_fortune
+Cookie oatmeal with raisins	0	0	94.299057	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_oatmeal_with_raisins
+Cookie peanut butter	28.17	0	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_peanut_butter
+Cookie with peanut butter filling chocolate coated	0	0	0	27.496	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_with_peanut_butter_filling_chocolate_coated
+Cookie shortbread	0	30.3345	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_shortbread
+Cookie vanilla with caramel coconut and chocolate coating	52.808	0	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cookies;L4_;L5_;Cookie_vanilla_with_caramel_coconut_and_chocolate_coating
+Pastry puff	5.093	0	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cobblers_eclairs_turnovers_other_pastries;L4_;L5_;Pastry_puff
+Pastry puff custard or cream filled iced or not iced	0	0	112.812	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Cobblers_eclairs_turnovers_other_pastries;L4_;L5_;Pastry_puff_custard_or_cream_filled_iced_or_not_iced
+Danish pastry plain or spice	0	0	107.494	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Danish_breakfast_pastries_doughnuts;L4_;L5_;Danish_pastry_plain_or_spice
+Doughnut chocolate cake type with chocolate icing	0	0	16.648	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Danish_breakfast_pastries_doughnuts;L4_;L5_;Doughnut_chocolate_cake_type_with_chocolate_icing
+Kashi TLC Chewy Granola Bar	0	0	0	31.731	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Bars;L4_Cereal_bars_granola_bars;L5_;Kashi_TLC_Chewy_Granola_Bar
+Snack bar oatmeal	0	54.084	0	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Bars;L4_Cereal_bars_granola_bars;L5_;Snack_bar_oatmeal
+Granola bar NFS	0	0	41.323	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Bars;L4_Cereal_bars_granola_bars;L5_;Granola_bar_NFS
+Granola bar lowfat NFS	0	0	22.5048	0	0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_Bars;L4_Cereal_bars_granola_bars;L5_;Granola_bar_lowfat_NFS
+Cracker snack	2.33016	0	0	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Nonsweet_crackers;L4_;L5_;Cracker_snack
+Cracker cheese	0	0	34.722	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Nonsweet_crackers;L4_;L5_;Cracker_cheese
+Crackers saltine	0	0	11.3952	62.6736	71.22	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Nonsweet_crackers;L4_;L5_;Crackers_saltine
+Cracker 100 whole wheat	0	0	9.12364	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Nonsweet_crackers;L4_;L5_;Cracker_100_whole_wheat
+Crackers wheat	0	0	0	0	46.4736	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Nonsweet_crackers;L4_;L5_;Crackers_wheat
+Salty snacks corn or cornmeal base corn puffs and twists corn cheese puffs and twists	79.1476	0	29.496	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Salty_snacks_corn_or_cornmeal_base_corn_puffs_and_twists_corn_cheese_puffs_and_twists
+Salty snacks corn or cornmeal base tortilla chips	31.104	0	0	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Salty_snacks_corn_or_cornmeal_base_tortilla_chips
+Salty snacks multigrain whole grain chips made with whole corn whole wheat rice flour and whole oat flour 	0	27.4288	0	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Salty_snacks_multigrain_whole_grain_chips_made_with_whole_corn_whole_wheat_rice_flour_and_whole_oat_flour_
+Popcorn popped in oil unbuttered	0	32.604	0	21.736	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Popcorn_popped_in_oil_unbuttered
+Popcorn air popped no butter or no oil added 	0	0	7.7344	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Popcorn_air_popped_no_butter_or_no_oil_added_
+Popcorn popped in oil buttered	0	0	27.7088	174.1696	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Popcorn_popped_in_oil_buttered
+Popcorn flavored	0	0	5.85	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Popcorn_flavored
+Popcorn sugar syrup or caramel coated	0	0	51.03	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Popcorn_sugar_syrup_or_caramel_coated
+Pretzels hard	0	19.8604	0	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Pretzels_hard
+Pretzels cheese filled	0	70.7976	0	0	0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Salty_snacks_from_grain_products;L4_;L5_;Pretzels_cheese_filled
+Noodles cooked fat not added in cooking	0	0	6.534	0	0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Noodles_cooked_fat_not_added_in_cooking
+Spaghetti cooked NS as to fat added in cooking	0	0	0	0	26.768	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Spaghetti_cooked_NS_as_to_fat_added_in_cooking
+Spaghetti cooked fat not added in cooking	0	0	13.384	0	0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Pastas;L4_;L5_;Spaghetti_cooked_fat_not_added_in_cooking
+Cornmeal mush fried	0	21.19853	0	0	0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Cornmeal_mush_fried
+Oatmeal cooked instant fat not added in cooking	36.366	0	0	0	36.366	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Oatmeal_cooked_instant_fat_not_added_in_cooking
+Rice white cooked fat not added in cooking	0	6.318025	0	0	0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_white_cooked_fat_not_added_in_cooking
+Rice wild 100 cooked fat not added in cooking	0	10.8732	0	0	0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Rice_wild_100_cooked_fat_not_added_in_cooking
+Wheat cream of cooked regular fat not added in cooking	0	0	20.651025	0	0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_Cooked_cereals_rice;L4_;L5_;Wheat_cream_of_cooked_regular_fat_not_added_in_cooking
+Cheerios	0	0	79.6908	86.3317	0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Readytoeat_cereals;L4_;L5_;Cheerios
+Granola NFS	0	0	0	53.11905	0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Readytoeat_cereals;L4_;L5_;Granola_NFS
+Raisin Bran Kelloggs	0	0	0	0	81.984	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Readytoeat_cereals;L4_;L5_;Raisin_Bran_Kelloggs
+Reeses Peanut Butter Puffs cereal	0	0	38.96	0	0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Readytoeat_cereals;L4_;L5_;Reeses_Peanut_Butter_Puffs_cereal
+Rice Chex	0	0	52.6014	0	0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Readytoeat_cereals;L4_;L5_;Rice_Chex
+Shredded Wheat 100 	0	47.725	0	0	0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Readytoeat_cereals;L4_;L5_;Shredded_Wheat_100_
+Taco or tostada with meat from fast food	67.0488	0	33.5244	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Taco_or_tostada_with_meat_from_fast_food
+Chimichanga with meat and sour cream	0	0	0	0	177.573	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Chimichanga_with_meat_and_sour_cream
+Pizza cheese prepared from frozen thick crust	112.93865	0	0	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Pizza_cheese_prepared_from_frozen_thick_crust
+Pizza with meat prepared from frozen thick crust	0	0	0	26.809412	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Pizza_with_meat_prepared_from_frozen_thick_crust
+Pizza with extra meat thick crust	0	0	0	78.674	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Pizza_with_extra_meat_thick_crust
+Pizza with meat and vegetables thin crust	0	43.9684	0	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Pizza_with_meat_and_vegetables_thin_crust
+Pizza with beans and vegetables thin crust	0	0	0	63.963	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Pizza_with_beans_and_vegetables_thin_crust
+Pizza rolls	0	0	0	31.8948	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Pizza_rolls
+Egg roll meatless	0	32.3264	0	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Egg_roll_meatless
+Ravioli cheese filled with tomato sauce	0	0	0	0	25.7412	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Ravioli_cheese_filled_with_tomato_sauce
+Spaghetti with tomato sauce meatless	0	0	0	100.1796	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Spaghetti_with_tomato_sauce_meatless
+Spaghetti with tomato sauce and meatballs or spaghetti with meat sauce or spaghetti with meat sauce and meatballs	0	0	178.498	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Spaghetti_with_tomato_sauce_and_meatballs_or_spaghetti_with_meat_sauce_or_spaghetti_with_meat_sauce_and_meatballs
+Spaghetti with tomato sauce and meatballs or spaghetti with meat sauce or spaghetti with meat sauce and meatballs W O FAT	0	0	0	103.1184	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Spaghetti_with_tomato_sauce_and_meatballs_or_spaghetti_with_meat_sauce_or_spaghetti_with_meat_sauce_and_meatballs_W_O_FAT
+Macaroni or noodles with cheese	0	0	0	50.117	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Macaroni_or_noodles_with_cheese
+Macaroni creamed	0	0	0	0	15.98	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Macaroni_creamed
+Sushi with vegetables and seafood	0	24.6272	0	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Sushi_with_vegetables_and_seafood
+Rice white with tomatoes andor tomato based sauce fat added in cooking	0	0	0	51.4976	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Mixtures_mainly_grain_pasta_or_bread;L4_;L5_;Rice_white_with_tomatoes_andor_tomato_based_sauce_fat_added_in_cooking
+Macaroni and cheese diet frozen meal 	0	36.14625	0	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Frozen_plate_meals_with_grain_mixture_as_major_ingredient;L4_;L5_;Macaroni_and_cheese_diet_frozen_meal_
+Pasta with vegetable and cheese sauce diet frozen meal 	0	0	66.286	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Frozen_plate_meals_with_grain_mixture_as_major_ingredient;L4_;L5_;Pasta_with_vegetable_and_cheese_sauce_diet_frozen_meal_
+Soup NFS	0	0	34.4871	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Soups_with_grain_product_as_major_ingredient;L4_;L5_;Soup_NFS
+Chicken or turkey noodle soup canned or ready to serve	7.6879	0	0	46.1274	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Soups_with_grain_product_as_major_ingredient;L4_;L5_;Chicken_or_turkey_noodle_soup_canned_or_ready_to_serve
+Chicken or turkey rice soup home recipe	63.1554	0	0	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Soups_with_grain_product_as_major_ingredient;L4_;L5_;Chicken_or_turkey_rice_soup_home_recipe
+Soup mostly noodles	0	0	33.3423	0	0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_Soups_with_grain_product_as_major_ingredient;L4_;L5_;Soup_mostly_noodles
+Grapefruit raw	0	0	8.199	23.3216	0	L1_Fruits;L2_Citrus_fruits_juices;L3_Citrus_fruits;L4_;L5_;Grapefruit_raw
+Orange raw	0	0	0	0	17.3575	L1_Fruits;L2_Citrus_fruits_juices;L3_Citrus_fruits;L4_;L5_;Orange_raw
+Tangerine raw	103.2168	0	0	0	0	L1_Fruits;L2_Citrus_fruits_juices;L3_Citrus_fruits;L4_;L5_;Tangerine_raw
+Orange juice with calcium added canned bottled or in a carton	23.7708	38.03328	7.13124	0	0	L1_Fruits;L2_Citrus_fruits_juices;L3_Citrus_fruit_juices;L4_;L5_;Orange_juice_with_calcium_added_canned_bottled_or_in_a_carton
+Apricot dried uncooked	22.46075	0	0	0	0	L1_Fruits;L2_Dried_fruits;L3_Dried_fruits;L4_;L5_;Apricot_dried_uncooked
+Cranberries dried	0	0	2.52	0	0	L1_Fruits;L2_Dried_fruits;L3_Dried_fruits;L4_;L5_;Cranberries_dried
+Raisins	3.356583	0	0	0	0	L1_Fruits;L2_Dried_fruits;L3_Dried_fruits;L4_;L5_;Raisins
+Apple raw	0	39.4212	105.1232	26.2808	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Apple_raw
+Applesauce stewed apples unsweetened	28.7432	0	63.612	0	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Applesauce_stewed_apples_unsweetened
+Avocado raw	0	59.1617	0	0	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Avocado_raw
+Banana raw	188.175	59.2124	152.5472	145.522	88.8186	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Banana_raw
+Cantaloupe muskmelon raw	5.4372	0	0	0	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Cantaloupe_muskmelon_raw
+Grapes raw NS as to type	0	14.595	115.0086	0	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Grapes_raw_NS_as_to_type
+Nectarine raw	0	0	0	52.8666	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Nectarine_raw
+Peach raw	0	0	31.164	0	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Peach_raw
+Pineapple raw	0	35.28	0	0	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Pineapple_raw
+Watermelon raw	0	3.1293	0	25.992	0	L1_Fruits;L2_Other_fruits;L3_Fruits_excluding_berries;L4_;L5_;Watermelon_raw
+Berries frozen NFS	0	13.20885	0	0	0	L1_Fruits;L2_Other_fruits;L3_Berries;L4_;L5_;Berries_frozen_NFS
+Strawberries raw	27.512	0	8.145	10.86	0	L1_Fruits;L2_Other_fruits;L3_Berries;L4_;L5_;Strawberries_raw
+Strawberries frozen with sugar	62.1945	0	0	0	0	L1_Fruits;L2_Other_fruits;L3_Berries;L4_;L5_;Strawberries_frozen_with_sugar
+Fruit salad fresh or raw excluding citrus fruits no dressing	0	32.76875	0	0	0	L1_Fruits;L2_Other_fruits;L3_Mixtures_of_two_or_more_fruits;L4_;L5_;Fruit_salad_fresh_or_raw_excluding_citrus_fruits_no_dressing
+Fruit salad fresh or raw including citrus fruits no dressing	0	0	12.7925	0	0	L1_Fruits;L2_Other_fruits;L3_Mixtures_of_two_or_more_fruits;L4_;L5_;Fruit_salad_fresh_or_raw_including_citrus_fruits_no_dressing
+Fruit salad excluding citrus fruits with whipped cream	0	0	0	0	50.7416	L1_Fruits;L2_Other_fruits;L3_Mixtures_of_fruits_and_nonfruit_items;L4_;L5_;Fruit_salad_excluding_citrus_fruits_with_whipped_cream
+Fruit juice NFS	0	0	31.15008	0	0	L1_Fruits;L2_Fruit_juices_and_nectars_excluding_citrus;L3_Fruit_juices_excluding_citrus;L4_;L5_;Fruit_juice_NFS
+Cranberry juice 100 not a blend	0	0	48.80304	0	0	L1_Fruits;L2_Fruit_juices_and_nectars_excluding_citrus;L3_Fruit_juices_excluding_citrus;L4_;L5_;Cranberry_juice_100_not_a_blend
+Vinegar	0	0.619494999999999	0	0	0	L1_Fruits;L2_Fruit_juices_and_nectars_excluding_citrus;L3_Vinegar;L4_;L5_;Vinegar
+Applesauce baby food strained	0	14.592	0	0	0	L1_Fruits;L2_Fruits_and_juices_baby_food;L3_Fruits_and_fruit_mixtures_baby_food;L4_;L5_;Applesauce_baby_food_strained
+White potato baked peel eaten fat added in cooking	0	0	47.6862	85.9959	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_baked_and_boiled;L4_;L5_;White_potato_baked_peel_eaten_fat_added_in_cooking
+White potato chips regular cut	0	27.3616	0	51.7916	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_chips_and_sticks;L4_;L5_;White_potato_chips_regular_cut
+White potato cooked with cheese	0	0	0	0	16.3968	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_creamed_scalloped_au_gratin;L4_;L5_;White_potato_cooked_with_cheese
+White potato french fries from fresh oven baked	2.78344	0	0	0	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_fried;L4_;L5_;White_potato_french_fries_from_fresh_oven_baked
+White potato french fries from frozen deep fried from fast food restaurant	0	0	0	57.763	8.66445	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_fried;L4_;L5_;White_potato_french_fries_from_frozen_deep_fried_from_fast_food_restaurant
+White potato from fresh mashed not made with milk or fat	0	0	6.529087	0	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_mashed_stuffed_puffs;L4_;L5_;White_potato_from_fresh_mashed_not_made_with_milk_or_fat
+White potato from dry mashed made with milk no fat	0	22.38075	0	0	14.9205	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_mashed_stuffed_puffs;L4_;L5_;White_potato_from_dry_mashed_made_with_milk_no_fat
+White potato puffs	33.9024	0	0	0	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_mashed_stuffed_puffs;L4_;L5_;White_potato_puffs
+White potato stuffed baked peel not eaten stuffed with butter or margarine	0	0	0	5.005437	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_mashed_stuffed_puffs;L4_;L5_;White_potato_stuffed_baked_peel_not_eaten_stuffed_with_butter_or_margarine
+White potato stuffed baked peel eaten stuffed with butter or margarine	0	0	0	50.5854	0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_mashed_stuffed_puffs;L4_;L5_;White_potato_stuffed_baked_peel_eaten_stuffed_with_butter_or_margarine
+Endive chicory escarole or romaine lettuce raw	0	0	6.1382	0	4.60365	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Endive_chicory_escarole_or_romaine_lettuce_raw
+Kale cooked from fresh fat added in cooking	0	15.093	0	0	0	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Kale_cooked_from_fresh_fat_added_in_cooking
+Spinach raw	4.945086	5.16	0	0	2.58	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_leafy_vegetables;L4_;L5_;Spinach_raw
+Broccoli soup prepared with milk home recipe canned or ready to serve	0	0	0	0	66.4548	L1_Vegetables;L2_Darkgreen_vegetables;L3_Darkgreen_vegetable_soups;L4_;L5_;Broccoli_soup_prepared_with_milk_home_recipe_canned_or_ready_to_serve
+Carrots raw	14.052	4.684	3.22025	21.48785	0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Carrots;L4_;L5_;Carrots_raw
+Carrots cooked from fresh fat not added in cooking	11.6256	0	0	0	0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Carrots;L4_;L5_;Carrots_cooked_from_fresh_fat_not_added_in_cooking
+Carrots cooked from fresh creamed	0	0	4.74525	0	0	L1_Vegetables;L2_Deepyellow_vegetables;L3_Carrots;L4_;L5_;Carrots_cooked_from_fresh_creamed
+Tomatoes raw	5.52795	14.111	3.699	2.466	2.466	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomatoes_raw;L4_;L5_;Tomatoes_raw
+Tomato and vegetable juice mostly tomato	62.111736	0	12.047535	0	0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_juices;L4_;L5_;Tomato_and_vegetable_juice_mostly_tomato
+Tomato catsup	0	9.243	2.31075	13.8645	0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_sauces;L4_;L5_;Tomato_catsup
+Salsa NFS	0	0	0	8.656	0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_sauces;L4_;L5_;Salsa_NFS
+Salsa red commercially prepared	26.9418	3.4624	10.3872	0	0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_sauces;L4_;L5_;Salsa_red_commercially_prepared
+Spaghetti sauce meatless	0	0	0	0	4.050962	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_sauces;L4_;L5_;Spaghetti_sauce_meatless
+Barbecue sauce	0	0	14.153125	0	0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_sauces;L4_;L5_;Barbecue_sauce
+Tomato soup prepared with water or ready to serve	0	0	11.9438	0	0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_Tomato_soups;L4_;L5_;Tomato_soup_prepared_with_water_or_ready_to_serve
+Raw vegetable NFS	0	0	0	28.104	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Raw_vegetable_NFS
+Cabbage red raw	0	0	2.672781	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Cabbage_red_raw
+Celery raw	0	0	0	1.828	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Celery_raw
+Cucumber raw	0	0.457800000000001	7.059112	0.972825	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Cucumber_raw
+Lettuce raw	1.0028	0.29975	0.899249999999999	5.84512500000001	2.398	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Lettuce_raw
+Lettuce Boston raw	0	1.20175	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Lettuce_Boston_raw
+Lettuce arugula raw	2.763389	0	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Lettuce_arugula_raw
+Mixed salad greens raw	6.240775	0	17.908	6.512	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Mixed_salad_greens_raw
+Onions mature raw	0	2.178	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Onions_mature_raw
+Pepper sweet green raw	5.689937	0	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_;L5_;Pepper_sweet_green_raw
+Cabbage salad or coleslaw made with light coleslaw dressing	11.842425	0	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_raw;L4_Raw_vegetable_mixtures;L5_;Cabbage_salad_or_coleslaw_made_with_light_coleslaw_dressing
+Asparagus cooked from fresh fat not added in cooking	0	3.4584	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Asparagus_cooked_from_fresh_fat_not_added_in_cooking
+Beans string green cooked from fresh fat added in cooking W BUTTER NFS	0	0	0	18.317	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Beans_string_green_cooked_from_fresh_fat_added_in_cooking_W_BUTTER_NFS
+Cauliflower cooked from fresh fat not added in cooking	0	5.1657	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Cauliflower_cooked_from_fresh_fat_not_added_in_cooking
+Cauliflower cooked from frozen fat not added in cooking	0	2.925	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Cauliflower_cooked_from_frozen_fat_not_added_in_cooking
+Celery cooked fat not added in cooking	0	1.1502	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Celery_cooked_fat_not_added_in_cooking
+Corn yellow cooked from canned fat not added in cooking	0	0	0	18.204	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Corn_yellow_cooked_from_canned_fat_not_added_in_cooking
+Corn white cooked from fresh fat added in cooking W BUTTER NFS	0	0	0	0	7.5293	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Corn_white_cooked_from_fresh_fat_added_in_cooking_W_BUTTER_NFS
+Garlic cooked	0	1.71893	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Garlic_cooked
+Onions mature cooked or sauteed from fresh fat added in cooking W VEGETABLE OIL NFS INCLUDE OIL NFS 	0	0	6.9024	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Onions_mature_cooked_or_sauteed_from_fresh_fat_added_in_cooking_W_VEGETABLE_OIL_NFS_INCLUDE_OIL_NFS_
+Peppers green cooked fat not added in cooking	1.302	0	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Peppers_green_cooked_fat_not_added_in_cooking
+Sauerkraut cooked NS as to fat added in cooking	0	1.3277	0.332456000000001	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_vegetables_cooked;L4_;L5_;Sauerkraut_cooked_NS_as_to_fat_added_in_cooking
+Beans string green cooked NS as to form with mushroom sauce	0	0	0	13.338	0	L1_Vegetables;L2_Other_vegetables;L3_Other_cooked_vegetables_cooked_with_sauces_batters_casseroles;L4_;L5_;Beans_string_green_cooked_NS_as_to_form_with_mushroom_sauce
+Onion rings NS as to form batter dipped baked or fried	0	0	46.1218	32.178	0	L1_Vegetables;L2_Other_vegetables;L3_Other_cooked_vegetables_cooked_with_sauces_batters_casseroles;L4_;L5_;Onion_rings_NS_as_to_form_batter_dipped_baked_or_fried
+Vegetable curry	0	35.3528	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_cooked_vegetables_cooked_with_sauces_batters_casseroles;L4_;L5_;Vegetable_curry
+Chow mein or chop suey meatless with noodles	0	0	55.55	0	0	L1_Vegetables;L2_Other_vegetables;L3_Other_cooked_vegetables_cooked_with_sauces_batters_casseroles;L4_;L5_;Chow_mein_or_chop_suey_meatless_with_noodles
+Cucumber pickles dill	0	0	0	3.1752	0	L1_Vegetables;L2_Other_vegetables;L3_Olives_pickles_relishes_excluding_tomatoes;L4_;L5_;Cucumber_pickles_dill
+Mustard	0	0.8675	0	1.735	0	L1_Vegetables;L2_Other_vegetables;L3_Olives_pickles_relishes_excluding_tomatoes;L4_;L5_;Mustard
+Mustard sauce	0	0	4.837	0	0	L1_Vegetables;L2_Other_vegetables;L3_Olives_pickles_relishes_excluding_tomatoes;L4_;L5_;Mustard_sauce
+Olives black	0	0	0	0.790168	0	L1_Vegetables;L2_Other_vegetables;L3_Olives_pickles_relishes_excluding_tomatoes;L4_;L5_;Olives_black
+Mushroom soup cream of prepared with water	0	0	4.7519	0	0	L1_Vegetables;L2_Other_vegetables;L3_Vegetable_soups;L4_;L5_;Mushroom_soup_cream_of_prepared_with_water
+Vegetable soup canned prepared with water or ready to serve	0	0	37.84905	0	0	L1_Vegetables;L2_Other_vegetables;L3_Vegetable_soups;L4_;L5_;Vegetable_soup_canned_prepared_with_water_or_ready_to_serve
+Minestrone soup canned prepared with water or ready to serve	0	0	0	0	41.452	L1_Vegetables;L2_Other_vegetables;L3_Vegetable_soups;L4_;L5_;Minestrone_soup_canned_prepared_with_water_or_ready_to_serve
+Vegetable chicken rice soup canned prepared with water or ready to serve	0	0	0	63.7204	0	L1_Vegetables;L2_Other_vegetables;L3_Vegetable_soups;L4_;L5_;Vegetable_chicken_rice_soup_canned_prepared_with_water_or_ready_to_serve
+Vegetable beef soup home recipe	0	60.6356	0	0	0	L1_Vegetables;L2_Other_vegetables;L3_Vegetable_soups;L4_;L5_;Vegetable_beef_soup_home_recipe
+Butter stick salted	0	15.928215	16.15296	6.30975	1.991475	L1_Fats_Oils_and_Salad_Dressings;L2_Fats;L3_Table_fats;L4_;L5_;Butter_stick_salted
+Margarine like spread reduced calorie about 40 fat tub salted	0	0	4.045	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Fats;L3_Table_fats;L4_;L5_;Margarine_like_spread_reduced_calorie_about_40_fat_tub_salted
+Butter replacement fat free powder	0	9.5	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Fats;L3_Table_fats;L4_;L5_;Butter_replacement_fat_free_powder
+Tartar sauce	9.24	0	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Fats;L3_Other_fats;L4_;L5_;Tartar_sauce
+Olive oil	0	20.25	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_Vegetable_oils;L4_;L5_;Olive_oil
+Salad dressing NFS for salads	0	0	3.76584	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Regular_salad_dressings;L4_;L5_;Salad_dressing_NFS_for_salads
+Mayonnaise regular	0	10.8123	0	10.8123	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Regular_salad_dressings;L4_;L5_;Mayonnaise_regular
+Creamy dressing	87.56055	0	15.9201	47.70615	31.8402	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Regular_salad_dressings;L4_;L5_;Creamy_dressing
+Poppy seed dressing	0	0	17.9781	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Regular_salad_dressings;L4_;L5_;Poppy_seed_dressing
+Sesame dressing	0	17.8752	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Regular_salad_dressings;L4_;L5_;Sesame_dressing
+Salad dressing light NFS	4.212	0	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Light_salad_dressings;L4_;L5_;Salad_dressing_light_NFS
+Caesar dressing light	0	0	16.08	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Light_salad_dressings;L4_;L5_;Caesar_dressing_light
+Mayonnaise light	5.28372	0	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Light_salad_dressings;L4_;L5_;Mayonnaise_light
+Mayonnaise type salad dressing light	9.4836	0	0	0	0	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Light_salad_dressings;L4_;L5_;Mayonnaise_type_salad_dressing_light
+Creamy dressing light	0	0	0	0	7.8	L1_Fats_Oils_and_Salad_Dressings;L2_Salad_dressings;L3_Light_salad_dressings;L4_;L5_;Creamy_dressing_light
+Sugar NFS	2.79944	8.39832	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Sugars_and_sugarsugar_substitute_blends;L4_;L5_;Sugar_NFS
+Sugar white granulated or lump	0	4.19916	14.69706	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Sugars_and_sugarsugar_substitute_blends;L4_;L5_;Sugar_white_granulated_or_lump
+Sugar raw	0	12.13518	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Sugars_and_sugarsugar_substitute_blends;L4_;L5_;Sugar_raw
+Sucralose based sweetener sugar substitute	0	1.8234	0.9117	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Sugars_and_sugarsugar_substitute_blends;L4_;L5_;Sucralose_based_sweetener_sugar_substitute
+Sugar substitute low calorie powdered NFS	2.91872	0	0.72968	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Sugar_replacements_or_substitute;L4_;L5_;Sugar_substitute_low_calorie_powdered_NFS
+Sugar substitute saccharin based dry powder and tablets	1.825	0	0.9125	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Sugar_replacements_or_substitute;L4_;L5_;Sugar_substitute_saccharin_based_dry_powder_and_tablets
+Honey	17.409	0	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Syrups_honey_molasses_sweet_toppings;L4_;L5_;Honey
+Sweet and sour sauce	0	0	11.919	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Syrups_honey_molasses_sweet_toppings;L4_;L5_;Sweet_and_sour_sauce
+Jelly all flavors	0	19.6644	40.0311	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Jellies_jams_preserves;L4_;L5_;Jelly_all_flavors
+Jam preserves all flavors	0	0	29.2026	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Jellies_jams_preserves;L4_;L5_;Jam_preserves_all_flavors
+Marmalade all flavors	0	0	13.36	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Jellies_jams_preserves;L4_;L5_;Marmalade_all_flavors
+Gelatin dessert dietetic with fruit sweetened with low calorie sweetener	0	0	28.608	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Gelatin_desserts_or_salads;L4_;L5_;Gelatin_dessert_dietetic_with_fruit_sweetened_with_low_calorie_sweetener
+Ice pop	0	0	0	0	150.227	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Ices_or_popsicles;L4_;L5_;Ice_pop
+Caramel chocolate flavored roll	18.19545	0	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Caramel_chocolate_flavored_roll
+Caramel candy chocolate covered	0	13.9665	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Caramel_candy_chocolate_covered
+Milk chocolate candy with cereal	0	28.5592	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Milk_chocolate_candy_with_cereal
+Chocolate sweet or dark	0	0	0	30.519375	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Chocolate_sweet_or_dark
+Coconut candy chocolate covered	0	0	0	0	15.4615	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Coconut_candy_chocolate_covered
+Fondant chocolate covered	0	0	0	0	25.844	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Fondant_chocolate_covered
+Fruit leather and fruit snacks candy	0	24.85	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Fruit_leather_and_fruit_snacks_candy
+SNICKERS Bar	0	16.0565	0	0	106.7285	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;SNICKERS_Bar
+MILKY WAY Bar	0	15.929	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;MILKY_WAY_Bar
+Reeses Peanut Butter Cup	0	33.5104	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Reeses_Peanut_Butter_Cup
+Hard candy	0	39.48	0.987	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;Hard_candy
+MMs Milk Chocolate Candies formerly MMs Plain Chocolate Candies 	0	0	6.881	0	0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_Candies;L4_;L5_;MMs_Milk_Chocolate_Candies_formerly_MMs_Plain_Chocolate_Candies_
+Coffee made from ground regular	35.7508799999999	5.77791999999999	36.4731199999998	17.839328	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Coffee_made_from_ground_regular
+Coffee mocha W 2 MILK	0	0	75.1488	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Coffee_mocha_W_2_MILK
+Coffee decaffeinated made from ground	0	1.6576	27.3504	12.9707200000001	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Coffee_decaffeinated_made_from_ground
+Cappuccino decaffeinated sweetened	0	41.328	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Coffee;L4_;L5_;Cappuccino_decaffeinated_sweetened
+Tea leaf decaffeinated unsweetened	0	0	0.710400000000021	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Tea;L4_;L5_;Tea_leaf_decaffeinated_unsweetened
+Tea herbal	0	0	0.53279999999998	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Tea;L4_;L5_;Tea_herbal
+Soft drink cola type sugar free	0	0	5.71871999999996	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Soft_drinks_carbonated;L4_;L5_;Soft_drink_cola_type_sugar_free
+Soft drink cola type decaffeinated	0	0	19.11996	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Soft_drinks_carbonated;L4_;L5_;Soft_drink_cola_type_decaffeinated
+Soft drink cola type decaffeinated sugar free	5.92592000000008	0	3.38623999999999	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Soft_drinks_carbonated;L4_;L5_;Soft_drink_cola_type_decaffeinated_sugar_free
+Soft drink pepper type sugar free	0	0	1.63391999999999	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Soft_drinks_carbonated;L4_;L5_;Soft_drink_pepper_type_sugar_free
+Soft drink fruit flavored caffeine free	0	0	0	0	7.554624	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Soft_drinks_carbonated;L4_;L5_;Soft_drink_fruit_flavored_caffeine_free
+Soft drink fruit flavored sugar free caffeine free	0	0	0.710399999999993	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Soft_drinks_carbonated;L4_;L5_;Soft_drink_fruit_flavored_sugar_free_caffeine_free
+Fruit flavored drink formerly lemonade 	0	0	0	180.0108	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Fruit_drinks;L4_Fruit_juice_drinks_and_fruitflavored_drinks;L5_;Fruit_flavored_drink_formerly_lemonade_
+Fruit flavored drink made from powdered mix	0	0	0	0	1318.80672	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Fruit_drinks;L4_Fruit_flavored_drinks_made_from_powdered_mix;L5_;Fruit_flavored_drink_made_from_powdered_mix
+Fruit flavored drink low calorie	3.24000000000001	0	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Fruit_drinks;L4_Fruit_juice_drinks_and_fruit_flavored_drinks_low_calorie;L5_;Fruit_flavored_drink_low_calorie
+Fruit flavored drink made from powdered mix low calorie	0	0	17.466	43.5798	0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_Fruit_drinks;L4_Fruit_juice_drinks_and_fruit_flavored_drinks_low_calorie;L5_;Fruit_flavored_drink_made_from_powdered_mix_low_calorie
+Beer lite	0	0	0	61.4400000000001	0	L1_Sugars_Sweets_and_Beverages;L2_Alcoholic_beverages;L3_Beers_and_ales;L4_;L5_;Beer_lite
+Mimosa	0	26.1116	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Alcoholic_beverages;L3_Cocktails;L4_;L5_;Mimosa
+Water tap	4.19728000000021	12.2486799999998	6.63040000000007	4.43999999999977	2.30879999999985	L1_Sugars_Sweets_and_Beverages;L2_Water_noncarbonated;L3_Water_not_bottled;L4_;L5_;Water_tap
+Water bottled unsweetened	2.44552199999958	0	0.599399999999889	0.940687999999881	0.20009600000003	L1_Sugars_Sweets_and_Beverages;L2_Water_noncarbonated;L3_Water_bottled;L4_;L5_;Water_bottled_unsweetened
+Propel Water	106.313728	0	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Water_noncarbonated;L3_Water_bottled_fortified;L4_;L5_;Propel_Water
+Slim Fast Shake meal replacement regular ready to drink	0	0	53.2332	0	0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_Nutrition_drinks;L4_;L5_;Slim_Fast_Shake_meal_replacement_regular_ready_to_drink
+Nutritional drink or meal replacement ready to drink NFS	59.024	0	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_Nutrition_drinks;L4_;L5_;Nutritional_drink_or_meal_replacement_ready_to_drink_NFS
+Carnation Instant Breakfast nutritional drink mix regular powder	34.262	34.262	0	0	137.048	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_Nutrition_powders;L4_;L5_;Carnation_Instant_Breakfast_nutritional_drink_mix_regular_powder
+Protein powder whey based NFS	0	12.5528	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_Nutrition_powders;L4_;L5_;Protein_powder_whey_based_NFS
+Protein powder soy based NFS	0	17.2566	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_Nutrition_powders;L4_;L5_;Protein_powder_soy_based_NFS
+Protein powder NFS	29.9336	0	0	0	0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_Nutrition_powders;L4_;L5_;Protein_powder_NFS

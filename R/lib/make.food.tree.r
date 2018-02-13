@@ -6,6 +6,7 @@
 #   num.levels = number of levels to create tree on
 
 library(data.tree)
+library(viridisLite)
 library(dplyr)
 library(tidyr)
 library(reshape2)
