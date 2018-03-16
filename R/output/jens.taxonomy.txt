@@ -1,0 +1,631 @@
+FoodID	taxonomy	Main.food.description
+1011.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_cured_back_bacon_cornmeal_peameal_uncooked	Pork cured back bacon cornmeal peameal uncooked
+1012.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_cured_ham_boneless_mini_ham_half_extra_lean_approximately_5_fat_cooked_reduced_sodium	Pork cured ham boneless mini ham half extra lean approximately 5 fat cooked reduced sodium
+1013.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_cured_ham_rump_bone_in_separable_lean_and_fat_heated_roasted	Pork cured ham rump bone in separable lean and fat heated roasted
+1014.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_cured_ham_shoulder_arm_picnic_lean_and_fat_roasted	Pork cured ham shoulder arm picnic lean and fat roasted
+1015.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_leg_butt_portion_lean_and_fat_raw	Pork leg butt portion lean and fat raw
+1016.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_leg_shank_portion_lean_and_fat_raw	Pork leg shank portion lean and fat raw
+1021.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_centre_cut_centre_chop_bone_in_lean_and_fat_braised	Pork loin centre cut centre chop bone in lean and fat braised
+1022.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_centre_cut_centre_steak_boneless_lean_and_fat_broiled	Pork loin centre cut centre steak boneless lean and fat broiled
+1023.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_rib_chop_rib_end_bone_in_lean_and_fat_braised	Pork loin rib chop rib end bone in lean and fat braised
+1024.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_rib_half_country_style_ribs_lean_and_fat_braised	Pork loin rib half country style ribs lean and fat braised
+1025.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_rib_roast_boneless_lean_and_fat_raw	Pork loin rib roast boneless lean and fat raw
+1026.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_rib_steak_rib_end_boneless_lean_and_fat_braised	Pork loin rib steak rib end boneless lean and fat braised
+1027.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_sirloin_chop_bone_in_lean_and_fat_braised	Pork loin sirloin chop bone in lean and fat braised
+1028.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_sirloin_roast_boneless_lean_and_fat_raw	Pork loin sirloin roast boneless lean and fat raw
+1029.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_loin_sirloin_roast_boneless_lean_roasted	Pork loin sirloin roast boneless lean roasted
+1031.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_shoulder_blade_portion_bone_in_lean_and_fat_raw	Pork shoulder blade portion bone in lean and fat raw
+1032.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_shoulder_butt_blade_boneless_lean_roasted	Pork shoulder butt blade boneless lean roasted
+1033.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_shoulder_picnic_arm_lean_and_fat_braised	Pork shoulder picnic arm lean and fat braised
+1034.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_shoulder_whole_lean_and_fat_raw	Pork shoulder whole lean and fat raw
+1041.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_ears_frozen_raw	Pork ears frozen raw
+1042.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_ears_frozen_simmered	Pork ears frozen simmered
+1051.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_feet_raw	Pork feet raw
+1052.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_feet_simmered	Pork feet simmered
+1061.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_ground_lean_pan_fried	Pork ground lean pan fried
+1062.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_ground_medium_pan_fried	Pork ground medium pan fried
+1071.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_heart_braised	Pork heart braised
+1072.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_heart_raw	Pork heart raw
+1081.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_intestine_chitterlings_raw	Pork intestine chitterlings raw
+1082.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_intestine_chitterlings_simmered	Pork intestine chitterlings simmered
+1091.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_composite_cuts_leg_loin_and_shoulder_lean_and_fat_cooked	Pork composite cuts leg loin and shoulder lean and fat cooked
+1092.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_liver_braised	Pork liver braised
+1093.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_lungs_braised	Pork lungs braised
+1094.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_separable_fat_cooked	Pork separable fat cooked
+1095.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_side_ribs_centre_cut_spareribs_lean_and_fat_raw	Pork side ribs centre cut spareribs lean and fat raw
+1096.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_tongue_braised	Pork tongue braised
+1097.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_wholesale_cuts_backfat_raw	Pork wholesale cuts backfat raw
+1098.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_kidney_braised	Pork kidney braised
+1099.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pork_back_ribs_lean_and_fat_raw	Pork back ribs lean and fat raw
+1101.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_condensed_sweetened_canned	Milk condensed sweetened canned
+1102.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_dry_whole	Milk dry whole
+1103.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_evaporated_partly_skimmed_canned_undiluted_2_M_F_	Milk evaporated partly skimmed canned undiluted 2 M F 
+1104.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_fluid_buttermilk_cultured_1_M_F_	Milk fluid buttermilk cultured 1 M F 
+1105.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_fluid_chocolate_partly_skimmed_1_M_F_	Milk fluid chocolate partly skimmed 1 M F 
+1106.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_fluid_goat_enriched_whole	Milk fluid goat enriched whole
+1107.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_human;L4_;Milk_fluid_human_breast_milk_mature	Milk fluid human breast milk mature
+1111.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;Artichoke_Globe_French_boiled_drained	Artichoke Globe French boiled drained
+1112.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;Artichoke_canned	Artichoke canned
+1113.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid;L4_;Artichoke_marinated	Artichoke marinated
+1121.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_evaporated_and_condensed;L4_;Asparagus_boiled_drained	Asparagus boiled drained
+1122.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_evaporated_and_condensed;L4_;Asparagus_canned_drained_solids	Asparagus canned drained solids
+1123.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_evaporated_and_condensed;L4_;Asparagus_frozen_boiled_drained	Asparagus frozen boiled drained
+1124.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_evaporated_and_condensed;L4_;Asparagus_raw	Asparagus raw
+1131.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_hyacinth_boiled_drained	Beans hyacinth boiled drained
+1132.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_kidney_sprouted_boiled_drained	Beans kidney sprouted boiled drained
+1133.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_lima_fordhook_frozen_boiled_drained	Beans lima fordhook frozen boiled drained
+1134.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_mung_mature_seeds_sprouted_bean_sprouts_boiled_drained	Beans mung mature seeds sprouted bean sprouts boiled drained
+1135.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_navy_mature_seeds_sprouted_boiled_drained	Beans navy mature seeds sprouted boiled drained
+1136.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_pinto_frozen_boiled_drained	Beans pinto frozen boiled drained
+1137.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_pinto_immature_seeds_frozen_unprepared	Beans pinto immature seeds frozen unprepared
+1138.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_snap_Italian_green_or_yellow_boiled_drained	Beans snap Italian green or yellow boiled drained
+1139.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_fluid_imitation;L4_;Beans_yardlong_asparagus_bean_or_cowpea_boiled_drained	Beans yardlong asparagus bean or cowpea boiled drained
+1141.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;Broccoli_raab_rapini_cooked	Broccoli raab rapini cooked
+1142.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;Broccoli_boiled_drained	Broccoli boiled drained
+1143.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;Broccoli_chinese_cooked	Broccoli chinese cooked
+1144.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Yogurt;L4_;Broccoli_leaves_raw	Broccoli leaves raw
+1161.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Cabbage_boiled_drained	Cabbage boiled drained
+1162.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Cabbage_japanese_style_fresh_pickled	Cabbage japanese style fresh pickled
+1163.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Cabbage_mustard_with_salt	Cabbage mustard with salt
+1164.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Cabbage_napa_cooked	Cabbage napa cooked
+1171.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Mushroom_boiled_drained	Mushroom boiled drained
+1172.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Mushroom_brown_Italian_crimini_raw	Mushroom brown Italian crimini raw
+1173.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Mushroom_shiitake_cooked	Mushroom shiitake cooked
+1174.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Mustard_greens_boiled_drained	Mustard greens boiled drained
+1175.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Okra_gumbo_boiled_drained	Okra gumbo boiled drained
+1176.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Onion_rings_breaded_par_fried_frozen_heated_in_oven	Onion rings breaded par fried frozen heated in oven
+1177.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Onion_frozen_chopped_boiled_drained	Onion frozen chopped boiled drained
+1178.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Onion_raw	Onion raw
+1179.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Infant_formulas_fluid_reconstituted;L4_;Mushroom_straw_canned_drained_solids	Mushroom straw canned drained solids
+1181.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Parsley_freeze_dried	Parsley freeze dried
+1182.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Pepper_ancho_dried	Pepper ancho dried
+1183.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Potato_flour	Potato flour
+1184.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Pumpkin_flowers_boiled_drained	Pumpkin flowers boiled drained
+1185.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Radicchio_raw	Radicchio raw
+1186.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Seaweed_agar_dried	Seaweed agar dried
+1187.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Sesbania_flowers_raw	Sesbania flowers raw
+1188.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Spinach_souffle_homemade	Spinach souffle homemade
+1189.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_Milk_dry_and_powdered_mixtures_with;L4_;Squash_summer_all_varieties_boiled_drained	Squash summer all varieties boiled drained
+1191.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Corn_pudding_homemade	Corn pudding homemade
+1192.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Carrot_juice_canned	Carrot juice canned
+1193.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Cassava_manioc_flour	Cassava manioc flour
+1194.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Chard_swiss_boiled_drained	Chard swiss boiled drained
+1195.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Cowpeas_black_eyed_peas_immature_seeds_boiled_drained	Cowpeas black eyed peas immature seeds boiled drained
+1196.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Dandelion_greens_boiled_drained	Dandelion greens boiled drained
+1197.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Epazote_raw	Epazote raw
+1198.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Jute_potherb_raw	Jute potherb raw
+1199.0	L1_Milk_and_Milk_Products;L2_Milks_and_milk_drinks;L3_;L4_;Agave_cooked	Agave cooked
+1201.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_;L4_;Cream_5	Cream 5
+1202.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_;L4_;Cream_sour_cultured_14_M_F	Cream sour cultured 14 M F
+1203.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_;L4_;Cream_substitute_flavoured_liquid	Cream substitute flavoured liquid
+1204.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_;L4_;Cream_table_coffee_15_M_F_	Cream table coffee 15 M F 
+1205.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_;L4_;Cream_whipped_cream_topping_pressurized	Cream whipped cream topping pressurized
+1206.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_;L4_;Cream_cereal_half_and_half_10_M_F_	Cream cereal half and half 10 M F 
+1211.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_acorn_flour_full_fat	Nuts acorn flour full fat
+1212.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_beechnuts_dried	Nuts beechnuts dried
+1213.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_Chinese_chestnuts_boiled_and_steamed	Nuts Chinese chestnuts boiled and steamed
+1214.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_coconut_cream_liquid_from_grated_meat_raw	Nuts coconut cream liquid from grated meat raw
+1215.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_European_chestnuts_sweet_boiled_and_steamed	Nuts European chestnuts sweet boiled and steamed
+1216.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_Japanese_chestnuts_boiled_and_steamed	Nuts Japanese chestnuts boiled and steamed
+1217.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_pecans_dried	Nuts pecans dried
+1218.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Sweet_dairy_cream;L4_;Nuts_simulated_product_wheat_based_all_flavours_except_macadamia_without_salt	Nuts simulated product wheat based all flavours except macadamia without salt
+1221.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;Seeds_breadfruit_seeds_boiled	Seeds breadfruit seeds boiled
+1222.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;Seeds_cottonseed_flour_low_fat	Seeds cottonseed flour low fat
+1223.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;Seeds_flaxseed_linseed_whole_and_ground	Seeds flaxseed linseed whole and ground
+1224.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;Seeds_pumpkin_and_squash_seed_kernels_dried	Seeds pumpkin and squash seed kernels dried
+1225.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;Seeds_safflower_seed_kernels_dried	Seeds safflower seed kernels dried
+1226.0	L1_Milk_and_Milk_Products;L2_Creams_and_cream_substitutes;L3_Cream_substitutes;L4_;Seeds_sunflower_seed_butter	Seeds sunflower seed butter
+1301.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Dessert_topping_non_dairy_fat_free_Reddi_Wip	Dessert topping non dairy fat free Reddi Wip
+1302.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Butter_oil_anhydrous	Butter oil anhydrous
+1303.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Butter_light_salted	Butter light salted
+1304.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Butter_regular	Butter regular
+1311.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;Beef_brain_pan_fried	Beef brain pan fried
+1312.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;Beef_brain_raw	Beef brain raw
+1313.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_frozen;L4_;Beef_brain_simmered	Beef brain simmered
+1321.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Puddings_custards_and_other_milk;L4_;Beef_brisket_lean_and_fat_0mm_0_trim_braised	Beef brisket lean and fat 0mm 0 trim braised
+1322.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Puddings_custards_and_other_milk;L4_;Beef_brisket_whole_lean_and_fat_3mm_1_8_trim_raw	Beef brisket whole lean and fat 3mm 1 8 trim raw
+1331.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_baby_food;L4_;Beef_chuck_blade_roast_boneless_lean_and_fat_3mm_1_8_trim_cooked_braised	Beef chuck blade roast boneless lean and fat 3mm 1 8 trim cooked braised
+1332.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_baby_food;L4_;Beef_chuck_cross_rib_roast_boneless_lean_and_fat_0mm_0_trim_cooked_braised	Beef chuck cross rib roast boneless lean and fat 0mm 0 trim cooked braised
+1333.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_baby_food;L4_;Beef_chuck_cross_rib_steak_boneless_lean_and_fat_3mm_1_8_trim_cooked_braised	Beef chuck cross rib steak boneless lean and fat 3mm 1 8 trim cooked braised
+1334.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_Milk_desserts_baby_food;L4_;Beef_chuck_short_ribs_boneless_lean_and_fat_0mm_trim_braised	Beef chuck short ribs boneless lean and fat 0mm trim braised
+1341.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_White_sauces_and_milk_gravies;L4_;Beef_composite_cuts_steak_roast_lean_and_fat_cooked	Beef composite cuts steak roast lean and fat cooked
+1342.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_White_sauces_and_milk_gravies;L4_;Beef_composite_cuts_stewing_beef_0mm_0_trim_cooked	Beef composite cuts stewing beef 0mm 0 trim cooked
+1351.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_cured_breakfast_strips_cooked	Beef cured breakfast strips cooked
+1352.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_cured_corned_beef_brisket_cooked	Beef cured corned beef brisket cooked
+1361.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_fat_cooked	Beef fat cooked
+1362.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_fat_raw	Beef fat raw
+1371.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_flank_flank_steak_boneless_lean_and_fat_0mm_0_trim_cooked_braised	Beef flank flank steak boneless lean and fat 0mm 0 trim cooked braised
+1372.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_flank_flank_steak_boneless_lean_raw	Beef flank flank steak boneless lean raw
+1381.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_ground_extra_lean_crumbled_pan_fried	Beef ground extra lean crumbled pan fried
+1382.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_ground_lean_broiled	Beef ground lean broiled
+1383.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_ground_medium_baked	Beef ground medium baked
+1384.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_ground_patty_frozen_broiled	Beef ground patty frozen broiled
+1391.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_heart_raw	Beef heart raw
+1392.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_hip_inside_top_round_roast_boneless_lean_and_fat_0mm_0_trim_cooked_roasted	Beef hip inside top round roast boneless lean and fat 0mm 0 trim cooked roasted
+1393.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_hip_outside_bottom_round_roast_boneless_lean_and_fat_0mm_0_trim_cooked_roasted	Beef hip outside bottom round roast boneless lean and fat 0mm 0 trim cooked roasted
+1394.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_hip_rump_roast_lean_and_fat_3mm_1_8_trim_raw	Beef hip rump roast lean and fat 3mm 1 8 trim raw
+1395.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_hip_sirloin_tip_roast_boneless_lean_and_fat_0mm_0_trim_cooked_roasted	Beef hip sirloin tip roast boneless lean and fat 0mm 0 trim cooked roasted
+1396.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_kidney_simmered	Beef kidney simmered
+1397.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_loin_t_bone_steak_porterhouse_lean_and_fat_3mm_1_8_trim_cooked_broiled	Beef loin t bone steak porterhouse lean and fat 3mm 1 8 trim cooked broiled
+1398.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_loin_top_sirloin_roast_boneless_lean_cooked_roasted	Beef loin top sirloin roast boneless lean cooked roasted
+1399.0	L1_Milk_and_Milk_Products;L2_Milk_desserts_sauces_gravies;L3_;L4_;Beef_lungs_braised	Beef lungs braised
+1401.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_NS_as_to_type;L4_;Cheese_fondue	Cheese fondue
+1402.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_NS_as_to_type;L4_;Kefir_2_3_9_M_F_	Kefir 2 3 9 M F 
+1403.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_NS_as_to_type;L4_;Yogourt_beverage_fruit_flavoured	Yogourt beverage fruit flavoured
+1411.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;Alcohol_beer_light_4_alcohol_by_volume_	Alcohol beer light 4 alcohol by volume 
+1412.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;Alcohol_cocktail_daiquiri_rum_homemade	Alcohol cocktail daiquiri rum homemade
+1413.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;Alcohol_dessert_wine_dry_18_8_alcohol_by_volume_	Alcohol dessert wine dry 18 8 alcohol by volume 
+1414.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;Alcohol_energy_drink_7_alcohol_by_volume_	Alcohol energy drink 7 alcohol by volume 
+1415.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;Alcohol_whisky_40_alcohol_by_volume_	Alcohol whisky 40 alcohol by volume 
+1416.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Natural_cheeses;L4_;Alcohol_rice_sake_	Alcohol rice sake 
+1421.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cottage_cheeses;L4_;Beverage_mix_carob_flavour_powder	Beverage mix carob flavour powder
+1422.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cottage_cheeses;L4_;Beverage_coconut_water_unsweetened_ready_to_drink	Beverage coconut water unsweetened ready to drink
+1431.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cream_cheeses;L4_;Carbonated_drinks_chocolate	Carbonated drinks chocolate
+1432.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cream_cheeses;L4_;Carbonated_drinks_cream_soda	Carbonated drinks cream soda
+1441.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;Chocolate_flavour_drink_whey_and_milk_based	Chocolate flavour drink whey and milk based
+1442.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;Coffee_and_cocoa_mocha_powder_with_whitener_and_low_calorie_sweetener	Coffee and cocoa mocha powder with whitener and low calorie sweetener
+1443.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;Coffee_brewed_espresso_restaurant_prepared	Coffee brewed espresso restaurant prepared
+1444.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Processed_cheeses_and_cheese_spreads;L4_;Coffee_instant_with_chicory_powder	Coffee instant with chicory powder
+1451.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Imitation_cheeses;L4_;Drink_breakfast_type_orange_ready_to_drink	Drink breakfast type orange ready to drink
+1452.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Imitation_cheeses;L4_;Drink_breakfast_type_orange_reduced_sugar	Drink breakfast type orange reduced sugar
+1453.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Imitation_cheeses;L4_;Drink_fruit_flavour_powder_low_calorie_vitamin_C	Drink fruit flavour powder low calorie vitamin C
+1454.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Imitation_cheeses;L4_;Drink_grape_vitamin_C_added_canned	Drink grape vitamin C added canned
+1456.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Imitation_cheeses;L4_;Drink_orange_flavour_vitamin_C_added_low_calorie_powder	Drink orange flavour vitamin C added low calorie powder
+1461.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Energy_drink_caffeine_free	Energy drink caffeine free
+1462.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Hot_chocolate_with_marshmallows_mix_powder_prepared_with_water	Hot chocolate with marshmallows mix powder prepared with water
+1463.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Instant_breakfast_powder	Instant breakfast powder
+1464.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Juice_drink_citrus_fruit_frozen_concentrate_water_added	Juice drink citrus fruit frozen concentrate water added
+1465.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Juice_drink_fruit_punch_frozen_concentrate	Juice drink fruit punch frozen concentrate
+1466.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Juice_drink_grape_vitamin_C_added_canned	Juice drink grape vitamin C added canned
+1467.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_mixtures;L4_;Juice_tomato_clam_cocktail_canned	Juice tomato clam cocktail canned
+1471.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Malt_beverage_includes_non_alcoholic_beer_0_5_alcohol_by_volume_	Malt beverage includes non alcoholic beer 0 5 alcohol by volume 
+1472.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Milk_shake_fast_food_chocolate	Milk shake fast food chocolate
+1473.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Non_alcoholic_wine	Non alcoholic wine
+1474.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Plant_based_beverage_almond_enriched_sweetened_chocolate_flavoured	Plant based beverage almond enriched sweetened chocolate flavoured
+1475.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Plant_based_beverage_cashew_enriched_sweetened	Plant based beverage cashew enriched sweetened
+1476.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Plant_based_beverage_coconut_enriched_sweetened_all_flavours	Plant based beverage coconut enriched sweetened all flavours
+1477.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Plant_based_beverage_rice_enriched	Plant based beverage rice enriched
+1478.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_Cheese_soups;L4_;Plant_based_beverage_soy_enriched_all_flavours	Plant based beverage soy enriched all flavours
+1481.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_;L4_;Sangria	Sangria
+1482.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_;L4_;Tea_brewed	Tea brewed
+1483.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_;L4_;Vitamin_water_all_flavours_low_Calorie	Vitamin water all flavours low Calorie
+1484.0	L1_Milk_and_Milk_Products;L2_Cheeses;L3_;L4_;Vodka_cooler_fruit_flavours	Vodka cooler fruit flavours
+1501.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Egg_chicken_dried_whole	Egg chicken dried whole
+1502.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Eggnog_7_M_F_Canadian_product_4_to_8_M_F_	Eggnog 7 M F Canadian product 4 to 8 M F 
+1503.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Egg_Benedict	Egg Benedict
+1504.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Egg_substitute_frozen_yolk_replaced_	Egg substitute frozen yolk replaced 
+1511.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Crustaceans_crab_alaska_king_boiled_or_steamed	Crustaceans crab alaska king boiled or steamed
+1512.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Crustaceans_crayfish_mixed_species_farmed_raw	Crustaceans crayfish mixed species farmed raw
+1521.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_cake_or_patty	Fish cake or patty
+1522.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_bass_fresh_water_mixed_species_baked_or_broiled	Fish bass fresh water mixed species baked or broiled
+1523.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_burbot_loche_baked_or_broiled	Fish burbot loche baked or broiled
+1524.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_carp_baked_or_broiled	Fish carp baked or broiled
+1525.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_caviar_black_and_red_granular	Fish caviar black and red granular
+1526.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_cod_gray_cod_pacific_baked_or_broiled	Fish cod gray cod pacific baked or broiled
+1527.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_devilfish_native_meat	Fish devilfish native meat
+1528.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_hake_whiting_mixed_species_baked_or_broiled	Fish hake whiting mixed species baked or broiled
+1529.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Fish_salmon_atlantic_farmed_baked_or_broiled	Fish salmon atlantic farmed baked or broiled
+1531.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Grayling_native_raw	Grayling native raw
+1532.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Mollusks_oyster_eastern_blue_point_farmed_baked_or_broiled	Mollusks oyster eastern blue point farmed baked or broiled
+1533.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Mollusks_scallop_bay_and_sea_cooked_steamed	Mollusks scallop bay and sea cooked steamed
+1541.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Agutuk_native_fish_with_shortening_Alaskan_ice_cream_	Agutuk native fish with shortening Alaskan ice cream 
+1542.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Agutuk_native_fish_berry_with_seal_oil_Alaskan_ice_cream_	Agutuk native fish berry with seal oil Alaskan ice cream 
+1543.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Ascidians_native_tunughnak_	Ascidians native tunughnak 
+1544.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Chiton_leathery_gumboots_native	Chiton leathery gumboots native
+1545.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Clam_fritter	Clam fritter
+1601.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Chocolate_syrup_thin_type_2_M_F_milk_added	Chocolate syrup thin type 2 M F milk added
+1602.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Coffee_whitener_non_dairy_liquid	Coffee whitener non dairy liquid
+1611.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_adzuki_boiled	Beans adzuki boiled
+1612.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_baked_canned_no_salt_added	Beans baked canned no salt added
+1613.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_black_turtle_mature_seeds_boiled	Beans black turtle mature seeds boiled
+1614.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_chili_barbecue_ranch_style_cooked	Beans chili barbecue ranch style cooked
+1615.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_cranberry_roman_boiled	Beans cranberry roman boiled
+1616.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_french_mature_seeds_boiled	Beans french mature seeds boiled
+1617.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_great_northern_boiled	Beans great northern boiled
+1618.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_liquid_from_stewed_kidney_beans	Beans liquid from stewed kidney beans
+1619.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Beans_small_white_boiled	Beans small white boiled
+1621.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Black_eyed_peas_cowpeas_crowder_southern_common_boiled_salted	Black eyed peas cowpeas crowder southern common boiled salted
+1622.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Broadbeans_fava_beans_canned_solids_and_liquid	Broadbeans fava beans canned solids and liquid
+1623.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Carob_St_Johns_bread_flour	Carob St Johns bread flour
+1624.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Chickpea_flour_besan_	Chickpea flour besan 
+1625.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lentils_boiled	Lentils boiled
+1631.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Meatless_bacon	Meatless bacon
+1632.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Meatless_chicken	Meatless chicken
+1633.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Meatless_fish_sticks	Meatless fish sticks
+1634.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Moth_beans_boiled	Moth beans boiled
+1641.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Okara	Okara
+1642.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Peanut_flour_defatted_salted	Peanut flour defatted salted
+1643.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Peanuts_all_types_boiled_salted	Peanuts all types boiled salted
+1644.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Peanuts_Spanish_oil_roasted	Peanuts Spanish oil roasted
+1645.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Peas_pigeon_red_gram_boiled	Peas pigeon red gram boiled
+1646.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Refried_beans	Refried beans
+1651.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Soy_flour_defatted	Soy flour defatted
+1652.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Soy_meal_defatted_raw	Soy meal defatted raw
+1653.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Soy_sauce_made_from_soy_tamari	Soy sauce made from soy tamari
+1654.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Soybean_kernels_roasted_salted	Soybean kernels roasted salted
+1655.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Tofu_fried	Tofu fried
+1656.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Vegetarian_fillets_meatless	Vegetarian fillets meatless
+1711.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_antelope_raw	Game meat antelope raw
+1712.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_beefalo_composite_cuts_raw	Game meat beefalo composite cuts raw
+1713.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_bison_chuck_shoulder_clod_roast_lean_raw	Game meat bison chuck shoulder clod roast lean raw
+1714.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_boar_wild_raw	Game meat boar wild raw
+1715.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_deer_venison_ground_cooked_pan_broiled	Game meat deer venison ground cooked pan broiled
+1716.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_elk_ground_cooked_pan_broiled	Game meat elk ground cooked pan broiled
+1717.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_frog_legs_breaded_and_fried	Game meat frog legs breaded and fried
+1718.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_goat_raw	Game meat goat raw
+1719.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Game_meat_native_agutuk_meat_caribou_Alaskan_ice_cream_	Game meat native agutuk meat caribou Alaskan ice cream 
+1721.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_Canadian_composite_cuts_lean_and_fat_3mm_1_8_trim_raw	Lamb Canadian composite cuts lean and fat 3mm 1 8 trim raw
+1722.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_New_Zealand_composite_cuts_fat_cooked	Lamb New Zealand composite cuts fat cooked
+1723.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_brain_braised	Lamb brain braised
+1724.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_cubed_for_stew_or_kabob_lean_braised	Lamb cubed for stew or kabob lean braised
+1725.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_heart_braised	Lamb heart braised
+1726.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_kidney_braised	Lamb kidney braised
+1727.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_liver_braised	Lamb liver braised
+1728.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_lungs_braised	Lamb lungs braised
+1729.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Lamb_mechanically_separated_raw	Lamb mechanically separated raw
+1731.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_grain_fed_cutlets_inside_rop_round_pan_fried	Veal grain fed cutlets inside rop round pan fried
+1732.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_milk_fed_cutlets_inside_top_round_pan_fried	Veal milk fed cutlets inside top round pan fried
+1733.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_shoulder_blade_lean_and_fat_braised	Veal shoulder blade lean and fat braised
+1734.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_sirloin_lean_and_fat_braised	Veal sirloin lean and fat braised
+1735.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_leg_round_lean_and_fat_braised	Veal leg round lean and fat braised
+1736.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_liver_braised	Veal liver braised
+1737.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_loin_lean_and_fat_braised	Veal loin lean and fat braised
+1738.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_lungs_braised	Veal lungs braised
+1739.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Veal_brain_braised	Veal brain braised
+1811.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_stuffing_cornbread_dry_mix_prepared	Bread stuffing cornbread dry mix prepared
+1812.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_wheat_germ	Bread wheat germ
+1813.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_whole_grain_whole_wheat_seeds_flax_sunflower_commercial_toasted	Bread whole grain whole wheat seeds flax sunflower commercial toasted
+1814.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_multigrain_commercial	Bread multigrain commercial
+1815.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_sprouted_wheat_with_added_calcium_and_vitamin_D_commercial	Bread sprouted wheat with added calcium and vitamin D commercial
+1816.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_French_or_Vienna_also_sourdough_	Bread French or Vienna also sourdough 
+1817.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_oat_includes_oatmeal_and_oat_bran_commercial	Bread oat includes oatmeal and oat bran commercial
+1821.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_mix_angel_food_dry_unprepared	Cake mix angel food dry unprepared
+1822.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_angel_food_commercial	Cake angel food commercial
+1823.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_Boston_cream_pie_commercial	Cake Boston cream pie commercial
+1824.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_date_square_matrimonial_cake_homemade	Cake date square matrimonial cake homemade
+1825.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_shortcake_biscuit_type_homemade	Cake shortcake biscuit type homemade
+1826.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_white_homemade_with_coconut_icing_frosting_	Cake white homemade with coconut icing frosting 
+1827.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cake_yellow_plus_streusel_pudding_type_dry_mix_prepared_with_icing	Cake yellow plus streusel pudding type dry mix prepared with icing
+1828.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cheesecake_commercial	Cheesecake commercial
+1829.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cinnamon_bun_with_icing_honey_bun_	Cinnamon bun with icing honey bun 
+1831.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_chocolate_chip_commercial_regular_higher_fat	Cookie chocolate chip commercial regular higher fat
+1832.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_oatmeal_with_or_without_raisins_commercial	Cookie oatmeal with or without raisins commercial
+1833.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_peanut_butter_sandwich	Cookie peanut butter sandwich
+1834.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_raisin_soft_type	Cookie raisin soft type
+1835.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_sugar_wafer_sandwich_with_cream_filling	Cookie sugar wafer sandwich with cream filling
+1836.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_vanilla_sandwich_with_cream_filling	Cookie vanilla sandwich with cream filling
+1837.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cookie_animal_crackers_arrowroot_social_tea_	Cookie animal crackers arrowroot social tea 
+1841.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_saltine_also_oyster_soda_soup_	Cracker saltine also oyster soda soup 
+1842.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_standard_snack_type_low_sodium	Cracker standard snack type low sodium
+1843.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_wheat	Cracker wheat
+1844.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_meal	Cracker meal
+1845.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_crispbread_rye	Cracker crispbread rye
+1846.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_melba_toast_plain	Cracker melba toast plain
+1847.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Cracker_milk	Cracker milk
+1851.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;English_muffin_multigrain_also_granola_	English muffin multigrain also granola 
+1852.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Muffin_bar_all_flavours	Muffin bar all flavours
+1853.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Muffin_carrot_commercial	Muffin carrot commercial
+1854.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Muffin_wheat_bran_dry_mix_prepared	Muffin wheat bran dry mix prepared
+1861.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pancake_blueberry_homemade	Pancake blueberry homemade
+1862.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pancake_buttermilk_homemade	Pancake buttermilk homemade
+1863.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pancake_plain_homemade	Pancake plain homemade
+1871.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pie_crust_cookie_type_chocolate_ready_to_serve	Pie crust cookie type chocolate ready to serve
+1872.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pie_crust_standard_type_frozen_ready_to_bake	Pie crust standard type frozen ready to bake
+1873.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pie_apple_commercial_2_crust	Pie apple commercial 2 crust
+1874.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Pie_fried_cherry	Pie fried cherry
+1881.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Roll_kaiser_hard	Roll kaiser hard
+1882.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Shake_and_bake_dry	Shake and bake dry
+1883.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Toaster_pastry_brown_sugar_and_cinnamon	Toaster pastry brown sugar and cinnamon
+1884.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Waffle_buttermilk_frozen_ready_to_heat	Waffle buttermilk frozen ready to heat
+1885.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Wonton_wrapper_egg_roll_wrapper_	Wonton wrapper egg roll wrapper 
+1886.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Taco_shell_baked	Taco shell baked
+1891.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Biscuit_multigrain_refrigerated_dough	Biscuit multigrain refrigerated dough
+1892.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bread_crumbs_dry_grated_plain	Bread crumbs dry grated plain
+1894.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Granola_bar_All_Bran_bars_and_snack_bites_all_flavours_Kelloggs	Granola bar All Bran bars and snack bites all flavours Kelloggs
+1895.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Leavening_agent_baking_powder_double_acting_phosphate	Leavening agent baking powder double acting phosphate
+1896.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Doughnut_donut_cake_type_chocolate_sugared_or_glazed	Doughnut donut cake type chocolate sugared or glazed
+1897.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Breakfast_bar_corn_flake_crust_with_fruit	Breakfast bar corn flake crust with fruit
+1898.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Croissant_apple_commercial	Croissant apple commercial
+1899.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Bagel_cinnamon_raisin	Bagel cinnamon raisin
+1911.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candied_foods_cherries	Candied foods cherries
+1912.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_bar_crispy_bar_with_peanut_butter_filling	Candies bar crispy bar with peanut butter filling
+1913.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_butterscotch	Candies butterscotch
+1914.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_chocolate_covered_dietetic_or_low_calorie	Candies chocolate covered dietetic or low calorie
+1915.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_fudge_chocolate_marshmallow_with_nuts_homemade	Candies fudge chocolate marshmallow with nuts homemade
+1916.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_Golden_Almond_Solitaires_chocolate_with_almonds	Candies Golden Almond Solitaires chocolate with almonds
+1917.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_M_Ms_Almond_Chocolate_Candies	Candies M Ms Almond Chocolate Candies
+1918.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_marshmallow	Candies marshmallow
+1919.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Candies_Skittles	Candies Skittles
+1921.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dessert_frozen_yogourt	Dessert frozen yogourt
+1922.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dessert_gelatin_dry_mix_prepared_with_water	Dessert gelatin dry mix prepared with water
+1923.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dessert_pudding_all_flavours_except_chocolate_dry_mix_instant_low_calorie_unprepared	Dessert pudding all flavours except chocolate dry mix instant low calorie unprepared
+1924.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dessert_rennin_chocolate_dry_mix_made_with_2_milk	Dessert rennin chocolate dry mix made with 2 milk
+1925.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dessert_flan_caramel_custard_dry_mix_prepared_with_2_milk	Dessert flan caramel custard dry mix prepared with 2 milk
+1926.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dessert_apple_crisp_homemade	Dessert apple crisp homemade
+1931.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Icing_frosting_chocolate_creamy_dry_mix_prepared_with_butter	Icing frosting chocolate creamy dry mix prepared with butter
+1932.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Dulce_de_leche_caramelized_milk_	Dulce de leche caramelized milk 
+1941.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweetener_aspartame_EQUAL	Sweetener aspartame EQUAL
+1942.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_topping_marshmallow_cream	Sweets topping marshmallow cream
+1943.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_chocolate_semisweet_made_with_butter	Sweets chocolate semisweet made with butter
+1944.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_confectioners_coating_chips_butterscotch	Sweets confectioners coating chips butterscotch
+1945.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_jams_and_preserves	Sweets jams and preserves
+1946.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_pectin_unsweetened_dry_mix	Sweets pectin unsweetened dry mix
+1947.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_sugar_brown	Sweets sugar brown
+1948.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_syrup_table_blend_pancake	Sweets syrup table blend pancake
+1949.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Sweets_topping_spread_butterscotch_or_caramel	Sweets topping spread butterscotch or caramel
+1951.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Chocolate_syrup_thin_type	Chocolate syrup thin type
+1952.0	L1_Milk_and_Milk_Products;L2_;L3_;L4_;Chocolate_syrup_thin_type_Calorie_reduced	Chocolate syrup thin type Calorie reduced
+2011.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_amaranth_cooked	Grains amaranth cooked
+2012.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_arrowroot_flour	Grains arrowroot flour
+2013.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_buckwheat	Grains buckwheat
+2014.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_bulgur_cooked	Grains bulgur cooked
+2015.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_couscous_cooked	Grains couscous cooked
+2016.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_hominy_canned_yellow	Grains hominy canned yellow
+2017.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_oat_bran_cooked	Grains oat bran cooked
+2018.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_quinoa_cooked	Grains quinoa cooked
+2019.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Grains_rice_and_vermicelli_mix_beef_flavour_prepared_with_margarine	Grains rice and vermicelli mix beef flavour prepared with margarine
+2021.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Pasta_Chinese_noodles_chow_mein	Pasta Chinese noodles chow mein
+2022.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Pasta_fresh_refrigerated_plain_as_purchased	Pasta fresh refrigerated plain as purchased
+2023.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Pasta_Japanese_noodles_soba_cooked	Pasta Japanese noodles soba cooked
+2024.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Pasta_macaroni_elbow_enriched_cooked	Pasta macaroni elbow enriched cooked
+2025.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Meat;L3_;L4_;Pasta_made_with_egg_homemade_cooked	Pasta made with egg homemade cooked
+2101.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_dill_seed	Spices dill seed
+2102.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_pepper_black	Spices pepper black
+2103.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_rosemary_dried	Spices rosemary dried
+2104.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_spearmint_dried	Spices spearmint dried
+2105.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_thyme_dried	Spices thyme dried
+2106.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_coriander_leaf_cilantro_dried	Spices coriander leaf cilantro dried
+2107.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_allspice_ground	Spices allspice ground
+2108.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_anise_seeds	Spices anise seeds
+2109.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_NFS;L4_;Spices_basil_dried	Spices basil dried
+2111.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_steak;L4_;Vanilla_extract	Vanilla extract
+2112.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_steak;L4_;Fast_foods_breakfast_croissant_with_egg_and_cheese	Fast foods breakfast croissant with egg and cheese
+2113.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_steak;L4_;Fast_foods_breakfast_english_muffin_with_butter	Fast foods breakfast english muffin with butter
+2114.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_Beef_steak;L4_;Fast_foods_breakfast_french_toast_sticks	Fast foods breakfast french toast sticks
+2121.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Vinegar_balsamic	Vinegar balsamic
+2122.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Seasoning_mix_chili_dry_mix	Seasoning mix chili dry mix
+2123.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Sauce_mustard_brown_ready_to_serve	Sauce mustard brown ready to serve
+2124.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Salt_table	Salt table
+2125.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Peppermint_fresh	Peppermint fresh
+2126.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Horseradish_prepared	Horseradish prepared
+2127.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Capers_canned	Capers canned
+2128.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Beef;L3_;L4_;Basil_fresh	Basil fresh
+2211.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_chops;L4_;Beef_pot_pie_frozen_prepared	Beef pot pie frozen prepared
+2212.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_chops;L4_;Beef_stew_with_potatoes_and_vegetables	Beef stew with potatoes and vegetables
+2221.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_steaks_cutlets;L4_;Chicken_breast_with_broccoli_and_cheese_stuffing_frozen	Chicken breast with broccoli and cheese stuffing frozen
+2232.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Ham;L4_;Chinese_dish_beef_and_vegetable_restaurant_prepared	Chinese dish beef and vegetable restaurant prepared
+2241.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_roasts;L4_;Sandwich_ham_homemade	Sandwich ham homemade
+2242.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_roasts;L4_;Spaghetti_and_meatballs_restaurant_prepared	Spaghetti and meatballs restaurant prepared
+2243.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_roasts;L4_;Stir_fry_with_beef	Stir fry with beef
+2244.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_roasts;L4_;Stuffed_cabbage_with_meat_in_tomato_sauce_and_whipped_potatoes_frozen	Stuffed cabbage with meat in tomato sauce and whipped potatoes frozen
+2245.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_roasts;L4_;Tamale_Navajo_	Tamale Navajo 
+2246.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_roasts;L4_;Taquito_beef_and_cheese_frozen_heated_in_oven	Taquito beef and cheese frozen heated in oven
+2251.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Lasagna_with_meat_and_sauce_frozen	Lasagna with meat and sauce frozen
+2252.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Lemon_chicken_restaurant_prepared	Lemon chicken restaurant prepared
+2253.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Macaroni_and_beef_in_tomato_sauce_frozen	Macaroni and beef in tomato sauce frozen
+2254.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Meat_loaf_with_tomato_sauce_mashed_potatoes_and_peas	Meat loaf with tomato sauce mashed potatoes and peas
+2255.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Pad_tha_with_chicken	Pad tha with chicken
+2256.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Pizza_roll_frozen_unprepared	Pizza roll frozen unprepared
+2257.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Quesadilla_with_cheese	Quesadilla with cheese
+2258.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Canadian_bacon;L4_;Quinoa_burger_patty_frozen	Quinoa burger patty frozen
+2261.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Bacon_salt_pork;L4_;Ravioli_cheese_and_tomato_sauce_frozen_not_prepared	Ravioli cheese and tomato sauce frozen not prepared
+2262.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Bacon_salt_pork;L4_;Rice_Spanish_rice	Rice Spanish rice
+2263.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Bacon_salt_pork;L4_;Salad_caesar_with_chicken_homemade	Salad caesar with chicken homemade
+2264.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Bacon_salt_pork;L4_;Salisbury_steak_in_gravy_with_macaroni_and_cheese_frozen	Salisbury steak in gravy with macaroni and cheese frozen
+2271.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Other_pork_items;L4_;Chop_suey_with_meat_canned	Chop suey with meat canned
+2272.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Other_pork_items;L4_;Egg_roll_assorted_restaurant_prepared	Egg roll assorted restaurant prepared
+2273.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Other_pork_items;L4_;Fajita_with_chicken_and_vegetables	Fajita with chicken and vegetables
+2281.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_Pork_baby_food;L4_;Chili_con_carne_with_beans_canned	Chili con carne with beans canned
+2291.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_;L4_;Breakfast_scrambled_eggs_sausage_with_hashed_brown_potatoes_frozen	Breakfast scrambled eggs sausage with hashed brown potatoes frozen
+2292.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_;L4_;Burrito_bean_and_cheese_frozen	Burrito bean and cheese frozen
+2293.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_;L4_;Burrito_beef_and_bean_frozen	Burrito beef and bean frozen
+2294.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_;L4_;Burrito_beef_and_bean_microwaved	Burrito beef and bean microwaved
+2295.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Pork;L3_;L4_;Cheese_souffle	Cheese souffle
+2511.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Organ_meats_and_mixtures;L4_Liver;Snacks_corn_cakes	Snacks corn cakes
+2512.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Organ_meats_and_mixtures;L4_Hearts;Snacks_popcorn_air_popped	Snacks popcorn air popped
+2521.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Frankfurters;Snacks_potato_chips_barbecue_flavour	Snacks potato chips barbecue flavour
+2522.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Sausages;Snacks_pretzels_hard_chocolate_coated	Snacks pretzels hard chocolate coated
+2523.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_Frankfurters_sausages_lunchmeats_meat_spreads;L4_Luncheon_meats;Snacks_rice_cakes_brown_rice_buckwheat	Snacks rice cakes brown rice buckwheat
+2531.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_;L4_;Snacks_RICE_KRISPIES_SQUARES	Snacks RICE KRISPIES SQUARES
+2532.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_;L4_;Snacks_tortilla_chips_light_baked_with_less_oil_	Snacks tortilla chips light baked with less oil 
+2533.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_;L4_;Snacks_trail_mix_regular	Snacks trail mix regular
+2534.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_;L4_;Snacks_vegetable_chips	Snacks vegetable chips
+2535.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_;L4_;Snacks_fruit_leather_bar	Snacks fruit leather bar
+2536.0	L1_Meat_Poultry_Fish_and_Mixtures;L2_Organ_meats_sausages_and_lunchmeats;L3_;L4_;Snacks_multigrain_chips_plain	Snacks multigrain chips plain
+3101.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_barley_with_milk_powder_dry	Babyfood cereal barley with milk powder dry
+3102.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_mixed_grain_dry	Babyfood cereal mixed grain dry
+3103.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_oat_dry	Babyfood cereal oat dry
+3104.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_ready_to_eat_O_shaped	Babyfood cereal ready to eat O shaped
+3105.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_rice_dry	Babyfood cereal rice dry
+3106.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_soya_with_fruit_dry	Babyfood cereal soya with fruit dry
+3107.0	L1_Eggs;L2_Eggs;L3_;L4_;Babyfood_cereal_wheat_dry	Babyfood cereal wheat dry
+3201.0	L1_Eggs;L2_Egg_mixtures;L3_;L4_;Babyfood_dessert_jarred_apricot_all_stages	Babyfood dessert jarred apricot all stages
+3202.0	L1_Eggs;L2_Egg_mixtures;L3_;L4_;Babyfood_dessert_jarred_banana_graham_pie	Babyfood dessert jarred banana graham pie
+3203.0	L1_Eggs;L2_Egg_mixtures;L3_;L4_;Babyfood_dessert_jarred_blueberry_all_stages	Babyfood dessert jarred blueberry all stages
+3204.0	L1_Eggs;L2_Egg_mixtures;L3_;L4_;Babyfood_dessert_jarred_custard_includes_vanilla_custard_	Babyfood dessert jarred custard includes vanilla custard 
+3205.0	L1_Eggs;L2_Egg_mixtures;L3_;L4_;Babyfood_dessert_jarred_fruit	Babyfood dessert jarred fruit
+3206.0	L1_Eggs;L2_Egg_mixtures;L3_;L4_;Babyfood_dessert_jarred_strawberry	Babyfood dessert jarred strawberry
+3301.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_jarred_or_frozen_beef_with_pasta_and_vegetables_all_stages	Babyfood dinner jarred or frozen beef with pasta and vegetables all stages
+3302.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_jarred_chicken_with_cheese_pasta_and_vegetables_all_stages	Babyfood dinner jarred chicken with cheese pasta and vegetables all stages
+3303.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_jarred_pasta_with_cheese_and_vegetables	Babyfood dinner jarred pasta with cheese and vegetables
+3304.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_jarred_pork_with_vegetables_and_fruit	Babyfood dinner jarred pork with vegetables and fruit
+3305.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_jarred_turkey_with_vegetables_all_stages	Babyfood dinner jarred turkey with vegetables all stages
+3306.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_lamb_with_fruit	Babyfood dinner lamb with fruit
+3307.0	L1_Eggs;L2_Egg_substitutes;L3_Egg_substitute_NS_as_to_form;L4_;Babyfood_dinner_veal_with_vegetables_and_barley	Babyfood dinner veal with vegetables and barley
+3401.0	L1_Eggs;L2_;L3_;L4_;Babyfood_fruit_jarred_apple_applesauce_all_stages	Babyfood fruit jarred apple applesauce all stages
+3402.0	L1_Eggs;L2_;L3_;L4_;Babyfood_juice_apple_and_prune	Babyfood juice apple and prune
+3501.0	L1_Eggs;L2_Frozen_plate_meals_with_egg_as_major;L3_Frozen_plate_meals_with_egg_as_major;L4_;Babyfood_meat_jarred_and_frozen_beef_puree	Babyfood meat jarred and frozen beef puree
+3502.0	L1_Eggs;L2_Frozen_plate_meals_with_egg_as_major;L3_Frozen_plate_meals_with_egg_as_major;L4_;Babyfood_meat_lamb_puree	Babyfood meat lamb puree
+3503.0	L1_Eggs;L2_Frozen_plate_meals_with_egg_as_major;L3_Frozen_plate_meals_with_egg_as_major;L4_;Babyfood_meat_pork_puree	Babyfood meat pork puree
+3504.0	L1_Eggs;L2_Frozen_plate_meals_with_egg_as_major;L3_Frozen_plate_meals_with_egg_as_major;L4_;Babyfood_meat_turkey_puree	Babyfood meat turkey puree
+3505.0	L1_Eggs;L2_Frozen_plate_meals_with_egg_as_major;L3_Frozen_plate_meals_with_egg_as_major;L4_;Babyfood_meat_veal_puree	Babyfood meat veal puree
+3601.0	L1_Eggs;L2_;L3_;L4_;Babyfood_mixed_fruit_with_oatmeal_cereal_all_stages	Babyfood mixed fruit with oatmeal cereal all stages
+3602.0	L1_Eggs;L2_;L3_;L4_;Babyfood_snack_biscuit_mixed_grain	Babyfood snack biscuit mixed grain
+3603.0	L1_Eggs;L2_;L3_;L4_;Babyfood_vegetable_and_grain_jarred_creamed_corn_with_rice	Babyfood vegetable and grain jarred creamed corn with rice
+3604.0	L1_Eggs;L2_;L3_;L4_;Babyfood_yogourt_fruit_flavours_with_added_Vitamin_D_and_DHA	Babyfood yogourt fruit flavours with added Vitamin D and DHA
+3605.0	L1_Eggs;L2_;L3_;L4_;Zwieback	Zwieback
+4101.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_native_bearded_seal_oil_oogruk_oil_	Animal fat native bearded seal oil oogruk oil 
+4102.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_turkey	Animal fat turkey
+4103.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_mutton_tallow	Animal fat mutton tallow
+4104.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_lard_pork_	Animal fat lard pork 
+4105.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_goose	Animal fat goose
+4106.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_duck	Animal fat duck
+4107.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_chicken	Animal fat chicken
+4108.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_beef_tallow	Animal fat beef tallow
+4109.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Legumes;L3_;L4_;Animal_fat_bacon_grease	Animal fat bacon grease
+4201.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_;L4_;Fish_oil_menhaden	Fish oil menhaden
+4202.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_;L4_;Fish_oil_herring	Fish oil herring
+4203.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_;L4_;Fish_oil_cod_liver	Fish oil cod liver
+4204.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_;L4_;Fish_oil_salmon	Fish oil salmon
+4205.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Nuts_nut_butters_and_nut_mixtures;L3_;L4_;Fish_oil_sardine	Fish oil sardine
+4301.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Seeds_and_seed_mixtures;L3_;L4_;Margarine_like_spread_including_garlic_flavoured_tub_non_hydrogenated_mixed_vegetable_oils_68_fat	Margarine like spread including garlic flavoured tub non hydrogenated mixed vegetable oils 68 fat
+4302.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Seeds_and_seed_mixtures;L3_;L4_;Margarine_stick_canola_and_or_soybean_oil	Margarine stick canola and or soybean oil
+4303.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Seeds_and_seed_mixtures;L3_;L4_;Margarine_tub_hydrogenated_canola_oil	Margarine tub hydrogenated canola oil
+4401.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_bacon_and_tomato	Salad dressing bacon and tomato
+4402.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_blue_or_roquefort_cheese_dressing_calorie_reduced	Salad dressing blue or roquefort cheese dressing calorie reduced
+4403.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_buttermilk_as_main_ingredient	Salad dressing buttermilk as main ingredient
+4404.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_caesar_dressing_regular	Salad dressing caesar dressing regular
+4405.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_coleslaw	Salad dressing coleslaw
+4406.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_creamy_made_with_sour_cream_and_or_buttermilk_and_oil_calorie_reduced	Salad dressing creamy made with sour cream and or buttermilk and oil calorie reduced
+4407.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_french_calorie_reduced	Salad dressing french calorie reduced
+4408.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_green_goddess_regular	Salad dressing green goddess regular
+4409.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_Carob_products;L3_;L4_;Salad_dressing_honey_mustard_calorie_reduced	Salad dressing honey mustard calorie reduced
+4501.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Shortening_household_composite	Shortening household composite
+4502.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Shortening_industrial_all_purpose_canola_and_palm	Shortening industrial all purpose canola and palm
+4503.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Shortening_multipurpose_hydrogenated_soybean_and_palm	Shortening multipurpose hydrogenated soybean and palm
+4504.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Shortening_special_purpose_baking	Shortening special purpose baking
+4601.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Spread_20_butter_80_canola_oil	Spread 20 butter 80 canola oil
+4602.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_canola_and_soybean	Vegetable oil canola and soybean
+4603.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_almond	Vegetable oil almond
+4604.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_apricot_kernel	Vegetable oil apricot kernel
+4605.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_avocado	Vegetable oil avocado
+4606.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_babassu	Vegetable oil babassu
+4607.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_canola	Vegetable oil canola
+4608.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_cocoa_butter	Vegetable oil cocoa butter
+4609.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Vegetable_oil_coconut	Vegetable oil coconut
+4701.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Butter_replacement_without_fat_powder	Butter replacement without fat powder
+4702.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Meat_drippings_lard_beef_tallow_mutton_tallow_	Meat drippings lard beef tallow mutton tallow 
+4703.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Oil_cooking_spray	Oil cooking spray
+4704.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Sandwich_spread_with_chopped_pickle_regular_unspecified_oil	Sandwich spread with chopped pickle regular unspecified oil
+4705.0	L1_Dry_Beans_Peas_Other_Legumes_Nuts_and_Seeds;L2_;L3_;L4_;Yogourt_Greek_style_fruit_flavoured_2_M_F_	Yogourt Greek style fruit flavoured 2 M F 
+5101.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_breast_tenders_breaded_cooked_in_conventional_oven	Chicken breast tenders breaded cooked in conventional oven
+5102.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_nuggets_dark_and_white_meat_pre_cooked_frozen_not_heated	Chicken nuggets dark and white meat pre cooked frozen not heated
+5103.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_patty_frozen_cooked	Chicken patty frozen cooked
+5104.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_broiler_back_meat_and_skin_batter_dipped_fried	Chicken broiler back meat and skin batter dipped fried
+5105.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_canned_no_broth	Chicken canned no broth
+5106.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_cornish_game_hens_meat_and_skin_raw	Chicken cornish game hens meat and skin raw
+5107.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_feet_boiled	Chicken feet boiled
+5108.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_roasting_giblets_raw	Chicken roasting giblets raw
+5109.0	L1_Grain_Product;L2_Yeast;L3_BreadrollsNFS;L4_;Chicken_stewing_dark_meat_only_raw	Chicken stewing dark meat only raw
+5201.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_bacon_cooked	Turkey bacon cooked
+5202.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_all_classes_back_meat_and_skin_raw	Turkey all classes back meat and skin raw
+5203.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_broiler_breast_meat_and_skin_raw	Turkey broiler breast meat and skin raw
+5204.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_drumstick_smoked_cooked_with_skin_bone_removed	Turkey drumstick smoked cooked with skin bone removed
+5205.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_hen_breast_meat_and_skin_raw	Turkey hen breast meat and skin raw
+5206.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_light_or_dark_meat_smoked_cooked_skin_and_bone_removed	Turkey light or dark meat smoked cooked skin and bone removed
+5207.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_tom_breast_meat_and_skin_raw	Turkey tom breast meat and skin raw
+5208.0	L1_Grain_Product;L2_Quick_breads;L3_;L4_;Turkey_wing_smoked_cooked_with_skin_bone_removed	Turkey wing smoked cooked with skin bone removed
+5301.0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_;L4_;Duck_domesticated_liver_raw	Duck domesticated liver raw
+5302.0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_;L4_;Duck_duckling_domestic_Pekin_breast_meat_only_boneless_cooked_without_skin_broiled	Duck duckling domestic Pekin breast meat only boneless cooked without skin broiled
+5303.0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_;L4_;Duck_wild_native_breast_meat_only_raw	Duck wild native breast meat only raw
+5304.0	L1_Grain_Product;L2_Cakes_cookies_pies_pastries_bars;L3_;L4_;Duck_young_duckling_domestic_White_Pekin_breast_meat_and_skin_boneless_roasted	Duck young duckling domestic White Pekin breast meat and skin boneless roasted
+5401.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_fan_fillet_cooked_broiled	Emu fan fillet cooked broiled
+5402.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_full_rump_cooked_broiled	Emu full rump cooked broiled
+5403.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_ground_cooked_pan_broiled	Emu ground cooked pan broiled
+5404.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_inside_drum_cooked_broiled	Emu inside drum cooked broiled
+5405.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_outside_drum_raw	Emu outside drum raw
+5406.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_oyster_raw	Emu oyster raw
+5407.0	L1_Grain_Product;L2_Crackers_and_salty_snacks_from_grain;L3_Crackers_NS_as_to_type;L4_;Emu_top_loin_cooked_broiled	Emu top loin cooked broiled
+5501.0	L1_Grain_Product;L2_Pancakes_waffles_French_toast_other;L3_;L4_;Goose_domesticated_liver_raw	Goose domesticated liver raw
+5502.0	L1_Grain_Product;L2_Pancakes_waffles_French_toast_other;L3_;L4_;Goose_wild_Canada_goose_native_breast_meat_and_skin_boiled	Goose wild Canada goose native breast meat and skin boiled
+5601.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_fan_raw	Ostrich fan raw
+5602.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_ground_cooked_pan_broiled	Ostrich ground cooked pan broiled
+5603.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_inside_leg_cooked	Ostrich inside leg cooked
+5604.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_outside_leg_raw	Ostrich outside leg raw
+5605.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_oyster_cooked	Ostrich oyster cooked
+5606.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_round_raw	Ostrich round raw
+5607.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_tenderloin_raw	Ostrich tenderloin raw
+5608.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_tip_trimmed_cooked	Ostrich tip trimmed cooked
+5609.0	L1_Grain_Product;L2_Pastas_cooked_cereals_rice;L3_;L4_;Ostrich_top_loin_cooked	Ostrich top loin cooked
+5701.0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Cereal_NS_as_to_cooked;L4_;Dove_includes_squab_cooked	Dove includes squab cooked
+5702.0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Cereal_NS_as_to_cooked;L4_;Guinea_meat_and_skin_raw	Guinea meat and skin raw
+5703.0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Cereal_NS_as_to_cooked;L4_;Quail_breast_meat_only_raw	Quail breast meat only raw
+5704.0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Cereal_NS_as_to_cooked;L4_;Rhea_raw	Rhea raw
+5705.0	L1_Grain_Product;L2_Cereals_not_cooked_or_NS_as_to_cooked;L3_Cereal_NS_as_to_cooked;L4_;Spruce_grouse_native_meat_cooked	Spruce grouse native meat cooked
+5801.0	L1_Grain_Product;L2_Grain_mixtures_frozen_plate_meals_soups;L3_;L4_;Poultry_food_products_chicken_canned_flaked	Poultry food products chicken canned flaked
+6101.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_adobo_fresco	Sauce adobo fresco
+6102.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_chili_peppers_hot_chili_immature_green_canned	Sauce chili peppers hot chili immature green canned
+6103.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_pasta_spaghetti_or_marinara_ready_to_serve	Sauce pasta spaghetti or marinara ready to serve
+6104.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_peanut_made_from_coconut_water_sugar_peanuts_	Sauce peanut made from coconut water sugar peanuts 
+6105.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_pepper_or_hot_ready_to_serve	Sauce pepper or hot ready to serve
+6106.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_spaghetti_with_garden_vegetables_ready_to_serve	Sauce spaghetti with garden vegetables ready to serve
+6107.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_white_medium_2_milk_homemade	Sauce white medium 2 milk homemade
+6108.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_worcestershire_ready_to_serve	Sauce worcestershire ready to serve
+6109.0	L1_Fruits;L2_Citrus_fruits_juices;L3_;L4_;Sauce_steak_tomato_based_ready_to_serve	Sauce steak tomato based ready to serve
+6201.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_sauce_stock_cream_ready_to_serve	Soup sauce stock cream ready to serve
+6202.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_bean_with_bacon_canned_condensed	Soup bean with bacon canned condensed
+6203.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_beef_and_mushroom_low_sodium_chunky_style	Soup beef and mushroom low sodium chunky style
+6204.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_black_bean_ready_to_serve	Soup black bean ready to serve
+6205.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_broccoli_cheese_canned_condensed	Soup broccoli cheese canned condensed
+6206.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_broth_consomme_beef_canned_condensed	Soup broth consomme beef canned condensed
+6207.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_butternut_squash_ready_to_serve	Soup butternut squash ready to serve
+6208.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_chicken_chowder_a_la_king_ready_to_serve	Soup chicken chowder a la king ready to serve
+6209.0	L1_Fruits;L2_Dried_fruits;L3_;L4_;Soup_clam_chowder_manhattan_ready_to_serve	Soup clam chowder manhattan ready to serve
+6301.0	L1_Fruits;L2_Other_fruits;L3_;L4_;Chinese_dish_soup_egg_drop_restaurant_prepared	Chinese dish soup egg drop restaurant prepared
+6302.0	L1_Fruits;L2_Other_fruits;L3_;L4_;Dip_cheese_with_chili_peppers_ready_to_serve	Dip cheese with chili peppers ready to serve
+6303.0	L1_Fruits;L2_Other_fruits;L3_;L4_;Gravy_au_jus_canned	Gravy au jus canned
+7101.0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_NFS;L4_;Ham_extra_lean_canned	Ham extra lean canned
+7102.0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_NFS;L4_;Liver_sausage_liverwurst_pork	Liver sausage liverwurst pork
+7103.0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_NFS;L4_;Meat_stick_beef_refrigerated	Meat stick beef refrigerated
+7104.0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_NFS;L4_;P_t_de_foie_gras_goose_liver_pate_smoked_canned	P t de foie gras goose liver pate smoked canned
+7105.0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_NFS;L4_;Pork_and_chicken_canned	Pork and chicken canned
+7106.0	L1_Vegetables;L2_White_potatoes_and_Puerto_Rican_starchy_vegetables;L3_White_potatoes_NFS;L4_;Sandwich_spread_chicken_and_or_turkey	Sandwich spread chicken and or turkey
+7201.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_Bratwurst_beef_and_pork_smoked	Sausage Bratwurst beef and pork smoked
+7202.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_breakfast_links_or_rounds_beef_cooked	Sausage breakfast links or rounds beef cooked
+7203.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_honey_garlic_pork_cooked	Sausage honey garlic pork cooked
+7204.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_Italian_pork_cooked	Sausage Italian pork cooked
+7205.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_kielbasa_kolbassa_	Sausage kielbasa kolbassa 
+7206.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_smoked_honey_garlic_pre_cooked	Sausage smoked honey garlic pre cooked
+7207.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_spicy_beef_and_roasted_red_pepper_cooked	Sausage spicy beef and roasted red pepper cooked
+7208.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_Knackwurst_Knockwurst_cooked	Sausage Knackwurst Knockwurst cooked
+7209.0	L1_Vegetables;L2_Darkgreen_vegetables;L3_;L4_;Sausage_Beerwurst_beer_salami_pork	Sausage Beerwurst beer salami pork
+7301.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_;L4_;Wiener_cheesefurter_cheddar_smokie	Wiener cheesefurter cheddar smokie
+7302.0	L1_Vegetables;L2_Deepyellow_vegetables;L3_;L4_;Wiener_frankfurter_Bavarian	Wiener frankfurter Bavarian
+7401.0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_;L4_;Deli_meat_beef_cured_jellied	Deli meat beef cured jellied
+7402.0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_;L4_;Deli_meat_chicken_breast_honey_glazed_	Deli meat chicken breast honey glazed 
+7403.0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_;L4_;Deli_meat_composite	Deli meat composite
+7404.0	L1_Vegetables;L2_Tomatoes_and_tomato_mixtures;L3_;L4_;Deli_meat_pepperoni	Deli meat pepperoni
+7501.0	L1_Vegetables;L2_Other_vegetables;L3_;L4_;Chicken_spread_canned	Chicken spread canned
+7502.0	L1_Vegetables;L2_Other_vegetables;L3_;L4_;Cretons	Cretons
+8101.0	L1_Fats_Oils_and_Salad_Dressings;L2_Fats;L3_;L4_;Meal_replacement_cereal_ready_to_eat_Force_Active_Presidents_Choice	Meal replacement cereal ready to eat Force Active Presidents Choice
+8102.0	L1_Fats_Oils_and_Salad_Dressings;L2_Fats;L3_;L4_;Meal_replacement_cereal_ready_to_eat_Vector_Kelloggs	Meal replacement cereal ready to eat Vector Kelloggs
+8201.0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_;L4_;Cereal_hot_cream_of_rice_cooked	Cereal hot cream of rice cooked
+8202.0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_;L4_;Cereal_hot_oats_instant_apple_cinnamon_prepared_Quaker	Cereal hot oats instant apple cinnamon prepared Quaker
+8203.0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_;L4_;Cereal_ready_to_eat_On_Track_Presidents_Choice	Cereal ready to eat On Track Presidents Choice
+8204.0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_;L4_;Cereal_hot_9_grain_dry_Rogers	Cereal hot 9 grain dry Rogers
+8205.0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_;L4_;Cereal_hot_corn_grits_yellow_cooked	Cereal hot corn grits yellow cooked
+8206.0	L1_Fats_Oils_and_Salad_Dressings;L2_Oils;L3_;L4_;Cereal_hot_Red_River_dry_Robin_Hood	Cereal hot Red River dry Robin Hood
+9101.0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_;L4_;Apple_juice_canned_or_bottled_added_vitamin_C	Apple juice canned or bottled added vitamin C
+9102.0	L1_Sugars_Sweets_and_Beverages;L2_Sugars_and_sweets;L3_;L4_;Apricot_nectar_canned	Apricot nectar canned
+9201.0	L1_Sugars_Sweets_and_Beverages;L2_Nonalcoholic_beverages;L3_;L4_;Banana_dehydrated_or_banana_powder	Banana dehydrated or banana powder
+9301.0	L1_Sugars_Sweets_and_Beverages;L2_Alcoholic_beverages;L3_;L4_;Black_crowberry_curlewberry_native	Black crowberry curlewberry native
+9302.0	L1_Sugars_Sweets_and_Beverages;L2_Alcoholic_beverages;L3_;L4_;Blueberry_canned_heavy_syrup_pack_solids_and_liquid	Blueberry canned heavy syrup pack solids and liquid
+9303.0	L1_Sugars_Sweets_and_Beverages;L2_Alcoholic_beverages;L3_;L4_;Cranberry_lingonberry_wild_raw	Cranberry lingonberry wild raw
+9401.0	L1_Sugars_Sweets_and_Beverages;L2_Water_noncarbonated;L3_Water_not_bottled;L4_;Cherimoya_raw	Cherimoya raw
+9402.0	L1_Sugars_Sweets_and_Beverages;L2_Water_noncarbonated;L3_Water_not_bottled;L4_;Chokecherry_raw_pitted	Chokecherry raw pitted
+9501.0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_;L4_;Grape_juice_canned_or_bottled_unsweetened_with_added_vitamin_C	Grape juice canned or bottled unsweetened with added vitamin C
+9502.0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_;L4_;Grapefruit_juice_canned_no_added_sugar	Grapefruit juice canned no added sugar
+9503.0	L1_Sugars_Sweets_and_Beverages;L2_Formulated_nutrition_beverages_energy_drinks_sports_drinks_function;L3_;L4_;Grapefruit_canned_juice_pack_solids_and_liquid	Grapefruit canned juice pack solids and liquid
+9601.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Lemon_juice_canned_or_bottled	Lemon juice canned or bottled
+9602.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Orange_grapefruit_juice_canned	Orange grapefruit juice canned
+9701.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Peach_nectar_canned	Peach nectar canned
+9801.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Pineapple_juice_canned_added_vitamin_C	Pineapple juice canned added vitamin C
+9901.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Abiyuch_raw	Abiyuch raw
+9902.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Boysenberry_canned_heavy_syrup_pack_solids_and_liquid	Boysenberry canned heavy syrup pack solids and liquid
+9903.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Breadfruit_raw	Breadfruit raw
+9904.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Fig_canned_extra_heavy_syrup_pack_solids_and_liquid	Fig canned extra heavy syrup pack solids and liquid
+9905.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Gooseberry_raw	Gooseberry raw
+9906.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Loganberry_frozen	Loganberry frozen
+9907.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Plantain_cooked	Plantain cooked
+9908.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Sauce_cranberry_canned_sweetened	Sauce cranberry canned sweetened
+9909.0	L1_Sugars_Sweets_and_Beverages;L2_;L3_;L4_;Soursop_raw	Soursop raw

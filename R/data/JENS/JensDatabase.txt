@@ -1,0 +1,631 @@
+FoodCode	Main.food.description	Old.Main.food.description	ModCode	FoodID
+1101	Milk_condensed_sweetened_canned	Milk, condensed, sweetened, canned	0	1101.0
+1102	Milk_dry_whole	Milk, dry whole	0	1102.0
+1103	Milk_evaporated_partly_skimmed_canned_undiluted_2_M_F_	Milk, evaporated, partly skimmed, canned, undiluted, 2 M.F.	0	1103.0
+1104	Milk_fluid_buttermilk_cultured_1_M_F_	Milk, fluid, buttermilk, cultured, 1 M.F.	0	1104.0
+1105	Milk_fluid_chocolate_partly_skimmed_1_M_F_	Milk, fluid, chocolate, partly skimmed, 1 M.F.	0	1105.0
+1106	Milk_fluid_goat_enriched_whole	Milk, fluid, goat, enriched, whole	0	1106.0
+1107	Milk_fluid_human_breast_milk_mature	Milk, fluid, human (breast milk), mature	0	1107.0
+1201	Cream_5	Cream, 5	0	1201.0
+1206	Cream_cereal_half_and_half_10_M_F_	Cream, cereal (half and half), 10 M.F.	0	1206.0
+1202	Cream_sour_cultured_14_M_F	Cream, sour, cultured, 14 M.F	0	1202.0
+1203	Cream_substitute_flavoured_liquid	Cream, substitute, flavoured, liquid	0	1203.0
+1204	Cream_table_coffee_15_M_F_	Cream, table (coffee), 15 M.F.	0	1204.0
+1205	Cream_whipped_cream_topping_pressurized	Cream, whipped, cream topping, pressurized	0	1205.0
+1301	Dessert_topping_non_dairy_fat_free_Reddi_Wip	Dessert topping (non dairy), fat free, Reddi Wip	0	1301.0
+1302	Butter_oil_anhydrous	Butter oil, anhydrous	0	1302.0
+1303	Butter_light_salted	Butter, light, salted	0	1303.0
+1304	Butter_regular	Butter, regular	0	1304.0
+1401	Cheese_fondue	Cheese fondue	0	1401.0
+1402	Kefir_2_3_9_M_F_	Kefir, (2-3.9 M.F.)	0	1402.0
+1403	Yogourt_beverage_fruit_flavoured	Yogourt beverage, fruit flavoured	0	1403.0
+1503	Egg_Benedict	Egg Benedict	0	1503.0
+1504	Egg_substitute_frozen_yolk_replaced_	Egg substitute, frozen (yolk replaced)	0	1504.0
+1501	Egg_chicken_dried_whole	Egg, chicken, dried, whole	0	1501.0
+1502	Eggnog_7_M_F_Canadian_product_4_to_8_M_F_	Eggnog, 7 M.F., Canadian product, 4 to 8 M.F.	0	1502.0
+1601	Chocolate_syrup_thin_type_2_M_F_milk_added	Chocolate syrup, thin type, 2 M.F. milk added	0	1601.0
+1602	Coffee_whitener_non_dairy_liquid	Coffee whitener (non dairy), liquid	0	1602.0
+2107	Spices_allspice_ground	Spices, allspice, ground	0	2107.0
+2108	Spices_anise_seeds	Spices, anise seeds	0	2108.0
+2109	Spices_basil_dried	Spices, basil, dried	0	2109.0
+2106	Spices_coriander_leaf_cilantro_dried	Spices, coriander leaf (cilantro), dried	0	2106.0
+2101	Spices_dill_seed	Spices, dill seed	0	2101.0
+2102	Spices_pepper_black	Spices, pepper, black	0	2102.0
+2103	Spices_rosemary_dried	Spices, rosemary, dried	0	2103.0
+2104	Spices_spearmint_dried	Spices, spearmint, dried	0	2104.0
+2105	Spices_thyme_dried	Spices, thyme, dried	0	2105.0
+2111	Vanilla_extract	Vanilla extract	0	2111.0
+2128	Basil_fresh	Basil, fresh	0	2128.0
+2127	Capers_canned	Capers, canned	0	2127.0
+2126	Horseradish_prepared	Horseradish, prepared	0	2126.0
+2125	Peppermint_fresh	Peppermint, fresh	0	2125.0
+2124	Salt_table	Salt, table	0	2124.0
+2123	Sauce_mustard_brown_ready_to_serve	Sauce, mustard, brown, ready-to-serve	0	2123.0
+2122	Seasoning_mix_chili_dry_mix	Seasoning mix, chili, dry mix	0	2122.0
+2121	Vinegar_balsamic	Vinegar, balsamic	0	2121.0
+3101	Babyfood_cereal_barley_with_milk_powder_dry	Babyfood, cereal, barley, with milk powder, dry	0	3101.0
+3102	Babyfood_cereal_mixed_grain_dry	Babyfood, cereal, mixed grain, dry	0	3102.0
+3103	Babyfood_cereal_oat_dry	Babyfood, cereal, oat, dry	0	3103.0
+3104	Babyfood_cereal_ready_to_eat_O_shaped	Babyfood, cereal, ready to eat, O shaped	0	3104.0
+3105	Babyfood_cereal_rice_dry	Babyfood, cereal, rice, dry	0	3105.0
+3106	Babyfood_cereal_soya_with_fruit_dry	Babyfood, cereal, soya, with fruit, dry	0	3106.0
+3107	Babyfood_cereal_wheat_dry	Babyfood, cereal, wheat, dry	0	3107.0
+3201	Babyfood_dessert_jarred_apricot_all_stages	Babyfood, dessert, jarred, apricot, all stages	0	3201.0
+3202	Babyfood_dessert_jarred_banana_graham_pie	Babyfood, dessert, jarred, banana graham pie	0	3202.0
+3203	Babyfood_dessert_jarred_blueberry_all_stages	Babyfood, dessert, jarred, blueberry, all stages	0	3203.0
+3204	Babyfood_dessert_jarred_custard_includes_vanilla_custard_	Babyfood, dessert, jarred, custard (includes vanilla custard)	0	3204.0
+3205	Babyfood_dessert_jarred_fruit	Babyfood, dessert, jarred, fruit	0	3205.0
+3206	Babyfood_dessert_jarred_strawberry	Babyfood, dessert, jarred, strawberry	0	3206.0
+3301	Babyfood_dinner_jarred_or_frozen_beef_with_pasta_and_vegetables_all_stages	Babyfood, dinner, jarred or frozen, beef with pasta and vegetables, all stages	0	3301.0
+3302	Babyfood_dinner_jarred_chicken_with_cheese_pasta_and_vegetables_all_stages	Babyfood, dinner, jarred, chicken with cheese pasta and vegetables, all stages	0	3302.0
+3303	Babyfood_dinner_jarred_pasta_with_cheese_and_vegetables	Babyfood, dinner, jarred, pasta with cheese and vegetables	0	3303.0
+3304	Babyfood_dinner_jarred_pork_with_vegetables_and_fruit	Babyfood, dinner, jarred, pork with vegetables and fruit	0	3304.0
+3305	Babyfood_dinner_jarred_turkey_with_vegetables_all_stages	Babyfood, dinner, jarred, turkey with vegetables, all stages	0	3305.0
+3306	Babyfood_dinner_lamb_with_fruit	Babyfood, dinner, lamb with fruit	0	3306.0
+3307	Babyfood_dinner_veal_with_vegetables_and_barley	Babyfood, dinner, veal with vegetables and barley	0	3307.0
+3401	Babyfood_fruit_jarred_apple_applesauce_all_stages	Babyfood, fruit, jarred, apple (applesauce), all stages	0	3401.0
+3402	Babyfood_juice_apple_and_prune	Babyfood, juice, apple and prune	0	3402.0
+3501	Babyfood_meat_jarred_and_frozen_beef_puree	Babyfood, meat, jarred and frozen, beef, puree	0	3501.0
+3502	Babyfood_meat_lamb_puree	Babyfood, meat, lamb, puree	0	3502.0
+3503	Babyfood_meat_pork_puree	Babyfood, meat, pork, puree	0	3503.0
+3504	Babyfood_meat_turkey_puree	Babyfood, meat, turkey, puree	0	3504.0
+3505	Babyfood_meat_veal_puree	Babyfood, meat, veal, puree	0	3505.0
+3601	Babyfood_mixed_fruit_with_oatmeal_cereal_all_stages	Babyfood, mixed fruit with oatmeal cereal, all stages	0	3601.0
+3602	Babyfood_snack_biscuit_mixed_grain	Babyfood, snack, biscuit, mixed grain	0	3602.0
+3603	Babyfood_vegetable_and_grain_jarred_creamed_corn_with_rice	Babyfood, vegetable and grain, jarred, creamed corn with rice	0	3603.0
+3604	Babyfood_yogourt_fruit_flavours_with_added_Vitamin_D_and_DHA	Babyfood, yogourt, fruit flavours, with added Vitamin D and DHA	0	3604.0
+3605	Zwieback	Zwieback	0	3605.0
+4109	Animal_fat_bacon_grease	Animal fat, bacon grease	0	4109.0
+4108	Animal_fat_beef_tallow	Animal fat, beef tallow	0	4108.0
+4107	Animal_fat_chicken	Animal fat, chicken	0	4107.0
+4106	Animal_fat_duck	Animal fat, duck	0	4106.0
+4105	Animal_fat_goose	Animal fat, goose	0	4105.0
+4104	Animal_fat_lard_pork_	Animal fat, lard (pork)	0	4104.0
+4103	Animal_fat_mutton_tallow	Animal fat, mutton tallow	0	4103.0
+4101	Animal_fat_native_bearded_seal_oil_oogruk_oil_	Animal fat, native, bearded seal, oil (oogruk oil)	0	4101.0
+4102	Animal_fat_turkey	Animal fat, turkey	0	4102.0
+4203	Fish_oil_cod_liver	Fish oil, cod liver	0	4203.0
+4202	Fish_oil_herring	Fish oil, herring	0	4202.0
+4201	Fish_oil_menhaden	Fish oil, menhaden	0	4201.0
+4204	Fish_oil_salmon	Fish oil, salmon	0	4204.0
+4205	Fish_oil_sardine	Fish oil, sardine	0	4205.0
+4301	Margarine_like_spread_including_garlic_flavoured_tub_non_hydrogenated_mixed_vegetable_oils_68_fat	Margarine-like spread (including garlic flavoured), tub, non-hydrogenated, mixed vegetable oils, 68 fat	0	4301.0
+4302	Margarine_stick_canola_and_or_soybean_oil	Margarine, stick, canola and/or soybean oil	0	4302.0
+4303	Margarine_tub_hydrogenated_canola_oil	Margarine, tub, hydrogenated, canola oil	0	4303.0
+4401	Salad_dressing_bacon_and_tomato	Salad dressing, bacon and tomato	0	4401.0
+4402	Salad_dressing_blue_or_roquefort_cheese_dressing_calorie_reduced	Salad dressing, blue or roquefort cheese dressing, calorie-reduced	0	4402.0
+4403	Salad_dressing_buttermilk_as_main_ingredient	Salad dressing, buttermilk as main ingredient	0	4403.0
+4404	Salad_dressing_caesar_dressing_regular	Salad dressing, caesar dressing, regular	0	4404.0
+4405	Salad_dressing_coleslaw	Salad dressing, coleslaw	0	4405.0
+4406	Salad_dressing_creamy_made_with_sour_cream_and_or_buttermilk_and_oil_calorie_reduced	Salad dressing, creamy, made with sour cream and/or buttermilk and oil, calorie-reduced	0	4406.0
+4407	Salad_dressing_french_calorie_reduced	Salad dressing, french, calorie-reduced	0	4407.0
+4408	Salad_dressing_green_goddess_regular	Salad dressing, green goddess, regular	0	4408.0
+4409	Salad_dressing_honey_mustard_calorie_reduced	Salad dressing, honey mustard, calorie-reduced	0	4409.0
+4501	Shortening_household_composite	Shortening, household, composite	0	4501.0
+4502	Shortening_industrial_all_purpose_canola_and_palm	Shortening, industrial, all purpose, canola and palm	0	4502.0
+4503	Shortening_multipurpose_hydrogenated_soybean_and_palm	Shortening, multipurpose, hydrogenated soybean and palm	0	4503.0
+4504	Shortening_special_purpose_baking	Shortening, special purpose, baking	0	4504.0
+4601	Spread_20_butter_80_canola_oil	Spread, 20 butter / 80 canola oil	0	4601.0
+4602	Vegetable_oil_canola_and_soybean	Vegetable oil,  canola and soybean	0	4602.0
+4603	Vegetable_oil_almond	Vegetable oil, almond	0	4603.0
+4604	Vegetable_oil_apricot_kernel	Vegetable oil, apricot kernel	0	4604.0
+4605	Vegetable_oil_avocado	Vegetable oil, avocado	0	4605.0
+4606	Vegetable_oil_babassu	Vegetable oil, babassu	0	4606.0
+4607	Vegetable_oil_canola	Vegetable oil, canola	0	4607.0
+4608	Vegetable_oil_cocoa_butter	Vegetable oil, cocoa butter	0	4608.0
+4609	Vegetable_oil_coconut	Vegetable oil, coconut	0	4609.0
+4701	Butter_replacement_without_fat_powder	Butter replacement, without fat, powder	0	4701.0
+4702	Meat_drippings_lard_beef_tallow_mutton_tallow_	Meat drippings (lard, beef tallow, mutton tallow)	0	4702.0
+4703	Oil_cooking_spray	Oil, cooking spray	0	4703.0
+4704	Sandwich_spread_with_chopped_pickle_regular_unspecified_oil	Sandwich spread, with chopped pickle, regular, unspecified oil	0	4704.0
+4705	Yogourt_Greek_style_fruit_flavoured_2_M_F_	Yogourt, Greek style, fruit flavoured, 2 M.F.	0	4705.0
+5101	Chicken_breast_tenders_breaded_cooked_in_conventional_oven	Chicken breast tenders, breaded, cooked in conventional oven	0	5101.0
+5102	Chicken_nuggets_dark_and_white_meat_pre_cooked_frozen_not_heated	Chicken nuggets, dark and white meat, pre-cooked, frozen, not heated	0	5102.0
+5103	Chicken_patty_frozen_cooked	Chicken patty, frozen, cooked	0	5103.0
+5104	Chicken_broiler_back_meat_and_skin_batter_dipped_fried	Chicken, broiler, back, meat and skin, batter dipped, fried	0	5104.0
+5105	Chicken_canned_no_broth	Chicken, canned, no broth	0	5105.0
+5106	Chicken_cornish_game_hens_meat_and_skin_raw	Chicken, cornish game hens, meat and skin, raw	0	5106.0
+5107	Chicken_feet_boiled	Chicken, feet, boiled	0	5107.0
+5108	Chicken_roasting_giblets_raw	Chicken, roasting, giblets, raw	0	5108.0
+5109	Chicken_stewing_dark_meat_only_raw	Chicken, stewing, dark meat only, raw	0	5109.0
+5201	Turkey_bacon_cooked	Turkey bacon, cooked	0	5201.0
+5202	Turkey_all_classes_back_meat_and_skin_raw	Turkey, all classes, back, meat and skin, raw	0	5202.0
+5203	Turkey_broiler_breast_meat_and_skin_raw	Turkey, broiler, breast, meat and skin, raw	0	5203.0
+5204	Turkey_drumstick_smoked_cooked_with_skin_bone_removed	Turkey, drumstick, smoked, cooked, with skin, bone removed	0	5204.0
+5205	Turkey_hen_breast_meat_and_skin_raw	Turkey, hen, breast, meat and skin, raw	0	5205.0
+5206	Turkey_light_or_dark_meat_smoked_cooked_skin_and_bone_removed	Turkey, light or dark meat, smoked, cooked, skin and bone removed	0	5206.0
+5207	Turkey_tom_breast_meat_and_skin_raw	Turkey, tom, breast, meat and skin, raw	0	5207.0
+5208	Turkey_wing_smoked_cooked_with_skin_bone_removed	Turkey, wing, smoked, cooked, with skin, bone removed	0	5208.0
+5301	Duck_domesticated_liver_raw	Duck, domesticated, liver, raw	0	5301.0
+5302	Duck_duckling_domestic_Pekin_breast_meat_only_boneless_cooked_without_skin_broiled	Duck, duckling, domestic, Pekin, breast, meat only, boneless, cooked without skin, broiled	0	5302.0
+5303	Duck_wild_native_breast_meat_only_raw	Duck, wild, native, breast, meat only, raw	0	5303.0
+5304	Duck_young_duckling_domestic_White_Pekin_breast_meat_and_skin_boneless_roasted	Duck, young duckling, domestic, White Pekin, breast, meat and skin, boneless, roasted	0	5304.0
+5401	Emu_fan_fillet_cooked_broiled	Emu, fan fillet, cooked, broiled	0	5401.0
+5402	Emu_full_rump_cooked_broiled	Emu, full rump, cooked, broiled	0	5402.0
+5403	Emu_ground_cooked_pan_broiled	Emu, ground, cooked, pan-broiled	0	5403.0
+5404	Emu_inside_drum_cooked_broiled	Emu, inside drum, cooked, broiled	0	5404.0
+5405	Emu_outside_drum_raw	Emu, outside drum, raw	0	5405.0
+5406	Emu_oyster_raw	Emu, oyster, raw	0	5406.0
+5407	Emu_top_loin_cooked_broiled	Emu, top loin, cooked, broiled	0	5407.0
+5501	Goose_domesticated_liver_raw	Goose, domesticated, liver, raw	0	5501.0
+5502	Goose_wild_Canada_goose_native_breast_meat_and_skin_boiled	Goose, wild (Canada goose), native, breast, meat and skin, boiled	0	5502.0
+5601	Ostrich_fan_raw	Ostrich, fan, raw	0	5601.0
+5602	Ostrich_ground_cooked_pan_broiled	Ostrich, ground, cooked, pan-broiled	0	5602.0
+5603	Ostrich_inside_leg_cooked	Ostrich, inside leg, cooked	0	5603.0
+5604	Ostrich_outside_leg_raw	Ostrich, outside leg, raw	0	5604.0
+5605	Ostrich_oyster_cooked	Ostrich, oyster, cooked	0	5605.0
+5606	Ostrich_round_raw	Ostrich, round, raw	0	5606.0
+5607	Ostrich_tenderloin_raw	Ostrich, tenderloin, raw	0	5607.0
+5608	Ostrich_tip_trimmed_cooked	Ostrich, tip trimmed, cooked	0	5608.0
+5609	Ostrich_top_loin_cooked	Ostrich, top loin, cooked	0	5609.0
+5701	Dove_includes_squab_cooked	Dove (includes squab), cooked	0	5701.0
+5702	Guinea_meat_and_skin_raw	Guinea, meat and skin, raw	0	5702.0
+5703	Quail_breast_meat_only_raw	Quail, breast, meat only, raw	0	5703.0
+5704	Rhea_raw	Rhea, raw	0	5704.0
+5705	Spruce_grouse_native_meat_cooked	Spruce grouse, native, meat, cooked	0	5705.0
+5801	Poultry_food_products_chicken_canned_flaked	Poultry food products, chicken, canned, flaked	0	5801.0
+6101	Sauce_adobo_fresco	Sauce, adobo fresco	0	6101.0
+6102	Sauce_chili_peppers_hot_chili_immature_green_canned	Sauce, chili, peppers, hot, chili, immature green, canned	0	6102.0
+6103	Sauce_pasta_spaghetti_or_marinara_ready_to_serve	Sauce, pasta, spaghetti or marinara, ready-to-serve	0	6103.0
+6104	Sauce_peanut_made_from_coconut_water_sugar_peanuts_	Sauce, peanut (made from coconut, water, sugar, peanuts)	0	6104.0
+6105	Sauce_pepper_or_hot_ready_to_serve	Sauce, pepper or hot, ready-to-serve	0	6105.0
+6106	Sauce_spaghetti_with_garden_vegetables_ready_to_serve	Sauce, spaghetti, with garden vegetables, ready-to-serve	0	6106.0
+6109	Sauce_steak_tomato_based_ready_to_serve	Sauce, steak, tomato based, ready-to-serve	0	6109.0
+6107	Sauce_white_medium_2_milk_homemade	Sauce, white, medium, 2 milk, homemade	0	6107.0
+6108	Sauce_worcestershire_ready_to_serve	Sauce, worcestershire, ready-to-serve	0	6108.0
+6201	Soup_sauce_stock_cream_ready_to_serve	Soup (sauce), stock, cream, ready-to-serve	0	6201.0
+6202	Soup_bean_with_bacon_canned_condensed	Soup, bean with bacon, canned, condensed	0	6202.0
+6203	Soup_beef_and_mushroom_low_sodium_chunky_style	Soup, beef and mushroom, low sodium, chunky style	0	6203.0
+6204	Soup_black_bean_ready_to_serve	Soup, black bean, ready-to-serve	0	6204.0
+6205	Soup_broccoli_cheese_canned_condensed	Soup, broccoli cheese, canned, condensed	0	6205.0
+6206	Soup_broth_consomme_beef_canned_condensed	Soup, broth (consomme), beef, canned, condensed	0	6206.0
+6207	Soup_butternut_squash_ready_to_serve	Soup, butternut squash, ready-to-serve	0	6207.0
+6208	Soup_chicken_chowder_a_la_king_ready_to_serve	Soup, chicken chowder (a la king), ready-to-serve	0	6208.0
+6209	Soup_clam_chowder_manhattan_ready_to_serve	Soup, clam chowder, manhattan, ready-to-serve	0	6209.0
+6301	Chinese_dish_soup_egg_drop_restaurant_prepared	Chinese dish, soup, egg drop, restaurant prepared	0	6301.0
+6302	Dip_cheese_with_chili_peppers_ready_to_serve	Dip, cheese with chili peppers, ready-to-serve	0	6302.0
+6303	Gravy_au_jus_canned	Gravy, au jus, canned	0	6303.0
+7101	Ham_extra_lean_canned	Ham, extra lean, canned	0	7101.0
+7102	Liver_sausage_liverwurst_pork	Liver sausage, liverwurst, pork	0	7102.0
+7103	Meat_stick_beef_refrigerated	Meat stick, beef, refrigerated	0	7103.0
+7104	P_t_de_foie_gras_goose_liver_pate_smoked_canned	Pâté de foie gras, (goose liver pate), smoked, canned	0	7104.0
+7105	Pork_and_chicken_canned	Pork and chicken, canned	0	7105.0
+7106	Sandwich_spread_chicken_and_or_turkey	Sandwich spread, chicken and/or turkey	0	7106.0
+7209	Sausage_Beerwurst_beer_salami_pork	Sausage, Beerwurst, beer salami, pork	0	7209.0
+7201	Sausage_Bratwurst_beef_and_pork_smoked	Sausage, Bratwurst, beef and pork, smoked	0	7201.0
+7202	Sausage_breakfast_links_or_rounds_beef_cooked	Sausage, breakfast links or rounds, beef, cooked	0	7202.0
+7203	Sausage_honey_garlic_pork_cooked	Sausage, honey garlic, pork, cooked	0	7203.0
+7204	Sausage_Italian_pork_cooked	Sausage, Italian, pork, cooked	0	7204.0
+7205	Sausage_kielbasa_kolbassa_	Sausage, kielbasa (kolbassa)	0	7205.0
+7208	Sausage_Knackwurst_Knockwurst_cooked	Sausage, Knackwurst (Knockwurst), cooked	0	7208.0
+7206	Sausage_smoked_honey_garlic_pre_cooked	Sausage, smoked, honey garlic, pre-cooked	0	7206.0
+7207	Sausage_spicy_beef_and_roasted_red_pepper_cooked	Sausage, spicy beef and roasted red pepper, cooked	0	7207.0
+7301	Wiener_cheesefurter_cheddar_smokie	Wiener (cheesefurter), cheddar smokie	0	7301.0
+7302	Wiener_frankfurter_Bavarian	Wiener (frankfurter), Bavarian	0	7302.0
+7401	Deli_meat_beef_cured_jellied	Deli meat, beef, cured, jellied	0	7401.0
+7402	Deli_meat_chicken_breast_honey_glazed_	Deli-meat, chicken breast (honey glazed)	0	7402.0
+7403	Deli_meat_composite	Deli-meat, composite	0	7403.0
+7404	Deli_meat_pepperoni	Deli-meat, pepperoni	0	7404.0
+7501	Chicken_spread_canned	Chicken spread, canned	0	7501.0
+7502	Cretons	Cretons	0	7502.0
+8101	Meal_replacement_cereal_ready_to_eat_Force_Active_Presidents_Choice	Meal replacement (cereal), ready to eat, Force Active, Presidents Choice	0	8101.0
+8102	Meal_replacement_cereal_ready_to_eat_Vector_Kelloggs	Meal replacement (cereal), ready to eat, Vector, Kelloggs	0	8102.0
+8204	Cereal_hot_9_grain_dry_Rogers	Cereal, hot, 9 grain, dry, Rogers	0	8204.0
+8205	Cereal_hot_corn_grits_yellow_cooked	Cereal, hot, corn grits (yellow), cooked	0	8205.0
+8201	Cereal_hot_cream_of_rice_cooked	Cereal, hot, cream of rice, cooked	0	8201.0
+8202	Cereal_hot_oats_instant_apple_cinnamon_prepared_Quaker	Cereal, hot, oats, instant: apple & cinnamon, prepared, Quaker	0	8202.0
+8206	Cereal_hot_Red_River_dry_Robin_Hood	Cereal, hot, Red River, dry Robin Hood	0	8206.0
+8203	Cereal_ready_to_eat_On_Track_Presidents_Choice	Cereal, ready to  eat, On Track, Presidents Choice	0	8203.0
+9101	Apple_juice_canned_or_bottled_added_vitamin_C	Apple juice, canned or bottled, added vitamin C	0	9101.0
+9102	Apricot_nectar_canned	Apricot nectar, canned	0	9102.0
+9201	Banana_dehydrated_or_banana_powder	Banana, dehydrated or banana powder	0	9201.0
+9301	Black_crowberry_curlewberry_native	Black crowberry (curlewberry), native	0	9301.0
+9302	Blueberry_canned_heavy_syrup_pack_solids_and_liquid	Blueberry, canned, heavy syrup pack, solids and liquid	0	9302.0
+9303	Cranberry_lingonberry_wild_raw	Cranberry (lingonberry), wild, raw	0	9303.0
+9401	Cherimoya_raw	Cherimoya, raw	0	9401.0
+9402	Chokecherry_raw_pitted	Chokecherry, raw, pitted	0	9402.0
+9501	Grape_juice_canned_or_bottled_unsweetened_with_added_vitamin_C	Grape juice, canned or bottled, unsweetened, with added vitamin C	0	9501.0
+9502	Grapefruit_juice_canned_no_added_sugar	Grapefruit juice, canned, no added sugar	0	9502.0
+9503	Grapefruit_canned_juice_pack_solids_and_liquid	Grapefruit, canned, juice pack, solids and liquid	0	9503.0
+9601	Lemon_juice_canned_or_bottled	Lemon juice, canned or bottled	0	9601.0
+9602	Orange_grapefruit_juice_canned	Orange grapefruit juice, canned	0	9602.0
+9701	Peach_nectar_canned	Peach nectar, canned	0	9701.0
+9801	Pineapple_juice_canned_added_vitamin_C	Pineapple juice, canned, added vitamin C	0	9801.0
+9901	Abiyuch_raw	Abiyuch, raw	0	9901.0
+9902	Boysenberry_canned_heavy_syrup_pack_solids_and_liquid	Boysenberry, canned, heavy syrup pack, solids and liquid	0	9902.0
+9903	Breadfruit_raw	Breadfruit, raw	0	9903.0
+9904	Fig_canned_extra_heavy_syrup_pack_solids_and_liquid	Fig, canned, extra heavy syrup pack, solids and liquid	0	9904.0
+9905	Gooseberry_raw	Gooseberry raw	0	9905.0
+9906	Loganberry_frozen	Loganberry, frozen	0	9906.0
+9907	Plantain_cooked	Plantain, cooked	0	9907.0
+9908	Sauce_cranberry_canned_sweetened	Sauce, cranberry, canned, sweetened	0	9908.0
+9909	Soursop_raw	Soursop, raw	0	9909.0
+1011	Pork_cured_back_bacon_cornmeal_peameal_uncooked	Pork, cured, back bacon (cornmeal, peameal), uncooked	0	1011.0
+1012	Pork_cured_ham_boneless_mini_ham_half_extra_lean_approximately_5_fat_cooked_reduced_sodium	Pork, cured, ham, boneless, mini ham-half, extra lean (approximately 5 fat), cooked, reduced sodium	0	1012.0
+1013	Pork_cured_ham_rump_bone_in_separable_lean_and_fat_heated_roasted	Pork, cured, ham, rump, bone-in, separable lean and fat, heated, roasted	0	1013.0
+1014	Pork_cured_ham_shoulder_arm_picnic_lean_and_fat_roasted	Pork, cured, ham, shoulder, arm picnic, lean and fat, roasted	0	1014.0
+1015	Pork_leg_butt_portion_lean_and_fat_raw	Pork, leg, butt portion, lean and fat, raw	0	1015.0
+1016	Pork_leg_shank_portion_lean_and_fat_raw	Pork, leg, shank portion, lean and fat, raw	0	1016.0
+1021	Pork_loin_centre_cut_centre_chop_bone_in_lean_and_fat_braised	Pork, loin, centre cut (centre chop), bone in, lean and fat, braised	0	1021.0
+1022	Pork_loin_centre_cut_centre_steak_boneless_lean_and_fat_broiled	Pork, loin, centre cut (centre steak), boneless, lean and fat, broiled	0	1022.0
+1023	Pork_loin_rib_chop_rib_end_bone_in_lean_and_fat_braised	Pork, loin, rib chop (rib end), bone-in, lean and fat, braised	0	1023.0
+1024	Pork_loin_rib_half_country_style_ribs_lean_and_fat_braised	Pork, loin, rib half (country-style ribs), lean and fat, braised	0	1024.0
+1025	Pork_loin_rib_roast_boneless_lean_and_fat_raw	Pork, loin, rib roast, boneless, lean and fat, raw	0	1025.0
+1026	Pork_loin_rib_steak_rib_end_boneless_lean_and_fat_braised	Pork, loin, rib steak (rib end), boneless, lean and fat, braised	0	1026.0
+1027	Pork_loin_sirloin_chop_bone_in_lean_and_fat_braised	Pork, loin, sirloin chop, bone-in , lean and fat, braised	0	1027.0
+1028	Pork_loin_sirloin_roast_boneless_lean_and_fat_raw	Pork, loin, sirloin roast, boneless, lean and fat, raw	0	1028.0
+1029	Pork_loin_sirloin_roast_boneless_lean_roasted	Pork, loin, sirloin, roast, boneless, lean, roasted	0	1029.0
+1031	Pork_shoulder_blade_portion_bone_in_lean_and_fat_raw	Pork, shoulder, blade portion, bone-in , lean and fat, raw	0	1031.0
+1032	Pork_shoulder_butt_blade_boneless_lean_roasted	Pork, shoulder, butt (blade boneless), lean, roasted	0	1032.0
+1033	Pork_shoulder_picnic_arm_lean_and_fat_braised	Pork, shoulder, picnic (arm), lean and fat, braised	0	1033.0
+1034	Pork_shoulder_whole_lean_and_fat_raw	Pork, shoulder, whole, lean and fat, raw	0	1034.0
+1041	Pork_ears_frozen_raw	Pork, ears, frozen, raw	0	1041.0
+1042	Pork_ears_frozen_simmered	Pork, ears, frozen, simmered	0	1042.0
+1051	Pork_feet_raw	Pork, feet, raw	0	1051.0
+1052	Pork_feet_simmered	Pork, feet, simmered	0	1052.0
+1061	Pork_ground_lean_pan_fried	Pork, ground, lean, pan-fried	0	1061.0
+1062	Pork_ground_medium_pan_fried	Pork, ground, medium, pan-fried	0	1062.0
+1071	Pork_heart_braised	Pork, heart, braised	0	1071.0
+1072	Pork_heart_raw	Pork, heart, raw	0	1072.0
+1081	Pork_intestine_chitterlings_raw	Pork, intestine (chitterlings), raw	0	1081.0
+1082	Pork_intestine_chitterlings_simmered	Pork, intestine (chitterlings), simmered	0	1082.0
+1099	Pork_back_ribs_lean_and_fat_raw	Pork, back ribs, lean and fat, raw	0	1099.0
+1091	Pork_composite_cuts_leg_loin_and_shoulder_lean_and_fat_cooked	Pork, composite cuts, leg, loin and shoulder, lean and fat, cooked	0	1091.0
+1098	Pork_kidney_braised	Pork, kidney, braised	0	1098.0
+1092	Pork_liver_braised	Pork, liver, braised	0	1092.0
+1093	Pork_lungs_braised	Pork, lungs, braised	0	1093.0
+1094	Pork_separable_fat_cooked	Pork, separable fat, cooked	0	1094.0
+1095	Pork_side_ribs_centre_cut_spareribs_lean_and_fat_raw	Pork, side ribs centre cut (spareribs), lean and fat, raw	0	1095.0
+1096	Pork_tongue_braised	Pork, tongue, braised	0	1096.0
+1097	Pork_wholesale_cuts_backfat_raw	Pork, wholesale cuts, backfat, raw	0	1097.0
+1111	Artichoke_Globe_French_boiled_drained	Artichoke (Globe, French), boiled, drained	0	1111.0
+1112	Artichoke_canned	Artichoke, canned	0	1112.0
+1113	Artichoke_marinated	Artichoke, marinated	0	1113.0
+1121	Asparagus_boiled_drained	Asparagus, boiled, drained	0	1121.0
+1122	Asparagus_canned_drained_solids	Asparagus, canned, drained solids	0	1122.0
+1123	Asparagus_frozen_boiled_drained	Asparagus, frozen, boiled, drained	0	1123.0
+1124	Asparagus_raw	Asparagus, raw	0	1124.0
+1131	Beans_hyacinth_boiled_drained	Beans, hyacinth, boiled, drained	0	1131.0
+1132	Beans_kidney_sprouted_boiled_drained	Beans, kidney, sprouted, boiled, drained	0	1132.0
+1133	Beans_lima_fordhook_frozen_boiled_drained	Beans, lima (fordhook), frozen, boiled, drained	0	1133.0
+1134	Beans_mung_mature_seeds_sprouted_bean_sprouts_boiled_drained	Beans, mung, mature seeds, sprouted, bean sprouts, boiled, drained	0	1134.0
+1135	Beans_navy_mature_seeds_sprouted_boiled_drained	Beans, navy, mature seeds, sprouted, boiled, drained	0	1135.0
+1136	Beans_pinto_frozen_boiled_drained	Beans, pinto, frozen, boiled, drained	0	1136.0
+1137	Beans_pinto_immature_seeds_frozen_unprepared	Beans, pinto, immature seeds, frozen, unprepared	0	1137.0
+1138	Beans_snap_Italian_green_or_yellow_boiled_drained	Beans, snap (Italian, green or yellow), boiled, drained	0	1138.0
+1139	Beans_yardlong_asparagus_bean_or_cowpea_boiled_drained	Beans, yardlong, (asparagus bean or cowpea), boiled, drained	0	1139.0
+1141	Broccoli_raab_rapini_cooked	Broccoli raab (rapini), cooked	0	1141.0
+1142	Broccoli_boiled_drained	Broccoli, boiled, drained	0	1142.0
+1143	Broccoli_chinese_cooked	Broccoli, chinese, cooked	0	1143.0
+1144	Broccoli_leaves_raw	Broccoli, leaves, raw	0	1144.0
+1161	Cabbage_boiled_drained	Cabbage, boiled, drained	0	1161.0
+1162	Cabbage_japanese_style_fresh_pickled	Cabbage, japanese style, fresh, pickled	0	1162.0
+1163	Cabbage_mustard_with_salt	Cabbage, mustard, with salt	0	1163.0
+1164	Cabbage_napa_cooked	Cabbage, napa, cooked	0	1164.0
+1171	Mushroom_boiled_drained	Mushroom, boiled, drained	0	1171.0
+1172	Mushroom_brown_Italian_crimini_raw	Mushroom, brown, Italian (crimini), raw	0	1172.0
+1173	Mushroom_shiitake_cooked	Mushroom, shiitake, cooked	0	1173.0
+1179	Mushroom_straw_canned_drained_solids	Mushroom, straw, canned, drained solids	0	1179.0
+1174	Mustard_greens_boiled_drained	Mustard greens, boiled, drained	0	1174.0
+1175	Okra_gumbo_boiled_drained	Okra (gumbo), boiled, drained	0	1175.0
+1176	Onion_rings_breaded_par_fried_frozen_heated_in_oven	Onion rings, breaded, par fried, frozen, heated in oven	0	1176.0
+1177	Onion_frozen_chopped_boiled_drained	Onion, frozen, chopped, boiled, drained	0	1177.0
+1178	Onion_raw	Onion, raw	0	1178.0
+1181	Parsley_freeze_dried	Parsley, freeze-dried	0	1181.0
+1182	Pepper_ancho_dried	Pepper, ancho, dried	0	1182.0
+1183	Potato_flour	Potato flour	0	1183.0
+1184	Pumpkin_flowers_boiled_drained	Pumpkin flowers, boiled, drained	0	1184.0
+1185	Radicchio_raw	Radicchio, raw	0	1185.0
+1186	Seaweed_agar_dried	Seaweed, agar, dried	0	1186.0
+1187	Sesbania_flowers_raw	Sesbania flowers, raw	0	1187.0
+1188	Spinach_souffle_homemade	Spinach souffle, homemade	0	1188.0
+1189	Squash_summer_all_varieties_boiled_drained	Squash, summer, all varieties, boiled, drained	0	1189.0
+1199	Agave_cooked	Agave, cooked	0	1199.0
+1192	Carrot_juice_canned	Carrot juice, canned	0	1192.0
+1193	Cassava_manioc_flour	Cassava (manioc), flour	0	1193.0
+1194	Chard_swiss_boiled_drained	Chard, swiss, boiled, drained	0	1194.0
+1191	Corn_pudding_homemade	Corn pudding , homemade	0	1191.0
+1195	Cowpeas_black_eyed_peas_immature_seeds_boiled_drained	Cowpeas (black-eyed peas), immature seeds, boiled, drained	0	1195.0
+1196	Dandelion_greens_boiled_drained	Dandelion greens, boiled, drained	0	1196.0
+1197	Epazote_raw	Epazote, raw	0	1197.0
+1198	Jute_potherb_raw	Jute, potherb, raw	0	1198.0
+1211	Nuts_acorn_flour_full_fat	Nuts, acorn flour, full-fat	0	1211.0
+1212	Nuts_beechnuts_dried	Nuts, beechnuts, dried	0	1212.0
+1213	Nuts_Chinese_chestnuts_boiled_and_steamed	Nuts, Chinese chestnuts, boiled and steamed	0	1213.0
+1214	Nuts_coconut_cream_liquid_from_grated_meat_raw	Nuts, coconut cream (liquid from grated meat), raw	0	1214.0
+1215	Nuts_European_chestnuts_sweet_boiled_and_steamed	Nuts, European chestnuts (sweet), boiled and steamed	0	1215.0
+1216	Nuts_Japanese_chestnuts_boiled_and_steamed	Nuts, Japanese chestnuts, boiled and steamed	0	1216.0
+1217	Nuts_pecans_dried	Nuts, pecans, dried	0	1217.0
+1218	Nuts_simulated_product_wheat_based_all_flavours_except_macadamia_without_salt	Nuts, simulated product, wheat-based, all flavours except macadamia, without salt	0	1218.0
+1221	Seeds_breadfruit_seeds_boiled	Seeds, breadfruit seeds, boiled	0	1221.0
+1222	Seeds_cottonseed_flour_low_fat	Seeds, cottonseed flour, low fat	0	1222.0
+1223	Seeds_flaxseed_linseed_whole_and_ground	Seeds, flaxseed (linseed), whole and ground	0	1223.0
+1224	Seeds_pumpkin_and_squash_seed_kernels_dried	Seeds, pumpkin and squash seed kernels, dried	0	1224.0
+1225	Seeds_safflower_seed_kernels_dried	Seeds, safflower seed kernels, dried	0	1225.0
+1226	Seeds_sunflower_seed_butter	Seeds, sunflower seed butter	0	1226.0
+1311	Beef_brain_pan_fried	Beef, brain, pan-fried	0	1311.0
+1312	Beef_brain_raw	Beef, brain, raw	0	1312.0
+1313	Beef_brain_simmered	Beef, brain, simmered	0	1313.0
+1321	Beef_brisket_lean_and_fat_0mm_0_trim_braised	Beef, brisket, lean and fat, 0mm (0) trim, braised	0	1321.0
+1322	Beef_brisket_whole_lean_and_fat_3mm_1_8_trim_raw	Beef, brisket, whole, lean and fat, 3mm (1/8) trim,  raw	0	1322.0
+1331	Beef_chuck_blade_roast_boneless_lean_and_fat_3mm_1_8_trim_cooked_braised	Beef, chuck, blade roast, boneless, lean and fat, 3mm (1/8) trim, cooked, braised	0	1331.0
+1332	Beef_chuck_cross_rib_roast_boneless_lean_and_fat_0mm_0_trim_cooked_braised	Beef, chuck, cross rib roast, boneless, lean and fat, 0mm (0) trim, cooked, braised	0	1332.0
+1333	Beef_chuck_cross_rib_steak_boneless_lean_and_fat_3mm_1_8_trim_cooked_braised	Beef, chuck, cross rib steak, boneless, lean and fat, 3mm (1/8) trim, cooked, braised	0	1333.0
+1334	Beef_chuck_short_ribs_boneless_lean_and_fat_0mm_trim_braised	Beef, chuck, short ribs, boneless, lean and fat, 0mm trim, braised	0	1334.0
+1341	Beef_composite_cuts_steak_roast_lean_and_fat_cooked	Beef, composite cuts, steak/roast, lean and fat, cooked	0	1341.0
+1342	Beef_composite_cuts_stewing_beef_0mm_0_trim_cooked	Beef, composite cuts, stewing beef, 0mm (0)  trim, cooked	0	1342.0
+1351	Beef_cured_breakfast_strips_cooked	Beef, cured, breakfast strips, cooked	0	1351.0
+1352	Beef_cured_corned_beef_brisket_cooked	Beef, cured, corned beef, brisket, cooked	0	1352.0
+1361	Beef_fat_cooked	Beef, fat, cooked	0	1361.0
+1362	Beef_fat_raw	Beef, fat, raw	0	1362.0
+1371	Beef_flank_flank_steak_boneless_lean_and_fat_0mm_0_trim_cooked_braised	Beef, flank, flank steak, boneless, lean and fat, 0mm (0) trim, cooked, braised	0	1371.0
+1372	Beef_flank_flank_steak_boneless_lean_raw	Beef, flank, flank steak, boneless, lean, raw	0	1372.0
+1381	Beef_ground_extra_lean_crumbled_pan_fried	Beef, ground, extra lean, crumbled, pan-fried	0	1381.0
+1382	Beef_ground_lean_broiled	Beef, ground, lean, broiled	0	1382.0
+1383	Beef_ground_medium_baked	Beef, ground, medium, baked	0	1383.0
+1384	Beef_ground_patty_frozen_broiled	Beef, ground, patty, frozen, broiled	0	1384.0
+1391	Beef_heart_raw	Beef, heart, raw	0	1391.0
+1392	Beef_hip_inside_top_round_roast_boneless_lean_and_fat_0mm_0_trim_cooked_roasted	Beef, hip, inside (top) round roast, boneless, lean and fat, 0mm (0) trim, cooked, roasted	0	1392.0
+1393	Beef_hip_outside_bottom_round_roast_boneless_lean_and_fat_0mm_0_trim_cooked_roasted	Beef, hip, outside (bottom) round roast, boneless, lean and fat, 0mm (0) trim, cooked, roasted	0	1393.0
+1394	Beef_hip_rump_roast_lean_and_fat_3mm_1_8_trim_raw	Beef, hip, rump roast, lean and fat, 3mm (1/8) trim,  raw	0	1394.0
+1395	Beef_hip_sirloin_tip_roast_boneless_lean_and_fat_0mm_0_trim_cooked_roasted	Beef, hip, sirloin tip roast, boneless, lean and fat, 0mm (0) trim, cooked, roasted	0	1395.0
+1396	Beef_kidney_simmered	Beef, kidney, simmered	0	1396.0
+1397	Beef_loin_t_bone_steak_porterhouse_lean_and_fat_3mm_1_8_trim_cooked_broiled	Beef, loin, t-bone steak (porterhouse), lean and fat, 3mm (1/8) trim, cooked, broiled	0	1397.0
+1398	Beef_loin_top_sirloin_roast_boneless_lean_cooked_roasted	Beef, loin, top sirloin roast, boneless, lean, cooked, roasted	0	1398.0
+1399	Beef_lungs_braised	Beef, lungs, braised	0	1399.0
+1411	Alcohol_beer_light_4_alcohol_by_volume_	Alcohol, beer, light (4 alcohol by volume)	0	1411.0
+1412	Alcohol_cocktail_daiquiri_rum_homemade	Alcohol, cocktail, daiquiri (rum), homemade	0	1412.0
+1413	Alcohol_dessert_wine_dry_18_8_alcohol_by_volume_	Alcohol, dessert wine, dry (18.8 alcohol by volume)	0	1413.0
+1414	Alcohol_energy_drink_7_alcohol_by_volume_	Alcohol, energy drink (7 alcohol by volume)	0	1414.0
+1416	Alcohol_rice_sake_	Alcohol, rice (sake)	0	1416.0
+1415	Alcohol_whisky_40_alcohol_by_volume_	Alcohol, whisky (40 alcohol by volume)	0	1415.0
+1421	Beverage_mix_carob_flavour_powder	Beverage mix, carob flavour, powder	0	1421.0
+1422	Beverage_coconut_water_unsweetened_ready_to_drink	Beverage, coconut water, unsweetened, ready-to-drink	0	1422.0
+1431	Carbonated_drinks_chocolate	Carbonated drinks, chocolate	0	1431.0
+1432	Carbonated_drinks_cream_soda	Carbonated drinks, cream soda	0	1432.0
+1441	Chocolate_flavour_drink_whey_and_milk_based	Chocolate flavour drink, whey and milk based	0	1441.0
+1442	Coffee_and_cocoa_mocha_powder_with_whitener_and_low_calorie_sweetener	Coffee and cocoa (mocha) powder, with whitener and low calorie sweetener	0	1442.0
+1443	Coffee_brewed_espresso_restaurant_prepared	Coffee, brewed, espresso, restaurant prepared	0	1443.0
+1444	Coffee_instant_with_chicory_powder	Coffee, instant with chicory, powder	0	1444.0
+1451	Drink_breakfast_type_orange_ready_to_drink	Drink, breakfast type, orange, ready-to-drink	0	1451.0
+1452	Drink_breakfast_type_orange_reduced_sugar	Drink, breakfast type, orange, reduced sugar	0	1452.0
+1453	Drink_fruit_flavour_powder_low_calorie_vitamin_C	Drink, fruit flavour, powder, low calorie, vitamin C	0	1453.0
+1454	Drink_grape_vitamin_C_added_canned	Drink, grape, vitamin C added, canned	0	1454.0
+1456	Drink_orange_flavour_vitamin_C_added_low_calorie_powder	Drink, orange flavour, vitamin C added, low calorie, powder	0	1456.0
+1461	Energy_drink_caffeine_free	Energy drink, caffeine free	0	1461.0
+1462	Hot_chocolate_with_marshmallows_mix_powder_prepared_with_water	Hot chocolate with marshmallows, mix, powder, prepared with water	0	1462.0
+1463	Instant_breakfast_powder	Instant breakfast, powder	0	1463.0
+1464	Juice_drink_citrus_fruit_frozen_concentrate_water_added	Juice drink, citrus fruit,  frozen concentrate, water added	0	1464.0
+1465	Juice_drink_fruit_punch_frozen_concentrate	Juice drink, fruit punch, frozen concentrate	0	1465.0
+1466	Juice_drink_grape_vitamin_C_added_canned	Juice drink, grape, vitamin C added, canned	0	1466.0
+1467	Juice_tomato_clam_cocktail_canned	Juice, tomato clam cocktail, canned	0	1467.0
+1471	Malt_beverage_includes_non_alcoholic_beer_0_5_alcohol_by_volume_	Malt beverage, includes non-alcoholic beer (<0.5 alcohol by volume)	0	1471.0
+1472	Milk_shake_fast_food_chocolate	Milk shake (fast food), chocolate	0	1472.0
+1473	Non_alcoholic_wine	Non-alcoholic, wine	0	1473.0
+1474	Plant_based_beverage_almond_enriched_sweetened_chocolate_flavoured	Plant-based beverage, almond, enriched, sweetened, chocolate flavoured	0	1474.0
+1475	Plant_based_beverage_cashew_enriched_sweetened	Plant-based beverage, cashew, enriched, sweetened	0	1475.0
+1476	Plant_based_beverage_coconut_enriched_sweetened_all_flavours	Plant-based beverage, coconut, enriched, sweetened, all flavours	0	1476.0
+1477	Plant_based_beverage_rice_enriched	Plant-based beverage, rice, enriched	0	1477.0
+1478	Plant_based_beverage_soy_enriched_all_flavours	Plant-based beverage, soy, enriched, all flavours	0	1478.0
+1481	Sangria	Sangria	0	1481.0
+1482	Tea_brewed	Tea, brewed	0	1482.0
+1483	Vitamin_water_all_flavours_low_Calorie	Vitamin water, all flavours, low Calorie	0	1483.0
+1484	Vodka_cooler_fruit_flavours	Vodka cooler, fruit flavours	0	1484.0
+1511	Crustaceans_crab_alaska_king_boiled_or_steamed	Crustaceans, crab, alaska king, boiled or steamed	0	1511.0
+1512	Crustaceans_crayfish_mixed_species_farmed_raw	Crustaceans, crayfish, mixed species, farmed, raw	0	1512.0
+1521	Fish_cake_or_patty	Fish cake or patty	0	1521.0
+1522	Fish_bass_fresh_water_mixed_species_baked_or_broiled	Fish, bass, fresh water, mixed species, baked or broiled	0	1522.0
+1523	Fish_burbot_loche_baked_or_broiled	Fish, burbot (loche), baked or broiled	0	1523.0
+1524	Fish_carp_baked_or_broiled	Fish, carp, baked or broiled	0	1524.0
+1525	Fish_caviar_black_and_red_granular	Fish, caviar, black and red, granular	0	1525.0
+1526	Fish_cod_gray_cod_pacific_baked_or_broiled	Fish, cod (gray cod), pacific, baked or broiled	0	1526.0
+1527	Fish_devilfish_native_meat	Fish, devilfish, native, meat	0	1527.0
+1528	Fish_hake_whiting_mixed_species_baked_or_broiled	Fish, hake (whiting), mixed species, baked or broiled	0	1528.0
+1529	Fish_salmon_atlantic_farmed_baked_or_broiled	Fish, salmon, atlantic, farmed, baked or broiled	0	1529.0
+1531	Grayling_native_raw	Grayling, native, raw	0	1531.0
+1532	Mollusks_oyster_eastern_blue_point_farmed_baked_or_broiled	Mollusks, oyster, eastern (blue point), farmed, baked or broiled	0	1532.0
+1533	Mollusks_scallop_bay_and_sea_cooked_steamed	Mollusks, scallop (bay and sea), cooked, steamed	0	1533.0
+1541	Agutuk_native_fish_with_shortening_Alaskan_ice_cream_	Agutuk, native, fish with shortening (Alaskan ice cream)	0	1541.0
+1542	Agutuk_native_fish_berry_with_seal_oil_Alaskan_ice_cream_	Agutuk, native, fish/berry with seal oil (Alaskan ice cream)	0	1542.0
+1543	Ascidians_native_tunughnak_	Ascidians, native (tunughnak)	0	1543.0
+1544	Chiton_leathery_gumboots_native	Chiton, leathery, gumboots, native	0	1544.0
+1545	Clam_fritter	Clam fritter	0	1545.0
+1611	Beans_adzuki_boiled	Beans, adzuki, boiled	0	1611.0
+1612	Beans_baked_canned_no_salt_added	Beans, baked, canned, no salt added	0	1612.0
+1613	Beans_black_turtle_mature_seeds_boiled	Beans, black turtle, mature seeds, boiled	0	1613.0
+1614	Beans_chili_barbecue_ranch_style_cooked	Beans, chili, barbecue, ranch style, cooked	0	1614.0
+1615	Beans_cranberry_roman_boiled	Beans, cranberry (roman), boiled	0	1615.0
+1616	Beans_french_mature_seeds_boiled	Beans, french, mature seeds, boiled	0	1616.0
+1617	Beans_great_northern_boiled	Beans, great northern, boiled	0	1617.0
+1618	Beans_liquid_from_stewed_kidney_beans	Beans, liquid from stewed kidney beans	0	1618.0
+1619	Beans_small_white_boiled	Beans, small white, boiled	0	1619.0
+1621	Black_eyed_peas_cowpeas_crowder_southern_common_boiled_salted	Black-eyed peas (cowpeas, crowder, southern), common, boiled, salted	0	1621.0
+1622	Broadbeans_fava_beans_canned_solids_and_liquid	Broadbeans (fava beans), canned, solids and liquid	0	1622.0
+1623	Carob_St_Johns_bread_flour	Carob (St. Johns bread), flour	0	1623.0
+1624	Chickpea_flour_besan_	Chickpea flour (besan)	0	1624.0
+1625	Lentils_boiled	Lentils, boiled	0	1625.0
+1631	Meatless_bacon	Meatless, bacon	0	1631.0
+1632	Meatless_chicken	Meatless, chicken	0	1632.0
+1633	Meatless_fish_sticks	Meatless, fish sticks	0	1633.0
+1634	Moth_beans_boiled	Moth beans, boiled	0	1634.0
+1641	Okara	Okara	0	1641.0
+1642	Peanut_flour_defatted_salted	Peanut flour, defatted, salted	0	1642.0
+1643	Peanuts_all_types_boiled_salted	Peanuts, all types, boiled, salted	0	1643.0
+1644	Peanuts_Spanish_oil_roasted	Peanuts, Spanish, oil-roasted	0	1644.0
+1645	Peas_pigeon_red_gram_boiled	Peas, pigeon (red gram), boiled	0	1645.0
+1646	Refried_beans	Refried beans	0	1646.0
+1651	Soy_flour_defatted	Soy flour, defatted	0	1651.0
+1652	Soy_meal_defatted_raw	Soy meal, defatted, raw	0	1652.0
+1653	Soy_sauce_made_from_soy_tamari	Soy sauce (made from soy), tamari	0	1653.0
+1654	Soybean_kernels_roasted_salted	Soybean kernels, roasted, salted	0	1654.0
+1655	Tofu_fried	Tofu, fried	0	1655.0
+1656	Vegetarian_fillets_meatless	Vegetarian fillets, meatless	0	1656.0
+1711	Game_meat_antelope_raw	Game meat, antelope, raw	0	1711.0
+1712	Game_meat_beefalo_composite_cuts_raw	Game meat, beefalo, composite cuts, raw	0	1712.0
+1713	Game_meat_bison_chuck_shoulder_clod_roast_lean_raw	Game meat, bison, chuck, shoulder clod roast, lean, raw	0	1713.0
+1714	Game_meat_boar_wild_raw	Game meat, boar, wild, raw	0	1714.0
+1715	Game_meat_deer_venison_ground_cooked_pan_broiled	Game meat, deer (venison), ground, cooked, pan-broiled	0	1715.0
+1716	Game_meat_elk_ground_cooked_pan_broiled	Game meat, elk, ground, cooked, pan-broiled	0	1716.0
+1717	Game_meat_frog_legs_breaded_and_fried	Game meat, frog legs, breaded and fried	0	1717.0
+1718	Game_meat_goat_raw	Game meat, goat, raw	0	1718.0
+1719	Game_meat_native_agutuk_meat_caribou_Alaskan_ice_cream_	Game meat, native, agutuk, meat-caribou (Alaskan ice cream)	0	1719.0
+1723	Lamb_brain_braised	Lamb, brain, braised	0	1723.0
+1721	Lamb_Canadian_composite_cuts_lean_and_fat_3mm_1_8_trim_raw	Lamb, Canadian, composite cuts, lean and fat, 3mm (1/8) trim, raw	0	1721.0
+1724	Lamb_cubed_for_stew_or_kabob_lean_braised	Lamb, cubed for stew or kabob, lean braised	0	1724.0
+1725	Lamb_heart_braised	Lamb, heart, braised	0	1725.0
+1726	Lamb_kidney_braised	Lamb, kidney, braised	0	1726.0
+1727	Lamb_liver_braised	Lamb, liver, braised	0	1727.0
+1728	Lamb_lungs_braised	Lamb, lungs, braised	0	1728.0
+1729	Lamb_mechanically_separated_raw	Lamb, mechanically separated, raw	0	1729.0
+1722	Lamb_New_Zealand_composite_cuts_fat_cooked	Lamb, New Zealand, composite cuts, fat, cooked	0	1722.0
+1739	Veal_brain_braised	Veal, brain, braised	0	1739.0
+1731	Veal_grain_fed_cutlets_inside_rop_round_pan_fried	Veal, grain-fed, cutlets (inside rop round), pan-fried	0	1731.0
+1735	Veal_leg_round_lean_and_fat_braised	Veal, leg (round), lean and fat, braised	0	1735.0
+1736	Veal_liver_braised	Veal, liver, braised	0	1736.0
+1737	Veal_loin_lean_and_fat_braised	Veal, loin, lean and fat, braised	0	1737.0
+1738	Veal_lungs_braised	Veal, lungs, braised	0	1738.0
+1732	Veal_milk_fed_cutlets_inside_top_round_pan_fried	Veal, milk-fed, cutlets (inside top round), pan-fried	0	1732.0
+1733	Veal_shoulder_blade_lean_and_fat_braised	Veal, shoulder, blade, lean and fat, braised	0	1733.0
+1734	Veal_sirloin_lean_and_fat_braised	Veal, sirloin, lean and fat, braised	0	1734.0
+1811	Bread_stuffing_cornbread_dry_mix_prepared	Bread stuffing, cornbread, dry mix, prepared	0	1811.0
+1816	Bread_French_or_Vienna_also_sourdough_	Bread, French or Vienna (also sourdough)	0	1816.0
+1814	Bread_multigrain_commercial	Bread, multigrain, commercial	0	1814.0
+1817	Bread_oat_includes_oatmeal_and_oat_bran_commercial	Bread, oat (includes oatmeal and oat bran), commercial	0	1817.0
+1815	Bread_sprouted_wheat_with_added_calcium_and_vitamin_D_commercial	Bread, sprouted wheat with added calcium and vitamin D, commercial	0	1815.0
+1812	Bread_wheat_germ	Bread, wheat germ	0	1812.0
+1813	Bread_whole_grain_whole_wheat_seeds_flax_sunflower_commercial_toasted	Bread, whole grain (whole-wheat) + seeds (flax, sunflower), commercial, toasted	0	1813.0
+1821	Cake_mix_angel_food_dry_unprepared	Cake mix, angel food, dry, unprepared	0	1821.0
+1822	Cake_angel_food_commercial	Cake, angel food, commercial	0	1822.0
+1823	Cake_Boston_cream_pie_commercial	Cake, Boston cream pie, commercial	0	1823.0
+1824	Cake_date_square_matrimonial_cake_homemade	Cake, date square (matrimonial cake), homemade	0	1824.0
+1825	Cake_shortcake_biscuit_type_homemade	Cake, shortcake, biscuit-type, homemade	0	1825.0
+1826	Cake_white_homemade_with_coconut_icing_frosting_	Cake, white, homemade, with coconut icing (frosting)	0	1826.0
+1827	Cake_yellow_plus_streusel_pudding_type_dry_mix_prepared_with_icing	Cake, yellow (plus streusel), pudding-type, dry mix, prepared, with icing	0	1827.0
+1828	Cheesecake_commercial	Cheesecake, commercial	0	1828.0
+1829	Cinnamon_bun_with_icing_honey_bun_	Cinnamon bun, with icing (honey bun)	0	1829.0
+1837	Cookie_animal_crackers_arrowroot_social_tea_	Cookie, animal crackers (arrowroot, social tea)	0	1837.0
+1831	Cookie_chocolate_chip_commercial_regular_higher_fat	Cookie, chocolate chip, commercial, regular, higher fat	0	1831.0
+1832	Cookie_oatmeal_with_or_without_raisins_commercial	Cookie, oatmeal (with or without raisins), commercial	0	1832.0
+1833	Cookie_peanut_butter_sandwich	Cookie, peanut butter sandwich	0	1833.0
+1834	Cookie_raisin_soft_type	Cookie, raisin, soft-type	0	1834.0
+1835	Cookie_sugar_wafer_sandwich_with_cream_filling	Cookie, sugar wafer sandwich with cream filling	0	1835.0
+1836	Cookie_vanilla_sandwich_with_cream_filling	Cookie, vanilla sandwich with cream filling	0	1836.0
+1844	Cracker_meal	Cracker meal	0	1844.0
+1845	Cracker_crispbread_rye	Cracker, crispbread, rye	0	1845.0
+1846	Cracker_melba_toast_plain	Cracker, melba toast, plain	0	1846.0
+1847	Cracker_milk	Cracker, milk	0	1847.0
+1841	Cracker_saltine_also_oyster_soda_soup_	Cracker, saltine (also oyster, soda, soup)	0	1841.0
+1842	Cracker_standard_snack_type_low_sodium	Cracker, standard snack type, low sodium	0	1842.0
+1843	Cracker_wheat	Cracker, wheat	0	1843.0
+1851	English_muffin_multigrain_also_granola_	English muffin, multigrain (also granola)	0	1851.0
+1852	Muffin_bar_all_flavours	Muffin bar, all flavours	0	1852.0
+1853	Muffin_carrot_commercial	Muffin, carrot, commercial	0	1853.0
+1854	Muffin_wheat_bran_dry_mix_prepared	Muffin, wheat bran, dry mix, prepared	0	1854.0
+1861	Pancake_blueberry_homemade	Pancake, blueberry, homemade	0	1861.0
+1862	Pancake_buttermilk_homemade	Pancake, buttermilk, homemade	0	1862.0
+1863	Pancake_plain_homemade	Pancake, plain, homemade	0	1863.0
+1871	Pie_crust_cookie_type_chocolate_ready_to_serve	Pie crust, cookie-type, chocolate, ready-to-serve	0	1871.0
+1872	Pie_crust_standard_type_frozen_ready_to_bake	Pie crust, standard type, frozen, ready-to-bake	0	1872.0
+1873	Pie_apple_commercial_2_crust	Pie, apple, commercial, 2 crust	0	1873.0
+1874	Pie_fried_cherry	Pie, fried, cherry	0	1874.0
+1881	Roll_kaiser_hard	Roll (kaiser), hard	0	1881.0
+1882	Shake_and_bake_dry	Shake and bake, dry	0	1882.0
+1886	Taco_shell_baked	Taco shell, baked	0	1886.0
+1883	Toaster_pastry_brown_sugar_and_cinnamon	Toaster pastry, brown sugar and cinnamon	0	1883.0
+1884	Waffle_buttermilk_frozen_ready_to_heat	Waffle, buttermilk, frozen, ready-to-heat	0	1884.0
+1885	Wonton_wrapper_egg_roll_wrapper_	Wonton wrapper (egg roll wrapper)	0	1885.0
+1899	Bagel_cinnamon_raisin	Bagel, cinnamon-raisin	0	1899.0
+1891	Biscuit_multigrain_refrigerated_dough	Biscuit, multigrain, refrigerated dough	0	1891.0
+1892	Bread_crumbs_dry_grated_plain	Bread crumbs, dry, grated, plain	0	1892.0
+1897	Breakfast_bar_corn_flake_crust_with_fruit	Breakfast bar, corn flake crust with fruit	0	1897.0
+1898	Croissant_apple_commercial	Croissant, apple, commercial	0	1898.0
+1896	Doughnut_donut_cake_type_chocolate_sugared_or_glazed	Doughnut (donut), cake-type, chocolate, sugared or glazed	0	1896.0
+1894	Granola_bar_All_Bran_bars_and_snack_bites_all_flavours_Kelloggs	Granola bar, All Bran, bars and snack bites, all flavours, Kelloggs	0	1894.0
+1895	Leavening_agent_baking_powder_double_acting_phosphate	Leavening agent, baking powder, double acting, phosphate	0	1895.0
+1911	Candied_foods_cherries	Candied foods, cherries	0	1911.0
+1912	Candies_bar_crispy_bar_with_peanut_butter_filling	Candies, bar, crispy bar with peanut butter filling	0	1912.0
+1913	Candies_butterscotch	Candies, butterscotch	0	1913.0
+1914	Candies_chocolate_covered_dietetic_or_low_calorie	Candies, chocolate covered, dietetic or low calorie	0	1914.0
+1915	Candies_fudge_chocolate_marshmallow_with_nuts_homemade	Candies, fudge, chocolate marshmallow with nuts, homemade	0	1915.0
+1916	Candies_Golden_Almond_Solitaires_chocolate_with_almonds	Candies, Golden Almond Solitaires, chocolate with almonds	0	1916.0
+1917	Candies_M_Ms_Almond_Chocolate_Candies	Candies, M&Ms Almond Chocolate Candies	0	1917.0
+1918	Candies_marshmallow	Candies, marshmallow	0	1918.0
+1919	Candies_Skittles	Candies, Skittles	0	1919.0
+1926	Dessert_apple_crisp_homemade	Dessert, apple crisp, homemade	0	1926.0
+1925	Dessert_flan_caramel_custard_dry_mix_prepared_with_2_milk	Dessert, flan, caramel custard, dry mix, prepared with 2 milk	0	1925.0
+1921	Dessert_frozen_yogourt	Dessert, frozen yogourt	0	1921.0
+1922	Dessert_gelatin_dry_mix_prepared_with_water	Dessert, gelatin dry mix, prepared with water	0	1922.0
+1923	Dessert_pudding_all_flavours_except_chocolate_dry_mix_instant_low_calorie_unprepared	Dessert, pudding, all flavours except chocolate, dry mix, instant, low calorie, unprepared	0	1923.0
+1924	Dessert_rennin_chocolate_dry_mix_made_with_2_milk	Dessert, rennin, chocolate, dry mix, made with 2 milk	0	1924.0
+1932	Dulce_de_leche_caramelized_milk_	Dulce de leche (caramelized milk)	0	1932.0
+1931	Icing_frosting_chocolate_creamy_dry_mix_prepared_with_butter	Icing (frosting), chocolate, creamy, dry mix, prepared with butter	0	1931.0
+1941	Sweetener_aspartame_EQUAL	Sweetener, aspartame, EQUAL	0	1941.0
+1942	Sweets_topping_marshmallow_cream	Sweets,  topping, marshmallow cream	0	1942.0
+1943	Sweets_chocolate_semisweet_made_with_butter	Sweets, chocolate, semisweet, made with butter	0	1943.0
+1944	Sweets_confectioners_coating_chips_butterscotch	Sweets, confectioners coating / chips, butterscotch	0	1944.0
+1945	Sweets_jams_and_preserves	Sweets, jams and preserves	0	1945.0
+1946	Sweets_pectin_unsweetened_dry_mix	Sweets, pectin, unsweetened, dry mix	0	1946.0
+1947	Sweets_sugar_brown	Sweets, sugar, brown	0	1947.0
+1948	Sweets_syrup_table_blend_pancake	Sweets, syrup, table blend, pancake	0	1948.0
+1949	Sweets_topping_spread_butterscotch_or_caramel	Sweets, topping (spread), butterscotch or caramel	0	1949.0
+1951	Chocolate_syrup_thin_type	Chocolate syrup, thin type	0	1951.0
+1952	Chocolate_syrup_thin_type_Calorie_reduced	Chocolate syrup, thin type, Calorie-reduced	0	1952.0
+2011	Grains_amaranth_cooked	Grains, amaranth, cooked	0	2011.0
+2012	Grains_arrowroot_flour	Grains, arrowroot flour	0	2012.0
+2013	Grains_buckwheat	Grains, buckwheat	0	2013.0
+2014	Grains_bulgur_cooked	Grains, bulgur, cooked	0	2014.0
+2015	Grains_couscous_cooked	Grains, couscous, cooked	0	2015.0
+2016	Grains_hominy_canned_yellow	Grains, hominy, canned, yellow	0	2016.0
+2017	Grains_oat_bran_cooked	Grains, oat bran, cooked	0	2017.0
+2018	Grains_quinoa_cooked	Grains, quinoa, cooked	0	2018.0
+2019	Grains_rice_and_vermicelli_mix_beef_flavour_prepared_with_margarine	Grains, rice and vermicelli mix, beef flavour, prepared with margarine	0	2019.0
+2021	Pasta_Chinese_noodles_chow_mein	Pasta, Chinese noodles, chow mein	0	2021.0
+2022	Pasta_fresh_refrigerated_plain_as_purchased	Pasta, fresh-refrigerated, plain, as purchased	0	2022.0
+2023	Pasta_Japanese_noodles_soba_cooked	Pasta, Japanese noodles, soba, cooked	0	2023.0
+2024	Pasta_macaroni_elbow_enriched_cooked	Pasta, macaroni (elbow), enriched, cooked	0	2024.0
+2025	Pasta_made_with_egg_homemade_cooked	Pasta, made with egg, homemade, cooked	0	2025.0
+2112	Fast_foods_breakfast_croissant_with_egg_and_cheese	Fast foods, breakfast, croissant with egg and cheese	0	2112.0
+2113	Fast_foods_breakfast_english_muffin_with_butter	Fast foods, breakfast, english muffin with butter	0	2113.0
+2114	Fast_foods_breakfast_french_toast_sticks	Fast foods, breakfast, french toast sticks	0	2114.0
+2211	Beef_pot_pie_frozen_prepared	Beef pot pie, frozen, prepared	0	2211.0
+2212	Beef_stew_with_potatoes_and_vegetables	Beef stew with potatoes and vegetables	0	2212.0
+2221	Chicken_breast_with_broccoli_and_cheese_stuffing_frozen	Chicken breast with broccoli and cheese stuffing, frozen	0	2221.0
+2232	Chinese_dish_beef_and_vegetable_restaurant_prepared	Chinese dish, beef and vegetable, restaurant prepared	0	2232.0
+2241	Sandwich_ham_homemade	Sandwich, ham, homemade	0	2241.0
+2242	Spaghetti_and_meatballs_restaurant_prepared	Spaghetti and meatballs, restaurant prepared	0	2242.0
+2243	Stir_fry_with_beef	Stir fry with beef	0	2243.0
+2244	Stuffed_cabbage_with_meat_in_tomato_sauce_and_whipped_potatoes_frozen	Stuffed cabbage with meat in tomato sauce and whipped potatoes, frozen	0	2244.0
+2245	Tamale_Navajo_	Tamale (Navajo)	0	2245.0
+2246	Taquito_beef_and_cheese_frozen_heated_in_oven	Taquito, beef and cheese, frozen, heated in oven	0	2246.0
+2251	Lasagna_with_meat_and_sauce_frozen	Lasagna with meat and sauce, frozen	0	2251.0
+2252	Lemon_chicken_restaurant_prepared	Lemon chicken, restaurant prepared	0	2252.0
+2253	Macaroni_and_beef_in_tomato_sauce_frozen	Macaroni and beef in tomato sauce, frozen	0	2253.0
+2254	Meat_loaf_with_tomato_sauce_mashed_potatoes_and_peas	Meat loaf with tomato sauce, mashed potatoes and peas	0	2254.0
+2255	Pad_tha_with_chicken	Pad thaï with chicken	0	2255.0
+2256	Pizza_roll_frozen_unprepared	Pizza roll, frozen, unprepared	0	2256.0
+2257	Quesadilla_with_cheese	Quesadilla with cheese	0	2257.0
+2258	Quinoa_burger_patty_frozen	Quinoa burger patty, frozen	0	2258.0
+2261	Ravioli_cheese_and_tomato_sauce_frozen_not_prepared	Ravioli, cheese and tomato sauce, frozen, not prepared	0	2261.0
+2262	Rice_Spanish_rice	Rice, Spanish rice	0	2262.0
+2263	Salad_caesar_with_chicken_homemade	Salad, caesar with chicken, homemade	0	2263.0
+2264	Salisbury_steak_in_gravy_with_macaroni_and_cheese_frozen	Salisbury steak in gravy with macaroni and cheese, frozen	0	2264.0
+2271	Chop_suey_with_meat_canned	Chop suey, with meat, canned	0	2271.0
+2272	Egg_roll_assorted_restaurant_prepared	Egg roll, assorted, restaurant prepared	0	2272.0
+2273	Fajita_with_chicken_and_vegetables	Fajita with chicken and vegetables	0	2273.0
+2281	Chili_con_carne_with_beans_canned	Chili con carne with beans, canned	0	2281.0
+2291	Breakfast_scrambled_eggs_sausage_with_hashed_brown_potatoes_frozen	Breakfast, scrambled eggs & sausage with hashed brown potatoes, frozen	0	2291.0
+2292	Burrito_bean_and_cheese_frozen	Burrito, bean and cheese, frozen	0	2292.0
+2293	Burrito_beef_and_bean_frozen	Burrito, beef and bean, frozen	0	2293.0
+2294	Burrito_beef_and_bean_microwaved	Burrito, beef and bean, microwaved	0	2294.0
+2295	Cheese_souffle	Cheese souffle	0	2295.0
+2511	Snacks_corn_cakes	Snacks, corn cakes	0	2511.0
+2512	Snacks_popcorn_air_popped	Snacks, popcorn, air-popped	0	2512.0
+2521	Snacks_potato_chips_barbecue_flavour	Snacks, potato chips, barbecue flavour	0	2521.0
+2522	Snacks_pretzels_hard_chocolate_coated	Snacks, pretzels, hard, chocolate coated	0	2522.0
+2523	Snacks_rice_cakes_brown_rice_buckwheat	Snacks, rice cakes, brown rice, buckwheat	0	2523.0
+2531	Snacks_RICE_KRISPIES_SQUARES	Snacks, RICE KRISPIES SQUARES	0	2531.0
+2532	Snacks_tortilla_chips_light_baked_with_less_oil_	Snacks, tortilla chips, light (baked with less oil)	0	2532.0
+2533	Snacks_trail_mix_regular	Snacks, trail mix, regular	0	2533.0
+2534	Snacks_vegetable_chips	Snacks, vegetable chips	0	2534.0
+2535	Snacks_fruit_leather_bar	Snacks, fruit leather, bar	0	2535.0
+2536	Snacks_multigrain_chips_plain	Snacks, multigrain chips, plain	0	2536.0
