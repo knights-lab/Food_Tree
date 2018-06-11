@@ -26,7 +26,6 @@ format.foods(input_fn="../../Jens/FOOD_NAME_recode_min.txt", output_fn = "data/J
 format.foods(input_fn="data/JENS/diet_records_new_foodcodes.txt", output_fn="data/JENS/dietrecords.txt", dedupe=F)
 
 
-
 # next check to make sure the database has all the foods in the foods file
 check.db(food_database_fn = "data/Jens/JensDatabase.txt", food_records_fn="data/JENS/dietrecords.txt", output_fn="data/JENS/missing.txt")
 
