@@ -18,7 +18,7 @@ option_list = list(
   make_option(c('-i', '--input_fn'),
               help= 'Necessary: food table to be formatted', 
               default=NA, type='character'),
-  make_option(c('-o', '--output'),
+  make_option(c('-o', '--output_fn'),
               help = 'Necessary: direct location of output file',
               default=NA, type='character')
 )
