@@ -18,7 +18,7 @@ PREREQUISITES
         ModCode
 5. To create fiber.otu table diet records must contain all of the above plus a fiber variable labeled:
         FIBE
-6. To create dhydrated food weight diet records must contain all of the above plus:
+6. To create dehydrated food weight diet records must contain all of the above plus:
         MOIS
      
 ** Avoid opening any data files in Excel because FoodIDs such as 2323523.1999 get rounded to 2323523.2!
