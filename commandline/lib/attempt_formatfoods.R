@@ -15,27 +15,32 @@ usage = 'Used to format the food file inputted by the user.'
 #make option list 
 #To do: find characteristics "type" of data input (ex: numeric vs. character)
 option_list = list(
-  make_option(c('-i', '--input_fn'),
+  make_option(c('-i', '--input'),
               help= 'Necessary: food table to be formatted', 
               default=NA, type='character'),
-  make_option(c('-o', '--output_fn'),
+  make_option(c('-o', '--output'),
               help = 'Necessary: direct location of output file',
+              default=NA, type='character'),
+  make_option(c('-d', '--dedupe'),
+              help = 'dedupe = T by defult, change to F if fasle',
               default=NA, type='character')
 )
 
 #this line is present in splinectomer and I'm not sure what it does
 opt = parse_args(OptionParser(usage=usage, option_list=option_list))
 
-if (is.na(opt$input_fn)) {
+if (is.na(opt$input) | is.na(opt$output) | is.na(opt$dedupe)) {
   stop('Missing data to be formatted')
 }
 
-input_fn = opt$input_fn
-output_fn = opt$output_fn
+#parse commmand line
+input = opt$input
+output = opt$output
+dedupe = opt$dedupe
 
-format.foods <- function(input_fn, output_fn, dedupe=T)
+format.foods <- function(input, output, dedupe=T)
 {
-  fdata <- read.table(input_fn, header = TRUE, sep="\t", colClasses="character", quote="", strip.white=T)
+  fdata <- read.table(input, header = TRUE, sep="\t", colClasses="character", quote="", strip.white=T)
   
   # if it exists as a column, reformat the Main.food.description
   if(sum(colnames(fdata) == "Main.food.description") == 1){
@@ -55,6 +60,13 @@ format.foods <- function(input_fn, output_fn, dedupe=T)
   if(dedupe) fdata <- fdata[!duplicated(fdata$FoodID),]
   
   # write everything out so that we have it for reference
-  write.table(fdata, output_fn, sep = "\t", quote = FALSE, row.names = FALSE)
+  write.table(fdata, output, sep = "\t", quote = FALSE, row.names = FALSE)
 }
+
+format.foods(input, output, dedupe = T)
+
+#PS C:\Users\madel\Documents\KnightsLab> Rscript C:\Users\madel\Documents\KnightsLab\Food_Tree\commandline\lib\attempt
+#_formatfoods.R -i C:\Users\madel\Documents\KnightsLab\Food_Tree\raw_data\all.food.desc.txt -o C:\Users\madel\Document
+#s\output\formatfoods.txt
+
 

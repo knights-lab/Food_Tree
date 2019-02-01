@@ -3,47 +3,49 @@ suppressPackageStartupMessages(require(viridisLite))
 suppressPackageStartupMessages(require(dplyr))
 suppressPackageStartupMessages(require(tidyr))
 suppressPackageStartupMessages(require(reshape2))
+suppressPackageStartupMessages(require(optparse))
+
 
 usage = 'This function takes an id-to-description food file and named nodes, then constructs a newick tree.'
 
 option_list = list(
-  make_option(c('-n', '--nodes_fn'),
+  make_option(c('-n', '--nodes'),
               help = 'Direct path to nodes file',
               default=NA, type='character'),
-  make_option(c('-d', '--food_database_fn'),
+  make_option(c('-d', '--food_database'),
               help = 'Direct path to food_database file',
               default=NA, type = 'character'),
-  make_option(c('-f', '--output_tree_fn'),
+  make_option(c('-f', '--output_tree'),
               help = 'Direct path for output file',
               default=NA, type = 'character'),
-  make_option(c('-t', '--output_taxonomy_fn'),
+  make_option(c('-t', '--output_taxonomy'),
               help = 'Direct path for output taxonomy',
               default=NA, type='character')
 )
 
 opt <- parse_args(OptionParser(usage=usage, option_list=option_list))
 
-if (is.na(opt$nodes_fn) | is.na(opt$food_database_fn) | is.na(opt$output_tree_fn) | is.na(opt$output_taxonomy_fn)) {
+if (is.na(opt$nodes) | is.na(opt$food_database) | is.na(opt$output_tree) | is.na(opt$output_taxonomy)) {
   stop('Missing required parameters.')
 }  
   
-nodes_fn <- opt$nodes_fn
-food_database_fn <- opt$food_database_fn
-output_tree_fn <- opt$output_tree_fn
-output_taxonomy_fn <- opt$output_taxonomy_fn
+nodes <- opt$nodes
+food_database <- opt$food_database
+output_tree <- opt$output_tree
+output_taxonomy <- opt$output_taxonomy
 
 
-make.food.tree <- function(nodes_fn, food_database_fn, addl_foods_fn=NULL, output_tree_fn, output_taxonomy_fn, num.levels=5)
+make.food.tree <- function(nodes, food_database, addl_foods=NULL, output_tree, output_taxonomy, num.levels=5)
 {
-  fdata <- read.table(food_database_fn, header = TRUE, sep="\t", colClasses="character", quote="", strip.white=T)
-  nodes <- read.table(nodes_fn, header = TRUE, sep="\t", colClasses="character")
+  fdata <- read.table(food_database, header = TRUE, sep="\t", colClasses="character", quote="", strip.white=T)
+  nodes <- read.table(nodes, header = TRUE, sep="\t", colClasses="character")
   
   main <- fdata[,c("FoodID", "Main.food.description")]
   
   # add additional food codes
-  if(!is.null(addl_foods_fn))
-    for(i in 1:length(addl_foods_fn)){
-      new.foods <- read.table(addl_foods_fn[i], header=T, sep="\t", colClasses="character")
+  if(!is.null(addl_foods))
+    for(i in 1:length(addl_foods)){
+      new.foods <- read.table(addl_foods[i], header=T, sep="\t", colClasses="character")
       main <- rbind(main, new.foods[,c("FoodID", "Main.food.description")])
     }
   # if there happen to be duplicate FoodIDs in main, remove them
@@ -77,11 +79,14 @@ make.food.tree <- function(nodes_fn, food_database_fn, addl_foods_fn=NULL, outpu
   #### Make and export the tree ####
   foodTree <- as.Node(final.table, pathName = "newickstring")
   tree <- recursiveNewickWrite(foodTree)
-  cat(tree, file = output_tree_fn)
+  cat(tree, file = output_tree)
   
   #### Make and export the taxonomy file ####
   export <- final.table %>% select(FoodID, taxonomy, Main.food.description)
   export$Main.food.description <- gsub("_", " ", export$Main.food.description)
-  write.table(export, output_taxonomy_fn, sep = "\t", quote = FALSE, row.names = FALSE)
+  write.table(export, output_taxonomy, sep = "\t", quote = FALSE, row.names = FALSE)
   
 }
+
+make.food.tree(nodes, food_database, output_tree, output_taxonomy)
+
